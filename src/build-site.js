@@ -1,6 +1,6 @@
-// Build the static site's data file from data/games.json.
-// Emits site/games-data.js as `window.GAMES = [...]` so the page works even
-// when opened directly from disk (no server / no fetch-CORS needed).
+// Build the static site from data/games.json (+ optional data/scoresheets.json).
+// Injects the game data into src/site-template.html and writes a single
+// self-contained docs/index.html — what GitHub Pages serves.
 
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -42,8 +42,8 @@ function clubsFor(a, b) {
 }
 
 // --- Scoresheet (PDF) matching ------------------------------------------
-// Fuzzy-match a YouTube game to a timetoscore scorecard from the norcal DB
-// snapshot (data/scoresheets.json, produced by tools/export-scoresheets.py).
+// Fuzzy-match a YouTube game to a timetoscore scorecard from the norcal
+// snapshot (data/scoresheets.json, produced by tools/import-scoresheets.mjs).
 // Matches on date proximity + team identity, tolerant of abbreviations
 // ("TVBD" = Tri Valley Blue Devils). Leans toward showing a close match;
 // a wrong one is acceptable, a lone weak/generic token match is not.

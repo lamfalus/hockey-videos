@@ -4,7 +4,7 @@ Pulls every game video from a YouTube channel, parses the title into structured
 game data (teams, date, game #, score), matches each to its official
 timetoscore scoresheet PDF, and publishes a small filterable website.
 
-**Live site:** _(GitHub Pages URL appears here after the first deploy)_
+**Live site:** https://lamfalus.github.io/hockey-videos/
 
 ## How it works
 
