@@ -1,0 +1,13 @@
+[Unit]
+Description=Run the hockey-videos refresh periodically
+
+[Timer]
+# First run 5 min after boot, then every 30 min — new uploads appear within
+# ~30 min. Bump OnUnitActiveSec down (e.g. 15min) for snappier pickup, or up
+# (e.g. 1h) to run less often. Persistent catches up a missed run after downtime.
+OnBootSec=5min
+OnUnitActiveSec=30min
+Persistent=true
+
+[Install]
+WantedBy=timers.target

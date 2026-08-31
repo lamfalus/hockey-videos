@@ -1,0 +1,14 @@
+[Unit]
+Description=Refresh hockey-videos site (YouTube + scoresheets) and publish to GitHub Pages
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+# --- adjust these three to match your Pi ---
+User=pi
+WorkingDirectory=/home/pi/hockey-videos
+Environment=NORCAL_DIR=/home/pi/norcal-hockey
+# Make sure git/node/npm are on PATH for a non-login service shell:
+Environment=PATH=/usr/local/bin:/usr/bin:/bin
+ExecStart=/home/pi/hockey-videos/deploy/pi-refresh.sh

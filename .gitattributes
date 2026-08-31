@@ -1,0 +1,6 @@
+# Scripts and unit files run on Linux (the Pi) — keep LF endings so bash and
+# systemd don't choke on carriage returns, even when committed from Windows.
+*.sh            text eol=lf
+*.service       text eol=lf
+*.timer         text eol=lf
+deploy/pi-refresh.sh text eol=lf

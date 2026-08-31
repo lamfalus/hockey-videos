@@ -14,10 +14,15 @@ import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
-const DEFAULT_NORCAL = "C:\\Users\\lamfa\\Projects\\norcal-hockey";
 const SCORECARD_URL = "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=";
 
-const norcal = process.argv[2] || DEFAULT_NORCAL;
+// Location of the norcal-hockey checkout. Override with the NORCAL_DIR env var
+// or a CLI arg (the Pi and this PC keep it in different places).
+const DEFAULT_NORCAL =
+  process.platform === "win32"
+    ? "C:\\Users\\lamfa\\Projects\\norcal-hockey"
+    : path.join(process.env.HOME || "", "norcal-hockey");
+const norcal = process.argv[2] || process.env.NORCAL_DIR || DEFAULT_NORCAL;
 const gamesDir = path.join(norcal, "data", "app", "games");
 if (!fs.existsSync(gamesDir)) {
   console.error(`norcal app games not found at ${gamesDir}`);
