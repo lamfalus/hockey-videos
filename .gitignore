@@ -1,0 +1,13 @@
+node_modules/
+
+# Secrets — never commit anything in here
+credentials/
+
+# Large raw pull cache (the parsed data/games.json is committed instead)
+data/videos.raw.json
+
+# Scratch
+*.log
+
+# Stale local preview dir (build now outputs to docs/)
+/site/

@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Lamfalusi Hockey — Game Videos</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --text: #14181f;
+    --muted: #5b6472;
+    --border: #e2e6ec;
+    --accent: #0b62d6;
+    --accent-ink: #ffffff;
+    --win: #1a8f4c;
+    --loss: #cf3b3b;
+    --tie: #7a8393;
+    --chip: #eef2f7;
+    --shadow: 0 1px 2px rgba(20,24,31,.06), 0 2px 8px rgba(20,24,31,.05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1319;
+      --card: #171c24;
+      --text: #e8ecf2;
+      --muted: #9aa4b2;
+      --border: #262d38;
+      --accent: #4c9bff;
+      --accent-ink: #05244f;
+      --win: #37c172;
+      --loss: #ff6b6b;
+      --tie: #8b95a5;
+      --chip: #1e242d;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 2px 10px rgba(0,0,0,.25);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    position: sticky; top: 0; z-index: 5;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  .wrap { max-width: 820px; margin: 0 auto; padding: 0 16px; }
+  h1 { font-size: 19px; margin: 0; padding: 14px 0 4px; letter-spacing: -.01em; }
+  h1 span { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; padding-bottom: 12px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; padding-bottom: 12px; }
+  input[type=search], select {
+    font: inherit; color: var(--text); background: var(--card);
+    border: 1px solid var(--border); border-radius: 10px; padding: 9px 11px;
+    outline: none; min-height: 40px;
+  }
+  /* Native dropdown option list uses the OS palette; force readable colors so
+     options aren't light-on-light (or dark-on-dark) in either theme. */
+  select option { color: #14181f; background: #ffffff; }
+  input[type=search] { flex: 1 1 200px; }
+  input[type=search]:focus, select:focus { border-color: var(--accent); }
+  .count { color: var(--muted); font-size: 13px; padding: 6px 0 14px; }
+
+  main { max-width: 820px; margin: 0 auto; padding: 4px 16px 60px; }
+  .list { border: 1px solid var(--border); border-radius: 12px; overflow: hidden; background: var(--card); box-shadow: var(--shadow); }
+  .game {
+    display: flex; align-items: center; gap: 10px;
+    padding: 7px 12px; border-top: 1px solid var(--border);
+  }
+  .game:first-child { border-top: none; }
+  .game:hover { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+  .date {
+    flex: 0 0 auto; min-width: 92px; color: var(--muted);
+    font-size: 13px; white-space: nowrap; font-variant-numeric: tabular-nums;
+  }
+  .body { flex: 1 1 auto; min-width: 0; display: flex; align-items: center; gap: 7px; flex-wrap: wrap; }
+  .match { font-weight: 600; font-size: 14px; }
+  .match .vs { color: var(--muted); font-weight: 400; margin: 0 4px; }
+  .badge {
+    font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 999px; color: #fff;
+  }
+  .badge.win { background: var(--win); }
+  .badge.loss { background: var(--loss); }
+  .badge.tie { background: var(--tie); }
+  .chip { font-size: 11px; color: var(--muted); background: var(--chip); padding: 1px 7px; border-radius: 999px; }
+  .actions { flex: 0 0 auto; margin-left: auto; display: flex; align-items: center; gap: 6px; }
+  .watch {
+    text-decoration: none; font-weight: 600;
+    font-size: 12px; color: var(--accent-ink); background: var(--accent);
+    padding: 4px 11px; border-radius: 7px; white-space: nowrap;
+  }
+  .watch:hover { filter: brightness(1.06); }
+  .sheet {
+    text-decoration: none; font-weight: 600; font-size: 12px;
+    color: var(--muted); background: transparent; border: 1px solid var(--border);
+    padding: 3px 9px; border-radius: 7px; white-space: nowrap;
+  }
+  .sheet:hover { color: var(--text); border-color: var(--accent); }
+  .empty { text-align: center; color: var(--muted); padding: 40px 0; }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 24px 0 40px; }
+  @media (max-width: 520px) {
+    .date { min-width: 78px; font-size: 12px; }
+    .match { font-size: 13px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1><span>&#127954;</span> Lamfalusi Hockey <span style="color:var(--muted);font-weight:400;font-size:14px">· game videos</span></h1>
+    <div class="sub" id="tagline">Every recorded game, newest first.</div>
+    <div class="controls">
+      <input type="search" id="q" placeholder="Search team or opponent…" autocomplete="off" />
+      <select id="club"><option value="">All clubs</option></select>
+      <select id="year"><option value="">All years</option></select>
+    </div>
+    <div class="count" id="count"></div>
+  </div>
+</header>
+<main id="list"></main>
+<footer>Links are unlisted YouTube videos — anyone with the link can watch, they won't show up in search.</footer>
+
+<!--DATA-->
+<script>
+  const GAMES = (window.GAMES || []).filter(g => g.teamA && g.teamB);
+  const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+
+  const qEl = document.getElementById("q");
+  const clubEl = document.getElementById("club");
+  const yearEl = document.getElementById("year");
+  const countEl = document.getElementById("count");
+  const listEl = document.getElementById("list");
+
+  // Build club dropdown from the recency-ordered CLUBS list
+  // (clubs you're actively recording appear first).
+  (window.CLUBS || []).forEach(c => {
+    const o = document.createElement("option");
+    o.value = c.id; o.textContent = `${c.label} (${c.count})`;
+    clubEl.appendChild(o);
+  });
+
+  // Year dropdown. Default the view to the most recent season so families land
+  // on current games; "All years" is still one click away.
+  const years = [...new Set(GAMES.map(g => (g.date||"").slice(0,4)).filter(Boolean))].sort().reverse();
+  years.forEach(y => {
+    const o = document.createElement("option");
+    o.value = y; o.textContent = y;
+    yearEl.appendChild(o);
+  });
+  if (years.length) yearEl.value = years[0];
+
+  function esc(s){ return (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+  function render() {
+    const q = qEl.value.trim().toLowerCase();
+    const club = clubEl.value;
+    const year = yearEl.value;
+
+    const rows = GAMES.filter(g => {
+      if (club && !(g.clubs || []).includes(club)) return false;
+      if (year && (g.date||"").slice(0,4) !== year) return false;
+      if (q) {
+        const hay = (g.teamA + " " + g.teamB + " " + g.title).toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+
+    countEl.textContent = `${rows.length} game${rows.length===1?"":"s"}`;
+
+    if (!rows.length) { listEl.innerHTML = `<div class="empty">No games match.</div>`; return; }
+
+    listEl.innerHTML = `<div class="list">` + rows.map(g => {
+      const [y,m,d] = (g.date||"----01-01").split("-").map(Number);
+      const dateText = `${MON[(m||1)-1]} ${d||"?"}, ${y||""}`;
+
+      let badge = "";
+      if (g.result && g.result.outcome) {
+        const o = g.result.outcome.toLowerCase();
+        const kind = o.includes("win") ? "win" : o.includes("loss") ? "loss" : "tie";
+        const score = (g.result.for!=null && g.result.against!=null) ? ` ${g.result.for}-${g.result.against}` : "";
+        badge = `<span class="badge ${kind}">${esc(g.result.outcome)}${score}</span>`;
+      }
+      const chips = [];
+      if (g.gameNum) chips.push(`<span class="chip">Game ${g.gameNum}</span>`);
+      if (g.scrimmage) chips.push(`<span class="chip">Scrimmage</span>`);
+      if (g.dateSource === "upload") chips.push(`<span class="chip">approx. date</span>`);
+      const meta = badge + chips.join("");
+
+      const sheet = g.sheetUrl
+        ? `<a class="sheet" href="${esc(g.sheetUrl)}" target="_blank" rel="noopener" title="Official scoresheet (PDF)">Sheet</a>`
+        : "";
+
+      return `<div class="game">
+        <span class="date">${dateText}</span>
+        <div class="body">
+          <span class="match">${esc(g.teamA)}<span class="vs">vs</span>${esc(g.teamB)}</span>
+          ${meta}
+        </div>
+        <div class="actions">
+          ${sheet}
+          <a class="watch" href="${esc(g.url)}" target="_blank" rel="noopener">Watch ▸</a>
+        </div>
+      </div>`;
+    }).join("") + `</div>`;
+  }
+
+  qEl.addEventListener("input", render);
+  clubEl.addEventListener("change", render);
+  yearEl.addEventListener("change", render);
+  document.getElementById("tagline").textContent =
+    `${GAMES.length} recorded games across ${years.length} seasons · newest first`;
+  render();
+</script>
+</body>
+</html>
