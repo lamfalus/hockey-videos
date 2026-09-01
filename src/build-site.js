@@ -57,16 +57,30 @@ const sheetSig = (name) =>
     // so teams aren't matched merely by sharing a division.
     (t) => !/^\d+$/.test(t) && !/^\d+[a-z]{1,3}$/.test(t) && !SHEET_DROP.has(t)
   ));
-const sheetInitials = (name) => sheetToks(name).filter((t) => /[a-z]/.test(t)).map((w) => w[0]).join("");
+// Significant tokens in order (same filter as sheetSig, but keeps sequence).
+const sheetSigToks = (name) =>
+  sheetToks(name).filter((t) => !/^\d+$/.test(t) && !/^\d+[a-z]{1,3}$/.test(t) && !SHEET_DROP.has(t));
 function isSubseq(sub, seq) { let i = 0; for (const ch of seq) if (ch === sub[i]) i++; return i === sub.length; }
 function sheetSide(ytSet, dbSet, dbName) {
   let nonWeak = 0, weak = 0;
   for (const t of ytSet) if (dbSet.has(t)) (SHEET_WEAK.has(t) ? weak++ : nonWeak++);
   let abbrev = false;
   if (nonWeak === 0) {
-    const init = sheetInitials(dbName);
-    // ≥3 letters: 2-letter "abbreviations" (e.g. a "(LB)" note) match too loosely.
-    for (const t of ytSet) if (t.length >= 3 && t.length <= 4 && isSubseq(t, init)) { abbrev = true; break; }
+    const toks = sheetSigToks(dbName);
+    const init = toks.map((w) => w[0]).join("");   // "scb" for Santa Clara Blackhawks
+    const concat = toks.join("");                    // "santaclarablackhawks"
+    // 3–5 letter abbreviations: match the word initials (TVBD = Tri Valley Blue
+    // Devils), or, anchored on the first letter, letters in order within the
+    // full name (SCBH = Santa Clara BlackHawks — the H is inside "blackhawks").
+    // 2-letter "abbreviations" (e.g. a "(LB)" note) match too loosely — skipped.
+    for (const t of ytSet) {
+      if (t.length < 3 || t.length > 5) continue;
+      // The in-word (concat) path is loose, so restrict it to vowelless tokens —
+      // real abbreviations (SCBH, TVBD, VJGK) have no vowels; real words
+      // ("stars", "storm") do and would otherwise match spuriously.
+      const vowelless = !/[aeiou]/.test(t);
+      if (isSubseq(t, init) || (vowelless && t[0] === concat[0] && isSubseq(t, concat))) { abbrev = true; break; }
+    }
   }
   return { ok: nonWeak >= 1 || abbrev || nonWeak + weak >= 2, nonWeak, score: nonWeak * 3 + weak + (abbrev ? 2 : 0) };
 }
