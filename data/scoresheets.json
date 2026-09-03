@@ -89659,5 +89659,16 @@
     "homeGoals": 2,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58971"
+  },
+  {
+    "gameId": 59201,
+    "season": 33,
+    "date": "2026-09-02",
+    "away": "Rose City Pats 18AA",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 0,
+    "homeGoals": 4,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59201"
   }
 ]
