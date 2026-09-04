@@ -89670,5 +89670,16 @@
     "homeGoals": 4,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59201"
+  },
+  {
+    "gameId": 59095,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Aliso Viejo Avalanche",
+    "home": "Tri Valley Bulls 2",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59095"
   }
 ]
