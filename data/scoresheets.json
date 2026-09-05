@@ -89672,6 +89672,61 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59201"
   },
   {
+    "gameId": 56964,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Oakland Bears 10-1",
+    "home": "San Francisco Sabercats 10-1",
+    "awayGoals": 10,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56964"
+  },
+  {
+    "gameId": 56969,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "San Jose Jr Sharks 2017 10-1(4)",
+    "home": "Vacaville Jets 10-1",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56969"
+  },
+  {
+    "gameId": 56973,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Cupertino Cougars 10-1",
+    "home": "San Jose Jr Sharks 2016 10-1",
+    "awayGoals": 2,
+    "homeGoals": 10,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56973"
+  },
+  {
+    "gameId": 56981,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "San Mateo Black Stars 10-2",
+    "home": "Santa Clara Blackhawks 10-1",
+    "awayGoals": 1,
+    "homeGoals": 13,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56981"
+  },
+  {
+    "gameId": 58783,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Junior Reign",
+    "home": "Santa Clara Blackhawks 16A",
+    "awayGoals": 0,
+    "homeGoals": 7,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58783"
+  },
+  {
     "gameId": 59095,
     "season": 33,
     "date": "2026-09-04",
