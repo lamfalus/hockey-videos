@@ -90409,6 +90409,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57011"
   },
   {
+    "gameId": 57521,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Mateo Black Stars 10-3",
+    "home": "Stockton Colts 10-1",
+    "awayGoals": 0,
+    "homeGoals": 13,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57521"
+  },
+  {
+    "gameId": 59029,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Santa Barbara Ice Hawks",
+    "home": "Goldrush Hockey Club",
+    "awayGoals": 3,
+    "homeGoals": 10,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59029"
+  },
+  {
     "gameId": 59040,
     "season": 33,
     "date": "2026-09-05",
@@ -90429,5 +90451,16 @@
     "homeGoals": 2,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59062"
+  },
+  {
+    "gameId": 59084,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Empire Hockey Club BB",
+    "home": "Junior Reign BB",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59084"
   }
 ]
