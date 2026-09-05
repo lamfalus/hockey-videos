@@ -90398,6 +90398,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56986"
   },
   {
+    "gameId": 56987,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Tri Valley Blue Devils 12-1",
+    "home": "San Jose Jr Sharks 2014 12-1",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56987"
+  },
+  {
     "gameId": 56994,
     "season": 33,
     "date": "2026-09-05",
@@ -90440,6 +90451,17 @@
     "homeGoals": 8,
     "level": "10U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57012"
+  },
+  {
+    "gameId": 57013,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Santa Clara Blackhawks 12-1",
+    "home": "Reno Ice 12-1",
+    "awayGoals": 2,
+    "homeGoals": 12,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57013"
   },
   {
     "gameId": 57521,
@@ -90517,6 +90539,28 @@
     "homeGoals": 2,
     "level": "Midget A/JV",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59107"
+  },
+  {
+    "gameId": 59108,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Bishop Broncos JV",
+    "home": "West Ranch Wildcats JV",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59108"
+  },
+  {
+    "gameId": 59119,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "West Ranch Wildcats",
+    "home": "El Segundo Strikers",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59119"
   },
   {
     "gameId": 59129,
