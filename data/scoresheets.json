@@ -89749,6 +89749,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56977"
   },
   {
+    "gameId": 56978,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Tri Valley Blue Devils 10-1",
+    "home": "San Mateo Black Stars 10-1",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56978"
+  },
+  {
     "gameId": 56981,
     "season": 33,
     "date": "2026-09-04",
