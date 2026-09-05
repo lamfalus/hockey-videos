@@ -90420,6 +90420,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56989"
   },
   {
+    "gameId": 56990,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 2015 10-1(3)",
+    "home": "Santa Rosa Flyers 12-1",
+    "awayGoals": 12,
+    "homeGoals": 0,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56990"
+  },
+  {
     "gameId": 56994,
     "season": 33,
     "date": "2026-09-05",
@@ -90616,6 +90627,17 @@
     "homeGoals": 1,
     "level": "10U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59041"
+  },
+  {
+    "gameId": 59042,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Santa Barbara Ice Hawks B",
+    "home": "Junior Reign BB",
+    "awayGoals": 5,
+    "homeGoals": 8,
+    "level": "10U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59042"
   },
   {
     "gameId": 59051,
