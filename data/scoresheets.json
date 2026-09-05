@@ -89683,6 +89683,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56964"
   },
   {
+    "gameId": 56965,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Stockton Colts 10-1",
+    "home": "San Jose Jr Sharks Girls 10G-1",
+    "awayGoals": 12,
+    "homeGoals": 1,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56965"
+  },
+  {
     "gameId": 56969,
     "season": 33,
     "date": "2026-09-04",
@@ -89694,6 +89705,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56969"
   },
   {
+    "gameId": 56970,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Oakland Bears 10-2",
+    "home": "Tri Valley Blue Devils 10-3",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56970"
+  },
+  {
     "gameId": 56973,
     "season": 33,
     "date": "2026-09-04",
@@ -89703,6 +89725,17 @@
     "homeGoals": 10,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56973"
+  },
+  {
+    "gameId": 56974,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "San Francisco Sabercats 10-2",
+    "home": "Santa Clara Blackhawks 10-2",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56974"
   },
   {
     "gameId": 56977,
@@ -89725,6 +89758,17 @@
     "homeGoals": 13,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56981"
+  },
+  {
+    "gameId": 56982,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Stockton Colts Girls 10G-1",
+    "home": "San Jose Jr Sharks 10-6 2017 10-3(6)",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56982"
   },
   {
     "gameId": 58783,
