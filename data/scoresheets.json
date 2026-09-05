@@ -90530,6 +90530,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57014"
   },
   {
+    "gameId": 57015,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Lake Tahoe Grizzlies 14-1",
+    "home": "San Jose Jr Sharks 14-1",
+    "awayGoals": 0,
+    "homeGoals": 15,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57015"
+  },
+  {
+    "gameId": 57021,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks Girls 12AAA",
+    "home": "Tri Valley Blue Devils 12-4",
+    "awayGoals": 14,
+    "homeGoals": 0,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57021"
+  },
+  {
     "gameId": 57521,
     "season": 33,
     "date": "2026-09-05",
@@ -90572,6 +90594,17 @@
     "homeGoals": 1,
     "level": "10U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59040"
+  },
+  {
+    "gameId": 59041,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Empire Hockey Club B",
+    "home": "Aliso Viejo Avalanche B2",
+    "awayGoals": 9,
+    "homeGoals": 1,
+    "level": "10U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59041"
   },
   {
     "gameId": 59051,
@@ -90638,6 +90671,17 @@
     "homeGoals": 2,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59096"
+  },
+  {
+    "gameId": 59097,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "California Wave",
+    "home": "Tri Valley Bulls 2",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59097"
   },
   {
     "gameId": 59106,
