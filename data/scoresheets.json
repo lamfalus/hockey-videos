@@ -90376,6 +90376,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59152"
   },
   {
+    "gameId": 56985,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 10-5 2017 10-2(5)",
+    "home": "Tri Valley Lady Blue Devils 10G-1",
+    "awayGoals": 0,
+    "homeGoals": 5,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56985"
+  },
+  {
     "gameId": 56994,
     "season": 33,
     "date": "2026-09-05",
