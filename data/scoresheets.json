@@ -90442,6 +90442,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56997"
   },
   {
+    "gameId": 56998,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Stockton Colts 12-1",
+    "home": "San Francisco Sabercats 12-1",
+    "awayGoals": 8,
+    "homeGoals": 2,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56998"
+  },
+  {
     "gameId": 57004,
     "season": 33,
     "date": "2026-09-05",
@@ -90583,6 +90594,17 @@
     "homeGoals": 1,
     "level": "14U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59084"
+  },
+  {
+    "gameId": 59085,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "California Surf BB",
+    "home": "Orange County Hockey Club BB",
+    "awayGoals": 1,
+    "homeGoals": 1,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59085"
   },
   {
     "gameId": 59096,
