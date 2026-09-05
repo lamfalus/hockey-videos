@@ -90486,6 +90486,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57013"
   },
   {
+    "gameId": 57014,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Cupertino Cougars 12-1",
+    "home": "Tri Valley Blue Devils 12-2",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57014"
+  },
+  {
     "gameId": 57521,
     "season": 33,
     "date": "2026-09-05",
@@ -90572,6 +90583,17 @@
     "homeGoals": 1,
     "level": "14U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59084"
+  },
+  {
+    "gameId": 59096,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Aliso Viejo Avalanche",
+    "home": "Santa Clara Blackhawks 16A",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59096"
   },
   {
     "gameId": 59106,
