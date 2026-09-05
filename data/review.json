@@ -1300,26 +1300,6 @@
     "uploadDate": "2022-05-30"
   },
   {
-    "videoId": "UATkgBYPkFE",
-    "title": "13 Blazers Game 4",
-    "url": "https://youtu.be/UATkgBYPkFE",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-05-14"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1338,6 +1318,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "stQMWcvU4Ik",
+    "title": "08 Blazers Game 1",
+    "url": "https://youtu.be/stQMWcvU4Ik",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-05-14"
   },
   {
     "videoId": "cRCNnxZIDIA",
@@ -2820,9 +2820,9 @@
     "uploadDate": "2019-05-24"
   },
   {
-    "videoId": "WZPyJz8PfOE",
-    "title": "Spring Peewee Game 1, 5-5-2019",
-    "url": "https://youtu.be/WZPyJz8PfOE",
+    "videoId": "B1vHL8LvNrw",
+    "title": "Lemons Thunderhill May 2019 - Saturday",
+    "url": "https://youtu.be/B1vHL8LvNrw",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -2837,7 +2837,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2019-05-23"
+    "uploadDate": "2019-05-25"
   },
   {
     "videoId": "jBYWMems7YY",
@@ -3900,26 +3900,6 @@
     "uploadDate": "2017-10-13"
   },
   {
-    "videoId": "RLvGFKGT_Jc",
-    "title": "Button Turrible 2017 Trent 2 Saturday Rear",
-    "url": "https://youtu.be/RLvGFKGT_Jc",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2017-10-13"
-  },
-  {
     "videoId": "MJDYNN2S_VQ",
     "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
     "url": "https://youtu.be/MJDYNN2S_VQ",
@@ -3983,6 +3963,26 @@
     "videoId": "r6vPPbY3O68",
     "title": "Button Turrible 2017 Justin Saturday",
     "url": "https://youtu.be/r6vPPbY3O68",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2017-10-14"
+  },
+  {
+    "videoId": "ptIp7X0zoRY",
+    "title": "Button Turrible 2017 Trent 2 Saturday",
+    "url": "https://youtu.be/ptIp7X0zoRY",
     "isGame": false,
     "teamA": null,
     "teamB": null,
