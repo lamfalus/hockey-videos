@@ -90409,6 +90409,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56994"
   },
   {
+    "gameId": 56996,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 10-6 2017 10-3(6)",
+    "home": "Lake Tahoe Grizzlies 10-2",
+    "awayGoals": 7,
+    "homeGoals": 4,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56996"
+  },
+  {
     "gameId": 57011,
     "season": 33,
     "date": "2026-09-05",
@@ -90484,6 +90495,28 @@
     "homeGoals": 1,
     "level": "14U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59084"
+  },
+  {
+    "gameId": 59106,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "California Surf",
+    "home": "El Segundo Strikers JV",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59106"
+  },
+  {
+    "gameId": 59107,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Santa Clara Blackhawks",
+    "home": "IEU Wolverines JV",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59107"
   },
   {
     "gameId": 59129,
