@@ -1320,26 +1320,6 @@
     "uploadDate": "2022-05-14"
   },
   {
-    "videoId": "stQMWcvU4Ik",
-    "title": "08 Blazers Game 1",
-    "url": "https://youtu.be/stQMWcvU4Ik",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-05-14"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1358,6 +1338,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "cRCNnxZIDIA",
+    "title": "08 Blazers Game 2",
+    "url": "https://youtu.be/cRCNnxZIDIA",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-05-13"
   },
   {
     "videoId": "AazPkmrkW8Y",
@@ -3920,26 +3920,6 @@
     "uploadDate": "2017-10-13"
   },
   {
-    "videoId": "ZprP0ZXoG60",
-    "title": "Button Turrible 2017 Mike Saturday Rear",
-    "url": "https://youtu.be/ZprP0ZXoG60",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2017-10-13"
-  },
-  {
     "videoId": "MJDYNN2S_VQ",
     "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
     "url": "https://youtu.be/MJDYNN2S_VQ",
@@ -3983,6 +3963,26 @@
     "videoId": "oR73mtlsvW8",
     "title": "Button Turrible 2017 Mike Saturday",
     "url": "https://youtu.be/oR73mtlsvW8",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2017-10-14"
+  },
+  {
+    "videoId": "r6vPPbY3O68",
+    "title": "Button Turrible 2017 Justin Saturday",
+    "url": "https://youtu.be/r6vPPbY3O68",
     "isGame": false,
     "teamA": null,
     "teamB": null,

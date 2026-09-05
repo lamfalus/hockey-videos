@@ -89870,6 +89870,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56983"
   },
   {
+    "gameId": 56984,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Tri Valley Blue Devils 14-1",
+    "home": "Santa Rosa Flyers 14-1",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56984"
+  },
+  {
     "gameId": 58783,
     "season": 33,
     "date": "2026-09-04",
