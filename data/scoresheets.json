@@ -89705,6 +89705,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56966"
   },
   {
+    "gameId": 56967,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Santa Clara Blackhawks 14-1",
+    "home": "Oakland Bears 14-2",
+    "awayGoals": 11,
+    "homeGoals": 8,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56967"
+  },
+  {
     "gameId": 56969,
     "season": 33,
     "date": "2026-09-04",
@@ -89736,6 +89747,17 @@
     "homeGoals": 4,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56971"
+  },
+  {
+    "gameId": 56972,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Oakland Bears 12-1",
+    "home": "Delta Knights 12G-1",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56972"
   },
   {
     "gameId": 56973,
@@ -89802,6 +89824,17 @@
     "homeGoals": 17,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56979"
+  },
+  {
+    "gameId": 56980,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "San Francisco Sabercats 14-1",
+    "home": "San Jose Jr Sharks 14-2",
+    "awayGoals": 7,
+    "homeGoals": 3,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56980"
   },
   {
     "gameId": 56981,
