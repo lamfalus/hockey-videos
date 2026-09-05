@@ -90374,5 +90374,38 @@
     "homeGoals": 3,
     "level": "8U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59152"
+  },
+  {
+    "gameId": 56994,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Tri Valley Blue Devils 12-2",
+    "home": "San Jose Jr Sharks 2014 12-2",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56994"
+  },
+  {
+    "gameId": 59040,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Junior Reign BB",
+    "home": "California Surf BB",
+    "awayGoals": 9,
+    "homeGoals": 1,
+    "level": "10U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59040"
+  },
+  {
+    "gameId": 59062,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Junior Reign BB",
+    "home": "Toyota Legends B",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59062"
   }
 ]
