@@ -90431,6 +90431,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56996"
   },
   {
+    "gameId": 56997,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Fresno Jr Monsters Girls 10G-1",
+    "home": "Stockton Colts Girls 10G-1",
+    "awayGoals": 3,
+    "homeGoals": 13,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56997"
+  },
+  {
     "gameId": 57011,
     "season": 33,
     "date": "2026-09-05",
@@ -90475,6 +90486,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57521"
   },
   {
+    "gameId": 58784,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "California Surf",
+    "home": "Junior Reign",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58784"
+  },
+  {
     "gameId": 59029,
     "season": 33,
     "date": "2026-09-05",
@@ -90497,6 +90519,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59040"
   },
   {
+    "gameId": 59051,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Mammoth Stars",
+    "home": "California Surf",
+    "awayGoals": 3,
+    "homeGoals": 7,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59051"
+  },
+  {
     "gameId": 59062,
     "season": 33,
     "date": "2026-09-05",
@@ -90506,6 +90539,17 @@
     "homeGoals": 2,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59062"
+  },
+  {
+    "gameId": 59063,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Empire Hockey Club BB",
+    "home": "California Surf B",
+    "awayGoals": 9,
+    "homeGoals": 1,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59063"
   },
   {
     "gameId": 59084,
