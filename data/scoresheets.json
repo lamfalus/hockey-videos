@@ -89793,6 +89793,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56978"
   },
   {
+    "gameId": 56979,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Tri Valley Blue Devils 12-4",
+    "home": "Vacaville Jets 12-1",
+    "awayGoals": 0,
+    "homeGoals": 17,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56979"
+  },
+  {
     "gameId": 56981,
     "season": 33,
     "date": "2026-09-04",
