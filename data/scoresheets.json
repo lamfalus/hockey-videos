@@ -90398,6 +90398,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56994"
   },
   {
+    "gameId": 57011,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Francisco Sabercats 10-1",
+    "home": "San Mateo Black Stars 10-2",
+    "awayGoals": 14,
+    "homeGoals": 0,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57011"
+  },
+  {
     "gameId": 59040,
     "season": 33,
     "date": "2026-09-05",
