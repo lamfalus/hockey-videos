@@ -91342,5 +91342,16 @@
     "homeGoals": 1,
     "level": "10U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59043"
+  },
+  {
+    "gameId": 59054,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Mavericks Hockey Club 2",
+    "home": "Mammoth Stars",
+    "awayGoals": 7,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59054"
   }
 ]
