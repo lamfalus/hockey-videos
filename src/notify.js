@@ -57,9 +57,15 @@ const isSuperset = (a, b) => { for (const t of b) if (!a.has(t)) return false; r
 function matcherFor(ch) {
   if (ch.all) return () => true;
   if (ch.club) { const c = String(ch.club).toLowerCase(); return (g) => (g.clubs || []).includes(c); }
-  if (ch.team) {
-    const want = tokset(ch.team);
-    return (g) => isSuperset(tokset(g.teamA), want) || isSuperset(tokset(g.teamB), want);
+  // `team` (one spelling) or `teamAny` (several) — a game matches when either
+  // side's word-set contains ALL the words of ANY listed spelling.
+  const spellings = ch.teamAny || (ch.team ? [ch.team] : null);
+  if (spellings) {
+    const wants = spellings.map(tokset);
+    return (g) => {
+      const A = tokset(g.teamA), B = tokset(g.teamB);
+      return wants.some((w) => isSuperset(A, w) || isSuperset(B, w));
+    };
   }
   return () => true;
 }

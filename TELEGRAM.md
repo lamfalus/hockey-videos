@@ -37,6 +37,8 @@ each with its own filter:
 Per channel, pick **one** filter:
 - `"team": "Cougars 12-1"` — only that specific team (a game matches if either
   side's name contains all those words; excludes "Cougars 12-2", "10U Cougars", …)
+- `"teamAny": ["jr sharks girls 12aaa", "jr sharks 12u aaa girls"]` — like `team`
+  but matches **any** of several spellings (for a team titled inconsistently)
 - `"club": "cougars"` — any Cougars team (ids: `cougars`, `gse`, `sharks`, `blazers`, `delta`)
 - `"all": true` — every new game
 
