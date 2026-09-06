@@ -90541,6 +90541,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57002"
   },
   {
+    "gameId": 57003,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Reno Ice 12-1",
+    "home": "Tri Valley Blue Devils 12-1",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57003"
+  },
+  {
     "gameId": 57004,
     "season": 33,
     "date": "2026-09-05",
@@ -90693,6 +90704,17 @@
     "homeGoals": 0,
     "level": "12U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57018"
+  },
+  {
+    "gameId": 57019,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Oakland Bears 14-1",
+    "home": "Vacaville Jets 14-1",
+    "awayGoals": 10,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57019"
   },
   {
     "gameId": 57021,
@@ -90968,6 +90990,17 @@
     "homeGoals": 3,
     "level": "14U AA/A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59076"
+  },
+  {
+    "gameId": 59077,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Mavericks Hockey Club A",
+    "home": "Santa Barbara Ice Hawks A",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59077"
   },
   {
     "gameId": 59084,
