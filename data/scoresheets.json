@@ -90629,6 +90629,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57521"
   },
   {
+    "gameId": 57527,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Tri Valley Blue Devils 12-3",
+    "home": "Cupertino Cougars 12-2",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57527"
+  },
+  {
     "gameId": 58784,
     "season": 33,
     "date": "2026-09-05",
@@ -90706,6 +90717,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59051"
   },
   {
+    "gameId": 59052,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "California Surf",
+    "home": "Mavericks Hockey Club 2",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59052"
+  },
+  {
     "gameId": 59062,
     "season": 33,
     "date": "2026-09-05",
@@ -90737,6 +90759,17 @@
     "homeGoals": 3,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59064"
+  },
+  {
+    "gameId": 59076,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "California Surf AA",
+    "home": "Junior Reign AA2",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59076"
   },
   {
     "gameId": 59084,
