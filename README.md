@@ -38,6 +38,7 @@ npm run refresh       # sync + import-sheets + build-site in one go
 - Title-parsing and scoresheet-matching logic, with the edge cases they handle,
   are documented inline in `src/parse.js` and `src/build-site.js`.
 
-See [SETUP.md](SETUP.md) for the one-time Google Cloud / OAuth setup, and
+See [SETUP.md](SETUP.md) for the one-time Google Cloud / OAuth setup,
 [SETUP-PI.md](SETUP-PI.md) to run the auto-refresh on the Raspberry Pi (every
-30 min, no GitHub Actions).
+30 min, no GitHub Actions), and [TELEGRAM.md](TELEGRAM.md) to auto-post new
+games to a Telegram channel.

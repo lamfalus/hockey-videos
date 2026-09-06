@@ -20,6 +20,9 @@ git pull --quiet --ff-only || true
 # sync (YouTube) + import-sheets (norcal) + build-site (-> docs/)
 npm run refresh
 
+# Post any brand-new uploads to Telegram (no-op until configured).
+node src/notify.js || echo "notify step failed (continuing)"
+
 if git diff --quiet -- docs data; then
   echo "$(date -u +%FT%TZ) no changes"
   exit 0

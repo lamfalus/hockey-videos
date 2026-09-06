@@ -9,7 +9,8 @@
     "import-sheets": "node tools/import-scoresheets.mjs",
     "build-site": "node src/build-site.js",
     "refresh": "node src/sync.js && node tools/import-scoresheets.mjs && node src/build-site.js",
-    "parse-demo": "node src/parse.js --demo"
+    "parse-demo": "node src/parse.js --demo",
+    "notify": "node src/notify.js"
   },
   "dependencies": {
     "googleapis": "^144.0.0",

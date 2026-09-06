@@ -189,6 +189,10 @@ const dataScript =
   "window.CLUBS = " + JSON.stringify(clubs) + ";\n</" + "script>";
 const html = template.replace("<!--DATA-->", dataScript);
 
+// Also emit the enriched game list (with scoresheet links) for the Telegram
+// notifier to read — same data the page shows, minus the HTML.
+await fs.writeFile(path.join(ROOT, "data", "site-games.json"), JSON.stringify(slim));
+
 // Output to docs/ — GitHub Pages serves it directly from the main branch.
 await fs.mkdir(path.join(ROOT, "docs"), { recursive: true });
 await fs.writeFile(path.join(ROOT, "docs", "index.html"), html);
