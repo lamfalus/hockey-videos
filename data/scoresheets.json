@@ -91333,6 +91333,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57032"
   },
   {
+    "gameId": 57033,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Fresno Jr Monsters 10-1",
+    "home": "Lake Tahoe Grizzlies 10-2",
+    "awayGoals": 13,
+    "homeGoals": 0,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57033"
+  },
+  {
     "gameId": 57041,
     "season": 33,
     "date": "2026-09-06",
@@ -91476,6 +91487,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57080"
   },
   {
+    "gameId": 57081,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "San Mateo Black Stars 10-3",
+    "home": "Fresno Jr Monsters Girls 10G-1",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57081"
+  },
+  {
     "gameId": 57523,
     "season": 33,
     "date": "2026-09-06",
@@ -91518,6 +91540,17 @@
     "homeGoals": 0,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59032"
+  },
+  {
+    "gameId": 59033,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Goldrush Hockey Club",
+    "home": "Santa Clarita Jr Flyers",
+    "awayGoals": 7,
+    "homeGoals": 4,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59033"
   },
   {
     "gameId": 59043,
@@ -91584,6 +91617,17 @@
     "homeGoals": 0,
     "level": "14U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59089"
+  },
+  {
+    "gameId": 59090,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Empire Hockey Club BB",
+    "home": "California Surf BB",
+    "awayGoals": 3,
+    "homeGoals": 0,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59090"
   },
   {
     "gameId": 59098,
