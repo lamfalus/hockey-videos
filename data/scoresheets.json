@@ -91320,5 +91320,27 @@
     "homeGoals": 0,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58785"
+  },
+  {
+    "gameId": 59032,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Junior Reign",
+    "home": "Anaheim Jr Ducks 2",
+    "awayGoals": 10,
+    "homeGoals": 0,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59032"
+  },
+  {
+    "gameId": 59043,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "California Surf BB",
+    "home": "Aliso Viejo Avalanche B2",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "10U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59043"
   }
 ]
