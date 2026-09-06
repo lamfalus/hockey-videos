@@ -90442,6 +90442,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56992"
   },
   {
+    "gameId": 56993,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Capital Thunder 14-1",
+    "home": "Tri Valley Blue Devils 14-1",
+    "awayGoals": 8,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56993"
+  },
+  {
     "gameId": 56994,
     "season": 33,
     "date": "2026-09-05",
@@ -90585,6 +90596,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57008"
   },
   {
+    "gameId": 57009,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Francisco Sabercats 12-1",
+    "home": "San Mateo Black Stars 12-1",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57009"
+  },
+  {
     "gameId": 57011,
     "season": 33,
     "date": "2026-09-05",
@@ -90717,6 +90739,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57024"
   },
   {
+    "gameId": 57025,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Santa Rosa Flyers 12-2",
+    "home": "Oakland Bears 12-2",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57025"
+  },
+  {
     "gameId": 57027,
     "season": 33,
     "date": "2026-09-05",
@@ -90759,6 +90792,17 @@
     "homeGoals": 5,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57527"
+  },
+  {
+    "gameId": 58776,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Junior Reign 18AA",
+    "home": "California Surf 18AA",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58776"
   },
   {
     "gameId": 58784,
