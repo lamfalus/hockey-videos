@@ -91311,6 +91311,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59158"
   },
   {
+    "gameId": 57060,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Oakland Bears 10-2",
+    "home": "Stockton Colts 10-1",
+    "awayGoals": 3,
+    "homeGoals": 14,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57060"
+  },
+  {
+    "gameId": 57523,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Lake Tahoe Grizzlies 12-1",
+    "home": "Stockton Colts 12-1",
+    "awayGoals": 8,
+    "homeGoals": 5,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57523"
+  },
+  {
     "gameId": 58785,
     "season": 33,
     "date": "2026-09-06",
