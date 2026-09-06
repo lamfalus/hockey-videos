@@ -91124,6 +91124,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59110"
   },
   {
+    "gameId": 59111,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "El Segundo Strikers JV",
+    "home": "Santa Clara Blackhawks",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59111"
+  },
+  {
     "gameId": 59119,
     "season": 33,
     "date": "2026-09-05",
