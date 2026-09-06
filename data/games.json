@@ -1,5 +1,49 @@
 [
   {
+    "videoId": "4UBG5stPn_Y",
+    "title": "Cupertino Cougars 12-1 vs SJ Jr. Sharks 12-1, 2026-09-04",
+    "url": "https://youtu.be/4UBG5stPn_Y",
+    "isGame": true,
+    "teamA": "Cupertino Cougars 12-1",
+    "teamB": "SJ Jr. Sharks 12-1",
+    "date": "2026-09-04",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 4,
+      "against": 9
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-09-05"
+  },
+  {
+    "videoId": "U33nEH7Z9ME",
+    "title": "SJ Jr. Sharks Girls 12AAA vs SC Blackhawks 12-2, 2026-09-04",
+    "url": "https://youtu.be/U33nEH7Z9ME",
+    "isGame": true,
+    "teamA": "SJ Jr. Sharks Girls 12AAA",
+    "teamB": "SC Blackhawks 12-2",
+    "date": "2026-09-04",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 12,
+      "against": 0
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-09-05"
+  },
+  {
     "videoId": "SUtDjewKBpE",
     "title": "Cougars 12-1 vs SCBH 12-1, 2026-08-30",
     "url": "https://youtu.be/SUtDjewKBpE",
@@ -7474,26 +7518,24 @@
     "uploadDate": "2024-02-05"
   },
   {
-    "videoId": "hxEXKH-uadc",
-    "title": "15AAA JR. SHARKS VS CALIFORNIA GOLDEN BEARS, 3-Feb 2024",
-    "url": "https://youtu.be/hxEXKH-uadc",
+    "videoId": "XDBgIjGDs3c",
+    "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
+    "url": "https://youtu.be/XDBgIjGDs3c",
     "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "CALIFORNIA GOLDEN BEARS",
-    "date": "2024-02-03",
+    "teamA": "12AA GSE-1",
+    "teamB": "Utah Jr. Grizzlies (LB)",
+    "date": "2023-11-18",
     "dateSource": "title",
-    "dateFormat": "d-mon-y",
+    "dateFormat": "m-d-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
-    "result": {
-      "outcome": "Win",
-      "for": 5,
-      "against": 4
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-02-04"
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-drift"
+    ],
+    "uploadDate": "2024-03-05"
   },
   {
     "videoId": "bjCj4oJ42hY",
@@ -7518,24 +7560,26 @@
     "uploadDate": "2024-01-29"
   },
   {
-    "videoId": "XDBgIjGDs3c",
-    "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
-    "url": "https://youtu.be/XDBgIjGDs3c",
+    "videoId": "vPnpidTLlGg",
+    "title": "10-3 COUGARS VS TAHOE GRIZZLIES, 20-Jan-2024",
+    "url": "https://youtu.be/vPnpidTLlGg",
     "isGame": true,
-    "teamA": "12AA GSE-1",
-    "teamB": "Utah Jr. Grizzlies (LB)",
-    "date": "2023-11-18",
+    "teamA": "10-3 COUGARS",
+    "teamB": "TAHOE GRIZZLIES",
+    "date": "2024-01-20",
     "dateSource": "title",
-    "dateFormat": "m-d-y",
+    "dateFormat": "d-mon-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-drift"
-    ],
-    "uploadDate": "2024-03-05"
+    "result": {
+      "outcome": "Win",
+      "for": 4,
+      "against": 3
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-01-22"
   },
   {
     "videoId": "WfiT6mNGh70",
@@ -8390,28 +8434,6 @@
     "uploadDate": "2023-11-06"
   },
   {
-    "videoId": "24XewuNzXBg",
-    "title": "15AAA JR. SHARKS VS CALIFORNIA GOLDEN BEARS, 5-Nov-23",
-    "url": "https://youtu.be/24XewuNzXBg",
-    "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "CALIFORNIA GOLDEN BEARS",
-    "date": "2023-11-05",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Win",
-      "for": 7,
-      "against": 2
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2023-11-06"
-  },
-  {
     "videoId": "jVjdWw3bKVo",
     "title": "15AAA JR. SHARKS vs. CALIFORNIA GOLDEN BEARS, 4-Nov-23",
     "url": "https://youtu.be/jVjdWw3bKVo",
@@ -8432,6 +8454,28 @@
     "confidence": "high",
     "flags": [],
     "uploadDate": "2023-11-06"
+  },
+  {
+    "videoId": "Xj17PdKKnyE",
+    "title": "12AA GSE-1 VS TRI VALLEY BULLS, 29-Oct-23",
+    "url": "https://youtu.be/Xj17PdKKnyE",
+    "isGame": true,
+    "teamA": "12AA GSE-1",
+    "teamB": "TRI VALLEY BULLS",
+    "date": "2023-10-29",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 2,
+      "against": 1
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2023-10-31"
   },
   {
     "videoId": "ZhwHjCIFRww",
@@ -9384,13 +9428,13 @@
     "uploadDate": "2023-09-05"
   },
   {
-    "videoId": "WaSVQXKYIdE",
-    "title": "12AA GSE-1 vs GSE-2, 9-2-2023",
-    "url": "https://youtu.be/WaSVQXKYIdE",
+    "videoId": "L28gAxJmh1E",
+    "title": "12AA GSE-1 vs Jr. Golden Knights, 9-1-2023",
+    "url": "https://youtu.be/L28gAxJmh1E",
     "isGame": true,
     "teamA": "12AA GSE-1",
-    "teamB": "GSE-2",
-    "date": "2023-09-02",
+    "teamB": "Jr. Golden Knights",
+    "date": "2023-09-01",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -9402,12 +9446,12 @@
     "uploadDate": "2023-09-05"
   },
   {
-    "videoId": "L28gAxJmh1E",
-    "title": "12AA GSE-1 vs Jr. Golden Knights, 9-1-2023",
-    "url": "https://youtu.be/L28gAxJmh1E",
+    "videoId": "hZVq0ZJhx9I",
+    "title": "12AA GSE-1 vs GSE-2, 9-1-2023",
+    "url": "https://youtu.be/hZVq0ZJhx9I",
     "isGame": true,
     "teamA": "12AA GSE-1",
-    "teamB": "Jr. Golden Knights",
+    "teamB": "GSE-2",
     "date": "2023-09-01",
     "dateSource": "title",
     "dateFormat": "m-d-y",
@@ -11148,46 +11192,6 @@
     "uploadDate": "2022-12-24"
   },
   {
-    "videoId": "h2lIK40iEG8",
-    "title": "SBE vs Gritty Grinches, Game #1",
-    "url": "https://youtu.be/h2lIK40iEG8",
-    "isGame": true,
-    "teamA": "SBE",
-    "teamB": "Gritty Grinches, Game #1",
-    "date": "2022-12-24",
-    "dateSource": "upload",
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-missing"
-    ],
-    "uploadDate": "2022-12-24"
-  },
-  {
-    "videoId": "esoLabzJwUs",
-    "title": "Holiday KKAOS vs Oakland Bears A, Game #4",
-    "url": "https://youtu.be/esoLabzJwUs",
-    "isGame": true,
-    "teamA": "Holiday KKAOS",
-    "teamB": "Oakland Bears A, Game #4",
-    "date": "2022-12-24",
-    "dateSource": "upload",
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-missing"
-    ],
-    "uploadDate": "2022-12-24"
-  },
-  {
     "videoId": "IxFoYB9D9LU",
     "title": "10U Cougars vs Jr . Sharks-2, 11-13-22",
     "url": "https://youtu.be/IxFoYB9D9LU",
@@ -11376,6 +11380,46 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "fCY944VR0yE",
+    "title": "Christopher Lamfalusi (MVC) vs. Dillon Pierson-Gilroy",
+    "url": "https://youtu.be/fCY944VR0yE",
+    "isGame": true,
+    "teamA": "Christopher Lamfalusi (MVC)",
+    "teamB": "Dillon Pierson-Gilroy",
+    "date": "2022-12-10",
+    "dateSource": "upload",
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-missing"
+    ],
+    "uploadDate": "2022-12-10"
+  },
+  {
+    "videoId": "jJchY8_xlfI",
+    "title": "Ryan Gonzalez-Abraham Lincoln vs Chris Lamfalusi-Monta Vista",
+    "url": "https://youtu.be/jJchY8_xlfI",
+    "isGame": true,
+    "teamA": "Ryan Gonzalez-Abraham Lincoln",
+    "teamB": "Chris Lamfalusi-Monta Vista",
+    "date": "2022-12-10",
+    "dateSource": "upload",
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-missing"
+    ],
+    "uploadDate": "2022-12-10"
   },
   {
     "videoId": "JQfYPKsYFCw",
@@ -11968,44 +12012,6 @@
     "uploadDate": "2022-11-02"
   },
   {
-    "videoId": "qTxxnSzQdrY",
-    "title": "Pioneer Mustangs JV vs Willow Glen Rams JV, 10-30-2022",
-    "url": "https://youtu.be/qTxxnSzQdrY",
-    "isGame": true,
-    "teamA": "Pioneer Mustangs JV",
-    "teamB": "Willow Glen Rams JV",
-    "date": "2022-10-30",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-10-31"
-  },
-  {
-    "videoId": "MAzx8n6cMfw",
-    "title": "8U-2 Cougars vs Vacaville Jets-2",
-    "url": "https://youtu.be/MAzx8n6cMfw",
-    "isGame": true,
-    "teamA": "8U-2 Cougars",
-    "teamB": "Vacaville Jets-2",
-    "date": "2022-10-30",
-    "dateSource": "upload",
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-missing"
-    ],
-    "uploadDate": "2022-10-30"
-  },
-  {
     "videoId": "4B_KpD_7__U",
     "title": "10U Cougars vs Capital Thunder, 10-16-22",
     "url": "https://youtu.be/4B_KpD_7__U",
@@ -12013,6 +12019,26 @@
     "teamA": "10U Cougars",
     "teamB": "Capital Thunder",
     "date": "2022-10-16",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-drift"
+    ],
+    "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "k5zPPQ-z0rY",
+    "title": "10U Cougars vs Sharks 10-3, 10-23-22",
+    "url": "https://youtu.be/k5zPPQ-z0rY",
+    "isGame": true,
+    "teamA": "10U Cougars",
+    "teamB": "Sharks 10-3",
+    "date": "2022-10-23",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -12084,6 +12110,26 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "igs9OMPzUO8",
+    "title": "8U Cougars Team 2 vs. Santa Rosa Flyers-1",
+    "url": "https://youtu.be/igs9OMPzUO8",
+    "isGame": true,
+    "teamA": "8U Cougars Team 2",
+    "teamB": "Santa Rosa Flyers-1",
+    "date": "2022-10-30",
+    "dateSource": "upload",
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-missing"
+    ],
+    "uploadDate": "2022-10-30"
   },
   {
     "videoId": "OwobLXVHGJw",
