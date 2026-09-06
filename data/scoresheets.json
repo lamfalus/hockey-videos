@@ -90530,6 +90530,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57006"
   },
   {
+    "gameId": 57007,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 2014 12-2",
+    "home": "Santa Clara Blackhawks 12-1",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57007"
+  },
+  {
     "gameId": 57011,
     "season": 33,
     "date": "2026-09-05",
@@ -90616,6 +90627,17 @@
     "homeGoals": 7,
     "level": "10U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57022"
+  },
+  {
+    "gameId": 57023,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks Girls 10G-1",
+    "home": "Fresno Jr Monsters Girls 10G-1",
+    "awayGoals": 11,
+    "homeGoals": 1,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57023"
   },
   {
     "gameId": 57521,
@@ -90858,6 +90880,17 @@
     "homeGoals": 2,
     "level": "Midget A/JV",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59108"
+  },
+  {
+    "gameId": 59109,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "West Ranch Wildcats JV",
+    "home": "IEU Wolverines JV",
+    "awayGoals": 8,
+    "homeGoals": 0,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59109"
   },
   {
     "gameId": 59119,
