@@ -1,17 +1,29 @@
-// Post newly-added game videos to a Telegram channel.
+// Post newly-added game videos to per-team Telegram channels.
 //
 //   node src/notify.js
 //
-// Config (either works; env wins):
-//   env  TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
-//   file credentials/telegram.json  ->  { "botToken": "...", "chatId": "..." }
+// Config: credentials/telegram.json (kept out of git). One bot, many channels,
+// each with its own filter:
+//   {
+//     "botToken": "123:ABC",
+//     "channels": [
+//       { "chatId": "-1004490810022", "name": "Cougars 12-1", "team": "Cougars 12-1" },
+//       { "chatId": "-100...",        "name": "Jr Sharks 13AAA", "team": "Jr. Sharks 13AAA" },
+//       { "chatId": "-100...",        "name": "All Cougars",    "club": "cougars" },
+//       { "chatId": "-100...",        "name": "Everything",     "all": true }
+//     ]
+//   }
+// Filter per channel (pick one): "team" (a game matches if either side's name
+// contains all the filter's words — "Cougars 12-1" matches "Cougars 12-1" but
+// not "Cougars 12-2"/"Cougars 10U-1"), "club" (a club id: cougars/gse/sharks/
+// blazers/delta), or "all". Legacy flat { botToken, chatId } (or the env vars
+// TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID) is treated as one "all" channel.
 //
-// State: data/announced.json holds the videoIds already posted. On the FIRST
-// run it seeds with every current video and posts nothing, so the existing
-// backlog is never blasted — only genuinely new uploads go out afterward.
+// State: data/announced.json = { "<chatId>": [videoIds] }, per channel. The
+// first run for a channel seeds it with every current video (posts nothing), so
+// existing games never blast — only new uploads matching that channel go out.
 //
-// Unconfigured => it just prints a note and exits 0, so it's safe to leave in
-// the pipeline before Telegram is set up.
+// Unconfigured => prints a note and exits 0.
 
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -20,17 +32,36 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
 const MON = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function readJson(p, fallback) {
   try { return JSON.parse(await fs.readFile(p, "utf8")); } catch { return fallback; }
 }
 
 async function loadConfig() {
-  const env = { botToken: process.env.TELEGRAM_BOT_TOKEN, chatId: process.env.TELEGRAM_CHAT_ID };
-  if (env.botToken && env.chatId) return env;
   const file = await readJson(path.join(ROOT, "credentials", "telegram.json"), null);
-  if (file?.botToken && file?.chatId) return file;
-  return null;
+  let token = process.env.TELEGRAM_BOT_TOKEN || file?.botToken;
+  if (!token) return null;
+  let channels = file?.channels;
+  if (!channels) {
+    const chatId = process.env.TELEGRAM_CHAT_ID || file?.chatId;
+    if (!chatId) return null;
+    channels = [{ chatId, name: "all", all: true }]; // legacy / env => one "all" channel
+  }
+  return { token, channels };
+}
+
+const tokset = (s) => new Set((s || "").toLowerCase().split(/[^a-z0-9]+/).filter(Boolean));
+const isSuperset = (a, b) => { for (const t of b) if (!a.has(t)) return false; return true; };
+
+function matcherFor(ch) {
+  if (ch.all) return () => true;
+  if (ch.club) { const c = String(ch.club).toLowerCase(); return (g) => (g.clubs || []).includes(c); }
+  if (ch.team) {
+    const want = tokset(ch.team);
+    return (g) => isSuperset(tokset(g.teamA), want) || isSuperset(tokset(g.teamB), want);
+  }
+  return () => true;
 }
 
 function esc(s) {
@@ -50,57 +81,60 @@ function messageFor(g) {
   return text;
 }
 
-async function sendMessage(cfg, text) {
-  const res = await fetch(`https://api.telegram.org/bot${cfg.botToken}/sendMessage`, {
+async function sendMessage(token, chatId, text) {
+  const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
     method: "POST",
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({ chat_id: cfg.chatId, text, parse_mode: "HTML", disable_web_page_preview: false }),
+    body: JSON.stringify({ chat_id: chatId, text, parse_mode: "HTML", disable_web_page_preview: false }),
   });
   const json = await res.json().catch(() => ({}));
-  if (!json.ok) throw new Error(`Telegram error: ${json.error_code || res.status} ${json.description || ""}`);
+  if (!json.ok) throw new Error(`Telegram ${json.error_code || res.status}: ${json.description || ""}`);
   return json;
 }
 
-const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
 async function main() {
   const cfg = await loadConfig();
-  if (!cfg) { console.log("notify: Telegram not configured (no token/chat) — skipping."); return; }
+  if (!cfg) { console.log("notify: Telegram not configured — skipping."); return; }
 
   const games = (await readJson(path.join(ROOT, "data", "site-games.json"), []))
     .filter((g) => g.videoId && g.teamA && g.teamB);
+  const allIds = games.map((g) => g.videoId);
   const statePath = path.join(ROOT, "data", "announced.json");
-  const prior = await readJson(statePath, null);
+  let state = await readJson(statePath, {});
+  if (Array.isArray(state)) state = {}; // migrate away from the old flat array
 
-  // First run: seed with everything, announce nothing.
-  if (prior === null) {
-    const ids = games.map((g) => g.videoId);
-    await fs.writeFile(statePath, JSON.stringify(ids, null, 0));
-    console.log(`notify: seeded ${ids.length} existing videos (posted 0). New uploads will post from now on.`);
-    return;
-  }
-
-  const announced = new Set(prior);
-  const fresh = games
-    .filter((g) => !announced.has(g.videoId))
-    .sort((a, b) => (a.date || "").localeCompare(b.date || "")); // oldest first
-
-  if (!fresh.length) { console.log("notify: no new videos."); return; }
-
-  let posted = 0;
-  for (const g of fresh) {
-    try {
-      await sendMessage(cfg, messageFor(g));
-      announced.add(g.videoId);
-      posted++;
-      await sleep(1500); // stay well under channel rate limits
-    } catch (e) {
-      console.error(`notify: failed to post ${g.videoId} (${g.title}): ${e.message}`);
-      // leave it un-announced so it retries next run
+  for (const ch of cfg.channels) {
+    const key = String(ch.chatId);
+    const label = ch.name || key;
+    if (!state[key]) {
+      state[key] = allIds.slice();
+      console.log(`notify[${label}]: seeded ${allIds.length} existing videos (posted 0).`);
+      continue;
     }
+    const seen = new Set(state[key]);
+    const match = matcherFor(ch);
+    const fresh = games
+      .filter((g) => !seen.has(g.videoId) && match(g))
+      .sort((a, b) => (a.date || "").localeCompare(b.date || ""));
+    // Anything new but not matching this channel: mark seen so it isn't reconsidered.
+    for (const g of games) if (!seen.has(g.videoId) && !match(g)) seen.add(g.videoId);
+
+    let posted = 0;
+    for (const g of fresh) {
+      try {
+        await sendMessage(cfg.token, ch.chatId, messageFor(g));
+        seen.add(g.videoId);
+        posted++;
+        await sleep(1500);
+      } catch (e) {
+        console.error(`notify[${label}]: failed ${g.videoId} (${g.title}): ${e.message}`);
+      }
+    }
+    state[key] = [...seen];
+    console.log(`notify[${label}]: posted ${posted} of ${fresh.length} new matching video(s).`);
   }
-  await fs.writeFile(statePath, JSON.stringify([...announced], null, 0));
-  console.log(`notify: posted ${posted} of ${fresh.length} new video(s).`);
+
+  await fs.writeFile(statePath, JSON.stringify(state, null, 0));
 }
 
 main().catch((e) => { console.error("notify error:", e.message); process.exit(1); });
