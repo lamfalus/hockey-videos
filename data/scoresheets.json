@@ -91322,6 +91322,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57031"
   },
   {
+    "gameId": 57032,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Clara Blackhawks 10-1",
+    "home": "Reno Ice 10-1",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57032"
+  },
+  {
     "gameId": 57041,
     "season": 33,
     "date": "2026-09-06",
@@ -91388,6 +91399,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57061"
   },
   {
+    "gameId": 57062,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Fresno Jr Monsters 14-1",
+    "home": "Santa Rosa Flyers 14-2",
+    "awayGoals": 8,
+    "homeGoals": 3,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57062"
+  },
+  {
     "gameId": 57070,
     "season": 33,
     "date": "2026-09-06",
@@ -91408,6 +91430,17 @@
     "homeGoals": 9,
     "level": "10U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57079"
+  },
+  {
+    "gameId": 57080,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Rosa Flyers 10-2",
+    "home": "San Jose Jr Sharks 10-6 2017 10-3(6)",
+    "awayGoals": 1,
+    "homeGoals": 7,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57080"
   },
   {
     "gameId": 57523,
@@ -91509,6 +91542,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59099"
   },
   {
+    "gameId": 59121,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Bosco Prep",
+    "home": "Junior Reign 18AA",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59121"
+  },
+  {
     "gameId": 59135,
     "season": 33,
     "date": "2026-09-06",
@@ -91551,6 +91595,28 @@
     "homeGoals": 1,
     "level": "8U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59138"
+  },
+  {
+    "gameId": 59139,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "California Surf 1",
+    "home": "Mavericks Hockey Club",
+    "awayGoals": 0,
+    "homeGoals": 8,
+    "level": "8U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59139"
+  },
+  {
+    "gameId": 59140,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Clarita Flyers",
+    "home": "Ontario Jr Reign",
+    "awayGoals": 0,
+    "homeGoals": 3,
+    "level": "8U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59140"
   },
   {
     "gameId": 59161,
