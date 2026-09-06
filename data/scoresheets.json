@@ -90508,6 +90508,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57005"
   },
   {
+    "gameId": 57006,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Lake Tahoe Grizzlies 10-2",
+    "home": "San Mateo Black Stars 10-3",
+    "awayGoals": 14,
+    "homeGoals": 0,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57006"
+  },
+  {
     "gameId": 57011,
     "season": 33,
     "date": "2026-09-05",
@@ -90572,6 +90583,17 @@
     "homeGoals": 0,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57021"
+  },
+  {
+    "gameId": 57022,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Capital Thunder 10-2",
+    "home": "San Jose Jr Sharks 10-5 2017 10-2(5)",
+    "awayGoals": 2,
+    "homeGoals": 7,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57022"
   },
   {
     "gameId": 57521,
@@ -90673,6 +90695,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59063"
   },
   {
+    "gameId": 59064,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Empire Hockey Club B",
+    "home": "Santa Barbara Ice Hawks B",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59064"
+  },
+  {
     "gameId": 59084,
     "season": 33,
     "date": "2026-09-05",
@@ -90693,6 +90726,17 @@
     "homeGoals": 1,
     "level": "14U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59085"
+  },
+  {
+    "gameId": 59086,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Junior Reign BB",
+    "home": "SnoKing Jr Thunderbirds B",
+    "awayGoals": 4,
+    "homeGoals": 7,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59086"
   },
   {
     "gameId": 59096,
