@@ -90519,6 +90519,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57001"
   },
   {
+    "gameId": 57002,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Capital Thunder 12-1",
+    "home": "Vacaville Jets 12-2",
+    "awayGoals": 8,
+    "homeGoals": 3,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57002"
+  },
+  {
     "gameId": 57004,
     "season": 33,
     "date": "2026-09-05",
@@ -90849,6 +90860,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59052"
   },
   {
+    "gameId": 59053,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Anaheim Jr Ducks 3",
+    "home": "Mavericks Hockey Club 1",
+    "awayGoals": 5,
+    "homeGoals": 4,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59053"
+  },
+  {
     "gameId": 59062,
     "season": 33,
     "date": "2026-09-05",
@@ -90880,6 +90902,17 @@
     "homeGoals": 3,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59064"
+  },
+  {
+    "gameId": 59065,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Mammoth Stars B",
+    "home": "Santa Clarita Jr Flyers B",
+    "awayGoals": 2,
+    "homeGoals": 10,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59065"
   },
   {
     "gameId": 59076,
