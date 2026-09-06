@@ -90431,6 +90431,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56990"
   },
   {
+    "gameId": 56992,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Mateo Black Stars 14-1",
+    "home": "San Francisco Sabercats 14-1",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56992"
+  },
+  {
     "gameId": 56994,
     "season": 33,
     "date": "2026-09-05",
@@ -90550,6 +90561,17 @@
     "homeGoals": 1,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57007"
+  },
+  {
+    "gameId": 57008,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Vacaville Jets 12-1",
+    "home": "Oakland Bears 12-1",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57008"
   },
   {
     "gameId": 57011,
@@ -90717,6 +90739,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59030"
   },
   {
+    "gameId": 59031,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Goldrush Hockey Club",
+    "home": "Junior Reign",
+    "awayGoals": 1,
+    "homeGoals": 1,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59031"
+  },
+  {
     "gameId": 59040,
     "season": 33,
     "date": "2026-09-05",
@@ -90847,6 +90880,17 @@
     "homeGoals": 7,
     "level": "14U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59086"
+  },
+  {
+    "gameId": 59087,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Orange County Hockey Club BB",
+    "home": "Aliso Viejo Avalanche BB",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59087"
   },
   {
     "gameId": 59096,
