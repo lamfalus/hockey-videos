@@ -90717,6 +90717,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57019"
   },
   {
+    "gameId": 57020,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 14-1",
+    "home": "Reno Ice 14-1",
+    "awayGoals": 5,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57020"
+  },
+  {
     "gameId": 57021,
     "season": 33,
     "date": "2026-09-05",
