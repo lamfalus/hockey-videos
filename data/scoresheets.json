@@ -91344,6 +91344,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57033"
   },
   {
+    "gameId": 57034,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "San Mateo Black Stars 12-1",
+    "home": "Lake Tahoe Grizzlies 12-1",
+    "awayGoals": 0,
+    "homeGoals": 5,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57034"
+  },
+  {
     "gameId": 57041,
     "season": 33,
     "date": "2026-09-06",
@@ -91542,6 +91553,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57081"
   },
   {
+    "gameId": 57082,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Tri Valley Blue Devils 12-4",
+    "home": "Santa Clara Blackhawks 12-2",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57082"
+  },
+  {
     "gameId": 57523,
     "season": 33,
     "date": "2026-09-06",
@@ -91597,6 +91619,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59033"
   },
   {
+    "gameId": 59034,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Junior Reign",
+    "home": "Santa Barbara Ice Hawks",
+    "awayGoals": 8,
+    "homeGoals": 0,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59034"
+  },
+  {
     "gameId": 59043,
     "season": 33,
     "date": "2026-09-06",
@@ -91617,6 +91650,17 @@
     "homeGoals": 2,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59054"
+  },
+  {
+    "gameId": 59055,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Mavericks Hockey Club 1",
+    "home": "California Surf",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59055"
   },
   {
     "gameId": 59066,

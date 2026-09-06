@@ -1300,6 +1300,26 @@
     "uploadDate": "2022-12-03"
   },
   {
+    "videoId": "PmfYj1iaOgI",
+    "title": "GSEE 14U Memorial Day Tourney - all goals for and against",
+    "url": "https://youtu.be/PmfYj1iaOgI",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-06-01"
+  },
+  {
     "videoId": "Gi5F9kfpZNU",
     "title": "14U AA Memorial Day Tournament Finals",
     "url": "https://youtu.be/Gi5F9kfpZNU",
@@ -3860,26 +3880,6 @@
     "uploadDate": "2017-10-14"
   },
   {
-    "videoId": "r6vPPbY3O68",
-    "title": "Button Turrible 2017 Justin Saturday",
-    "url": "https://youtu.be/r6vPPbY3O68",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2017-10-14"
-  },
-  {
     "videoId": "MJDYNN2S_VQ",
     "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
     "url": "https://youtu.be/MJDYNN2S_VQ",
@@ -3978,6 +3978,26 @@
       "no-vs"
     ],
     "uploadDate": "2017-10-14"
+  },
+  {
+    "videoId": "h-Y2pOeiyTA",
+    "title": "Button Turrible 2017 Justin Saturday Rear Camera",
+    "url": "https://youtu.be/h-Y2pOeiyTA",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2017-10-12"
   },
   {
     "videoId": "AGNHGtfyci4",
