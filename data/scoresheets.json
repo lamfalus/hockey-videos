@@ -91311,6 +91311,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59158"
   },
   {
+    "gameId": 57041,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Capital Thunder 10-1",
+    "home": "Lake Tahoe Grizzlies 10-1",
+    "awayGoals": 11,
+    "homeGoals": 1,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57041"
+  },
+  {
+    "gameId": 57051,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Vacaville Jets 10-1",
+    "home": "Cupertino Cougars 10-2",
+    "awayGoals": 12,
+    "homeGoals": 4,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57051"
+  },
+  {
     "gameId": 57060,
     "season": 33,
     "date": "2026-09-06",
@@ -91375,5 +91397,16 @@
     "homeGoals": 2,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59054"
+  },
+  {
+    "gameId": 59088,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "SnoKing Jr Thunderbirds B",
+    "home": "Orange County Hockey Club BB",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59088"
   }
 ]
