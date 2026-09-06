@@ -90651,6 +90651,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57017"
   },
   {
+    "gameId": 57018,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 12-5",
+    "home": "San Francisco Sabercats 12-2",
+    "awayGoals": 17,
+    "homeGoals": 0,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57018"
+  },
+  {
     "gameId": 57021,
     "season": 33,
     "date": "2026-09-05",
@@ -90704,6 +90715,17 @@
     "homeGoals": 5,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57027"
+  },
+  {
+    "gameId": 57028,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "San Jose Jr Sharks 2015 10-2(4)",
+    "home": "Fresno Jr Monsters 12-1",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57028"
   },
   {
     "gameId": 57521,
