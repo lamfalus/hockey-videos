@@ -90293,8 +90293,8 @@
     "date": "2026-09-04",
     "away": "Santa Clarita Jr Flyers",
     "home": "Mavericks Hockey Club",
-    "awayGoals": 4,
-    "homeGoals": 2,
+    "awayGoals": 2,
+    "homeGoals": 4,
     "level": "8U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59145"
   },
@@ -90407,6 +90407,17 @@
     "homeGoals": 2,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56987"
+  },
+  {
+    "gameId": 56988,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Tri Valley Blue Devils 10-3",
+    "home": "San Francisco Sabercats 10-2",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56988"
   },
   {
     "gameId": 56989,
@@ -90557,8 +90568,8 @@
     "date": "2026-09-05",
     "away": "San Jose Jr Sharks 2016 10-2",
     "home": "Tri Valley Blue Devils 10-2",
-    "awayGoals": 3,
-    "homeGoals": 0,
+    "awayGoals": 8,
+    "homeGoals": 5,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57004"
   },
@@ -90887,8 +90898,8 @@
     "date": "2026-09-05",
     "away": "Junior Reign BB",
     "home": "California Surf BB",
-    "awayGoals": 9,
-    "homeGoals": 1,
+    "awayGoals": 8,
+    "homeGoals": 0,
     "level": "10U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59040"
   },
@@ -91085,8 +91096,8 @@
     "date": "2026-09-05",
     "away": "California Surf",
     "home": "El Segundo Strikers JV",
-    "awayGoals": 0,
-    "homeGoals": 0,
+    "awayGoals": 8,
+    "homeGoals": 3,
     "level": "Midget A/JV",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59106"
   },
@@ -91298,5 +91309,16 @@
     "homeGoals": 4,
     "level": "8U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59158"
+  },
+  {
+    "gameId": 58785,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Tri Valley Bulls 2",
+    "home": "Junior Reign",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58785"
   }
 ]
