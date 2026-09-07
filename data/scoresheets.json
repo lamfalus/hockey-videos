@@ -91795,6 +91795,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58771"
   },
   {
+    "gameId": 58778,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "El Segundo Strikers",
+    "home": "Junior Reign 18AA",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58778"
+  },
+  {
     "gameId": 58785,
     "season": 33,
     "date": "2026-09-06",
@@ -91947,6 +91958,17 @@
     "homeGoals": 2,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59069"
+  },
+  {
+    "gameId": 59078,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Barbara Ice Hawks A",
+    "home": "California Surf AA",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59078"
   },
   {
     "gameId": 59088,
