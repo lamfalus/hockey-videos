@@ -91388,6 +91388,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57037"
   },
   {
+    "gameId": 57038,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Rosa Flyers 14-1",
+    "home": "Lake Tahoe Grizzlies 14-1",
+    "awayGoals": 9,
+    "homeGoals": 0,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57038"
+  },
+  {
     "gameId": 57041,
     "season": 33,
     "date": "2026-09-06",
@@ -91452,6 +91463,17 @@
     "homeGoals": 3,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57047"
+  },
+  {
+    "gameId": 57048,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "San Jose Jr Sharks 14-2",
+    "home": "Stockton Colts 14-1",
+    "awayGoals": 3,
+    "homeGoals": 10,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57048"
   },
   {
     "gameId": 57049,
@@ -91606,6 +91628,17 @@
     "homeGoals": 4,
     "level": "14U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57067"
+  },
+  {
+    "gameId": 57069,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Cupertino Cougars 12-1",
+    "home": "San Jose Jr Sharks 2015 10-1(3)",
+    "awayGoals": 4,
+    "homeGoals": 8,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57069"
   },
   {
     "gameId": 57070,
@@ -91960,6 +91993,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59091"
   },
   {
+    "gameId": 59092,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "SnoKing Jr Thunderbirds B",
+    "home": "California Surf BB",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59092"
+  },
+  {
     "gameId": 59098,
     "season": 33,
     "date": "2026-09-06",
@@ -92024,6 +92068,28 @@
     "homeGoals": 6,
     "level": "Midget A/JV",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59112"
+  },
+  {
+    "gameId": 59113,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "IEU Wolverines JV",
+    "home": "California Surf",
+    "awayGoals": 0,
+    "homeGoals": 7,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59113"
+  },
+  {
+    "gameId": 59114,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "West Ranch Wildcats JV",
+    "home": "Santa Clara Blackhawks",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59114"
   },
   {
     "gameId": 59121,
