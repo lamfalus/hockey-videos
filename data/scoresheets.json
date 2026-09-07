@@ -91674,6 +91674,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57083"
   },
   {
+    "gameId": 57084,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Reno Ice 10-1",
+    "home": "San Jose Jr Sharks 2017 10-1(4)",
+    "awayGoals": 5,
+    "homeGoals": 5,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57084"
+  },
+  {
     "gameId": 57523,
     "season": 33,
     "date": "2026-09-06",
@@ -91828,6 +91839,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59068"
   },
   {
+    "gameId": 59069,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Empire Hockey Club B",
+    "home": "Toyota Legends B",
+    "awayGoals": 10,
+    "homeGoals": 2,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59069"
+  },
+  {
     "gameId": 59088,
     "season": 33,
     "date": "2026-09-06",
@@ -91925,6 +91947,17 @@
     "homeGoals": 3,
     "level": "Midget/Varsity",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59121"
+  },
+  {
+    "gameId": 59122,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "California Surf 18AA",
+    "home": "West Ranch Wildcats",
+    "awayGoals": 0,
+    "homeGoals": 5,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59122"
   },
   {
     "gameId": 59135,
