@@ -92334,6 +92334,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57087"
   },
   {
+    "gameId": 57088,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Cupertino Cougars 14-1",
+    "home": "San Jose Jr Sharks 14-2",
+    "awayGoals": 1,
+    "homeGoals": 13,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57088"
+  },
+  {
     "gameId": 57094,
     "season": 33,
     "date": "2026-09-07",
@@ -92497,6 +92508,17 @@
     "homeGoals": 13,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59072"
+  },
+  {
+    "gameId": 59073,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Mammoth Stars B",
+    "home": "Toyota Legends B",
+    "awayGoals": 0,
+    "homeGoals": 10,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59073"
   },
   {
     "gameId": 59169,
