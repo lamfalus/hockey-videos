@@ -91531,6 +91531,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57063"
   },
   {
+    "gameId": 57065,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "San Jose Jr Sharks Girls 10G-1",
+    "home": "San Mateo Black Stars 10-2",
+    "awayGoals": 0,
+    "homeGoals": 9,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57065"
+  },
+  {
     "gameId": 57070,
     "season": 33,
     "date": "2026-09-06",
