@@ -74,6 +74,8 @@ function esc(s) {
   return (s || "").replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
 }
 
+const hrefEsc = (u) => (u || "").replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+
 function messageFor(g) {
   const [y, m, d] = (g.date || "----01-01").split("-").map(Number);
   const when = `${MON[(m || 1) - 1]} ${d || "?"}, ${y || ""}`;
@@ -82,8 +84,9 @@ function messageFor(g) {
     const score = g.result.for != null && g.result.against != null ? ` ${g.result.for}-${g.result.against}` : "";
     text += `\n${esc(g.result.outcome)}${score}`;
   }
-  text += `\n▶️ ${g.url}`;
-  if (g.sheetUrl) text += `\n📄 Scoresheet: ${g.sheetUrl}`;
+  // Links embedded behind clean text rather than shown raw.
+  text += `\n▶️ <a href="${hrefEsc(g.url)}">YouTube video</a>`;
+  if (g.sheetUrl) text += ` · 📄 <a href="${hrefEsc(g.sheetUrl)}">Scoresheet</a>`;
   return text;
 }
 
