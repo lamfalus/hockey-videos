@@ -92356,6 +92356,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57095"
   },
   {
+    "gameId": 57096,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "San Mateo Black Stars 14-1",
+    "home": "Tri Valley Blue Devils 14-2",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57096"
+  },
+  {
     "gameId": 57099,
     "season": 33,
     "date": "2026-09-07",
@@ -92389,6 +92400,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57101"
   },
   {
+    "gameId": 57102,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "San Francisco Sabercats 14-1",
+    "home": "Stockton Colts 14-1",
+    "awayGoals": 3,
+    "homeGoals": 7,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57102"
+  },
+  {
     "gameId": 57106,
     "season": 33,
     "date": "2026-09-07",
@@ -92409,6 +92431,39 @@
     "homeGoals": 2,
     "level": "12U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57107"
+  },
+  {
+    "gameId": 57108,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "San Francisco Sabercats 12-2",
+    "home": "Santa Rosa Flyers 12-2",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57108"
+  },
+  {
+    "gameId": 59035,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Junior Reign",
+    "home": "Goldrush Hockey Club",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59035"
+  },
+  {
+    "gameId": 59046,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Empire Hockey Club B",
+    "home": "Junior Reign BB",
+    "awayGoals": 2,
+    "homeGoals": 8,
+    "level": "10U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59046"
   },
   {
     "gameId": 59070,
