@@ -92367,6 +92367,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57092"
   },
   {
+    "gameId": 57093,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Santa Clara Blackhawks 12-1",
+    "home": "Tri Valley Blue Devils 12-3",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57093"
+  },
+  {
     "gameId": 57094,
     "season": 33,
     "date": "2026-09-07",
@@ -92519,6 +92530,17 @@
     "homeGoals": 4,
     "level": "14U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57109"
+  },
+  {
+    "gameId": 57528,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Santa Clara Blackhawks 14-1",
+    "home": "Tri Valley Blue Devils 14-2",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57528"
   },
   {
     "gameId": 59035,
