@@ -91377,6 +91377,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57036"
   },
   {
+    "gameId": 57037,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Oakland Bears 12-2",
+    "home": "Capital Thunder 12-1",
+    "awayGoals": 4,
+    "homeGoals": 14,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57037"
+  },
+  {
     "gameId": 57041,
     "season": 33,
     "date": "2026-09-06",
@@ -91430,6 +91441,17 @@
     "homeGoals": 9,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57045"
+  },
+  {
+    "gameId": 57047,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Cupertino Cougars 12-2",
+    "home": "San Jose Jr Sharks 2015 10-2(4)",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57047"
   },
   {
     "gameId": 57049,
@@ -91630,6 +91652,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57074"
   },
   {
+    "gameId": 57075,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Rosa Flyers 12-1",
+    "home": "Tri Valley Blue Devils 12-3",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57075"
+  },
+  {
     "gameId": 57079,
     "season": 33,
     "date": "2026-09-06",
@@ -91817,6 +91850,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59055"
   },
   {
+    "gameId": 59056,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Mammoth Stars",
+    "home": "Anaheim Jr Ducks 3",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59056"
+  },
+  {
     "gameId": 59066,
     "season": 33,
     "date": "2026-09-06",
@@ -91894,6 +91938,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59090"
   },
   {
+    "gameId": 59091,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Aliso Viejo Avalanche BB",
+    "home": "Empire Hockey Club BB",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59091"
+  },
+  {
     "gameId": 59098,
     "season": 33,
     "date": "2026-09-06",
@@ -91947,6 +92002,17 @@
     "homeGoals": 3,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59102"
+  },
+  {
+    "gameId": 59112,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "El Segundo Strikers JV",
+    "home": "Bishop Broncos JV",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59112"
   },
   {
     "gameId": 59121,
