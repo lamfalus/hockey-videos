@@ -92323,6 +92323,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57085"
   },
   {
+    "gameId": 57087,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Fresno Jr Monsters 14-1",
+    "home": "San Francisco Sabercats 14-2",
+    "awayGoals": 10,
+    "homeGoals": 1,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57087"
+  },
+  {
     "gameId": 57094,
     "season": 33,
     "date": "2026-09-07",
@@ -92420,6 +92431,17 @@
     "homeGoals": 2,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59071"
+  },
+  {
+    "gameId": 59072,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "California Surf B",
+    "home": "Santa Barbara Ice Hawks B",
+    "awayGoals": 0,
+    "homeGoals": 13,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59072"
   },
   {
     "gameId": 59169,
