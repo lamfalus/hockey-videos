@@ -91564,6 +91564,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57065"
   },
   {
+    "gameId": 57066,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Oakland Bears 14-2",
+    "home": "Fresno Jr Monsters 14-1",
+    "awayGoals": 4,
+    "homeGoals": 4,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57066"
+  },
+  {
     "gameId": 57070,
     "season": 33,
     "date": "2026-09-06",
