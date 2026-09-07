@@ -91366,6 +91366,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57035"
   },
   {
+    "gameId": 57036,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Rosa Flyers 10-1",
+    "home": "Capital Thunder 10-1",
+    "awayGoals": 7,
+    "homeGoals": 4,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57036"
+  },
+  {
     "gameId": 57041,
     "season": 33,
     "date": "2026-09-06",
@@ -91487,6 +91498,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57055"
   },
   {
+    "gameId": 57056,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "San Jose Jr Sharks 2016 10-1",
+    "home": "Tri Valley Blue Devils 10-2",
+    "awayGoals": 13,
+    "homeGoals": 3,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57056"
+  },
+  {
     "gameId": 57060,
     "season": 33,
     "date": "2026-09-06",
@@ -91584,6 +91606,17 @@
     "homeGoals": 1,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57073"
+  },
+  {
+    "gameId": 57074,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Rosa Flyers 14-2",
+    "home": "San Francisco Sabercats 14-2",
+    "awayGoals": 10,
+    "homeGoals": 3,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57074"
   },
   {
     "gameId": 57079,
@@ -91729,6 +91762,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59044"
   },
   {
+    "gameId": 59045,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Santa Barbara Ice Hawks B",
+    "home": "California Surf BB",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "10U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59045"
+  },
+  {
     "gameId": 59054,
     "season": 33,
     "date": "2026-09-06",
@@ -91859,6 +91903,17 @@
     "homeGoals": 0,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59101"
+  },
+  {
+    "gameId": 59102,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Junior Reign",
+    "home": "Aliso Viejo Avalanche",
+    "awayGoals": 0,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59102"
   },
   {
     "gameId": 59121,
