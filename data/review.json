@@ -3840,26 +3840,6 @@
     "uploadDate": "2017-10-14"
   },
   {
-    "videoId": "RgMj_gHPVOY",
-    "title": "Button Turrible 2017 Trent Saturday",
-    "url": "https://youtu.be/RgMj_gHPVOY",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2017-10-14"
-  },
-  {
     "videoId": "MJDYNN2S_VQ",
     "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
     "url": "https://youtu.be/MJDYNN2S_VQ",
@@ -3958,6 +3938,26 @@
       "no-vs"
     ],
     "uploadDate": "2017-10-14"
+  },
+  {
+    "videoId": "RLvGFKGT_Jc",
+    "title": "Button Turrible 2017 Trent 2 Saturday Rear",
+    "url": "https://youtu.be/RLvGFKGT_Jc",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2017-10-13"
   },
   {
     "videoId": "ZprP0ZXoG60",
