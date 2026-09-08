@@ -91006,11 +91006,11 @@
     "gameId": 59076,
     "season": 33,
     "date": "2026-09-05",
-    "away": "California Surf AA",
-    "home": "Junior Reign AA2",
+    "away": "",
+    "home": "California Surf 14AA",
     "awayGoals": 1,
     "homeGoals": 3,
-    "level": "14U AA/A",
+    "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59076"
   },
   {
@@ -92411,6 +92411,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57096"
   },
   {
+    "gameId": 57097,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Tri Valley Blue Devils 14-1",
+    "home": "Reno Ice 14-1",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57097"
+  },
+  {
     "gameId": 57098,
     "season": 33,
     "date": "2026-09-07",
@@ -92640,6 +92651,39 @@
     "homeGoals": 10,
     "level": "12U BB/B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59073"
+  },
+  {
+    "gameId": 59074,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Empire Hockey Club BB",
+    "home": "Empire Hockey Club B",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "12U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59074"
+  },
+  {
+    "gameId": 59079,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Santa Barbara Ice Hawks A",
+    "home": "Mavericks Hockey Club A",
+    "awayGoals": 4,
+    "homeGoals": 12,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59079"
+  },
+  {
+    "gameId": 59080,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "California Surf AA",
+    "home": "Junior Reign AA2",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59080"
   },
   {
     "gameId": 59093,
