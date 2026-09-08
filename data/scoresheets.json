@@ -92543,6 +92543,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57528"
   },
   {
+    "gameId": 58779,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "St John Bosco",
+    "home": "West Ranch Wildcats",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58779"
+  },
+  {
     "gameId": 58787,
     "season": 33,
     "date": "2026-09-07",
