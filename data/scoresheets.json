@@ -92543,6 +92543,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57528"
   },
   {
+    "gameId": 58787,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Aliso Viejo Avalanche",
+    "home": "Santa Clara Blackhawks 16A",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58787"
+  },
+  {
     "gameId": 59035,
     "season": 33,
     "date": "2026-09-07",
