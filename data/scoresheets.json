@@ -92620,6 +92620,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59073"
   },
   {
+    "gameId": 59093,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "SnoKing Jr Thunderbirds B",
+    "home": "Empire Hockey Club BB",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "14U BB/B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59093"
+  },
+  {
+    "gameId": 59115,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "California Surf",
+    "home": "West Ranch Wildcats JV",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "Midget A/JV",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59115"
+  },
+  {
     "gameId": 59169,
     "season": 33,
     "date": "2026-09-07",
