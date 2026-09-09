@@ -1,5 +1,25 @@
 [
   {
+    "videoId": "X5vDBL7t938",
+    "title": "Kennedy Softball @ Columbia 2026-09-08",
+    "url": "https://youtu.be/X5vDBL7t938",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2026-09-09"
+  },
+  {
     "videoId": "eFXxiWS2DfM",
     "title": "Alexander goals against",
     "url": "https://youtu.be/eFXxiWS2DfM",
@@ -3840,26 +3860,6 @@
     "uploadDate": "2017-10-14"
   },
   {
-    "videoId": "MJDYNN2S_VQ",
-    "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
-    "url": "https://youtu.be/MJDYNN2S_VQ",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2017-10-14"
-  },
-  {
     "videoId": "RgMj_gHPVOY",
     "title": "Button Turrible 2017 Trent Saturday",
     "url": "https://youtu.be/RgMj_gHPVOY",
@@ -3938,6 +3938,26 @@
       "no-vs"
     ],
     "uploadDate": "2017-10-14"
+  },
+  {
+    "videoId": "tnyQf013O2I",
+    "title": "Button Turrible 2017 Justin Sunday Rear",
+    "url": "https://youtu.be/tnyQf013O2I",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2017-10-13"
   },
   {
     "videoId": "RLvGFKGT_Jc",
@@ -4820,9 +4840,9 @@
     "uploadDate": "2015-09-16"
   },
   {
-    "videoId": "ESr99b3iKb4",
-    "title": "First Time Minecraft YouTube Video",
-    "url": "https://youtu.be/ESr99b3iKb4",
+    "videoId": "_2vmUkEe2Rg",
+    "title": "2014 Thunderhill 24 hours of Lemons",
+    "url": "https://youtu.be/_2vmUkEe2Rg",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -4837,7 +4857,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2015-07-04"
+    "uploadDate": "2016-03-04"
   },
   {
     "videoId": "3aDiwKeL0GQ",
