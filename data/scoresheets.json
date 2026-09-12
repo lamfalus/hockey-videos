@@ -92772,5 +92772,16 @@
     "homeGoals": 1,
     "level": "8U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59174"
+  },
+  {
+    "gameId": 60346,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 16AAA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "16U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60346"
   }
 ]
