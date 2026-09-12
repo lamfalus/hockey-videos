@@ -92774,6 +92774,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59174"
   },
   {
+    "gameId": 58794,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 18AAA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58794"
+  },
+  {
     "gameId": 60346,
     "season": 33,
     "date": "2026-09-12",
