@@ -92994,6 +92994,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57113"
   },
   {
+    "gameId": 57114,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Tri-Valley Bulls 1 14AA",
+    "home": "Santa Clara Blackhawks 14AA",
+    "awayGoals": 8,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57114"
+  },
+  {
     "gameId": 57157,
     "season": 33,
     "date": "2026-09-13",
