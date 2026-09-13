@@ -92939,6 +92939,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56807"
   },
   {
+    "gameId": 57111,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Oakland Bears 10-1",
+    "home": "San Jose Jr Sharks 2016 10-2",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57111"
+  },
+  {
     "gameId": 57157,
     "season": 33,
     "date": "2026-09-13",
@@ -92948,6 +92959,17 @@
     "homeGoals": 2,
     "level": "16U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57157"
+  },
+  {
+    "gameId": 57359,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Vacaville Jets 10-1",
+    "home": "Stockton Colts 10-1",
+    "awayGoals": 11,
+    "homeGoals": 3,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57359"
   },
   {
     "gameId": 59970,
