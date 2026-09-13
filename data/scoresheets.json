@@ -92878,8 +92878,8 @@
     "date": "2026-09-12",
     "away": "Away",
     "home": "Anaheim Jr Ducks 16AAA",
-    "awayGoals": 6,
-    "homeGoals": 4,
+    "awayGoals": 7,
+    "homeGoals": 0,
     "level": "16U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58796"
   },
@@ -92887,23 +92887,12 @@
     "gameId": 60009,
     "season": 33,
     "date": "2026-09-12",
-    "away": "Away",
+    "away": "Phoenix Jr Coyotes 15AAA",
     "home": "Los Angeles Jr Kings 15AAA",
     "awayGoals": 0,
     "homeGoals": 5,
     "level": "15U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60009"
-  },
-  {
-    "gameId": 60032,
-    "season": 33,
-    "date": "2026-09-12",
-    "away": "Away",
-    "home": "San Jose Jr Sharks 18AA",
-    "awayGoals": 2,
-    "homeGoals": 5,
-    "level": "18U AA",
-    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60032"
   },
   {
     "gameId": 60346,
