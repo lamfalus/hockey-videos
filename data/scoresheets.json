@@ -92926,5 +92926,16 @@
     "homeGoals": 7,
     "level": "High School 2A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60429"
+  },
+  {
+    "gameId": 56807,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "San Jose Jr Sharks 2015 10-2(4)",
+    "home": "Vacaville Jets 12-1",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56807"
   }
 ]
