@@ -93027,6 +93027,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59970"
   },
   {
+    "gameId": 60010,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Phoenix Jr Coyotes 15AAA",
+    "home": "Los Angeles Jr Kings 15AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "15U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60010"
+  },
+  {
     "gameId": 60347,
     "season": 33,
     "date": "2026-09-13",
