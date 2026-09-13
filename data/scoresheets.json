@@ -92972,6 +92972,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57157"
   },
   {
+    "gameId": 57158,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Tri Valley Bulls 16AA2",
+    "home": "Santa Clara Blackhawks 16AA",
+    "awayGoals": 0,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57158"
+  },
+  {
     "gameId": 57359,
     "season": 33,
     "date": "2026-09-13",
@@ -92981,6 +92992,17 @@
     "homeGoals": 3,
     "level": "10U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57359"
+  },
+  {
+    "gameId": 58391,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "San Francisco Sabercats 10-1",
+    "home": "Cupertino Cougars 10-1",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58391"
   },
   {
     "gameId": 59834,
