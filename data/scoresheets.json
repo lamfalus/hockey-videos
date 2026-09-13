@@ -92895,6 +92895,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60009"
   },
   {
+    "gameId": 60032,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 18AA",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60032"
+  },
+  {
     "gameId": 60346,
     "season": 33,
     "date": "2026-09-12",
