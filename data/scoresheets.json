@@ -92785,6 +92785,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56353"
   },
   {
+    "gameId": 56354,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Tri Valley Blue Devils 14-2",
+    "home": "Santa Rosa Flyers 14-1",
+    "awayGoals": 1,
+    "homeGoals": 14,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56354"
+  },
+  {
     "gameId": 57357,
     "season": 33,
     "date": "2026-09-12",
@@ -92871,5 +92882,16 @@
     "homeGoals": 1,
     "level": "16U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60346"
+  },
+  {
+    "gameId": 60429,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Santa Margarita Catholic (SMCHS)",
+    "home": "Central Cathedral Jets",
+    "awayGoals": 2,
+    "homeGoals": 7,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60429"
   }
 ]
