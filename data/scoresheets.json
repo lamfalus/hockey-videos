@@ -92939,6 +92939,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56807"
   },
   {
+    "gameId": 56808,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "San Francisco Sabercats 14-1",
+    "home": "Vacaville Jets 14-1",
+    "awayGoals": 8,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56808"
+  },
+  {
     "gameId": 57111,
     "season": 33,
     "date": "2026-09-13",
@@ -92972,6 +92983,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57359"
   },
   {
+    "gameId": 59834,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Away",
+    "home": "Junior Reign 14AA-1",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59834"
+  },
+  {
     "gameId": 59970,
     "season": 33,
     "date": "2026-09-13",
@@ -92981,6 +93003,17 @@
     "homeGoals": 1,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59970"
+  },
+  {
+    "gameId": 60347,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 16AAA",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "16U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60347"
   },
   {
     "gameId": 60839,
