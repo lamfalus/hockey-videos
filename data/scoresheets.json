@@ -92785,6 +92785,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56353"
   },
   {
+    "gameId": 57357,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Capital Thunder 12-1",
+    "home": "Stockton Colts 12-1",
+    "awayGoals": 2,
+    "homeGoals": 11,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57357"
+  },
+  {
     "gameId": 57368,
     "season": 33,
     "date": "2026-09-12",
@@ -92796,6 +92807,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57368"
   },
   {
+    "gameId": 58379,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Tri-Valley Bulls 2 14AA",
+    "home": "Golden State Elite 14AA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58379"
+  },
+  {
     "gameId": 58794,
     "season": 33,
     "date": "2026-09-12",
@@ -92805,6 +92827,17 @@
     "homeGoals": 0,
     "level": "18U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58794"
+  },
+  {
+    "gameId": 58796,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 16AAA",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "16U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58796"
   },
   {
     "gameId": 60346,
