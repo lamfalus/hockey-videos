@@ -92937,5 +92937,27 @@
     "homeGoals": 3,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56807"
+  },
+  {
+    "gameId": 57157,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "San Jose Jr Sharks 16A-2",
+    "home": "Santa Clara Blackhawks 16A",
+    "awayGoals": 12,
+    "homeGoals": 2,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57157"
+  },
+  {
+    "gameId": 60839,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "California Wave 12A",
+    "home": "Anaheim Jr Ducks 12A-3",
+    "awayGoals": 6,
+    "homeGoals": 6,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60839"
   }
 ]
