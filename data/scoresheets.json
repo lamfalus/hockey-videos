@@ -92807,6 +92807,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57357"
   },
   {
+    "gameId": 57358,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Tri Valley Blue Devils 14-1",
+    "home": "Stockton Colts 14-1",
+    "awayGoals": 4,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57358"
+  },
+  {
     "gameId": 57368,
     "season": 33,
     "date": "2026-09-12",
@@ -92838,6 +92849,17 @@
     "homeGoals": 4,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58379"
+  },
+  {
+    "gameId": 58386,
+    "season": 33,
+    "date": "2026-09-12",
+    "away": "Santa Clara Blackhawks 16AA",
+    "home": "Golden State Elite 16AA",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58386"
   },
   {
     "gameId": 58794,
