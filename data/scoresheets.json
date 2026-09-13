@@ -93060,6 +93060,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58392"
   },
   {
+    "gameId": 58393,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "San Francisco Sabercats 16A",
+    "home": "Cupertino Cougars 16A",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58393"
+  },
+  {
     "gameId": 59834,
     "season": 33,
     "date": "2026-09-13",
@@ -93080,6 +93091,17 @@
     "homeGoals": 1,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59970"
+  },
+  {
+    "gameId": 59971,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Reno Ice 18AA",
+    "home": "Capital Flames 18AA",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59971"
   },
   {
     "gameId": 60010,
