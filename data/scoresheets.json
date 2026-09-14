@@ -93049,6 +93049,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57420"
   },
   {
+    "gameId": 57421,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Oakland Bears 12-1",
+    "home": "Tri Valley Blue Devils 12-4",
+    "awayGoals": 9,
+    "homeGoals": 0,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57421"
+  },
+  {
     "gameId": 58391,
     "season": 33,
     "date": "2026-09-13",
