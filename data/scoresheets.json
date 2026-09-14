@@ -93005,6 +93005,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57114"
   },
   {
+    "gameId": 57115,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Golden State Elite 16AA",
+    "home": "San Jose Jr Sharks 16AA 16AA",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57115"
+  },
+  {
     "gameId": 57157,
     "season": 33,
     "date": "2026-09-13",
