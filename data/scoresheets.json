@@ -93170,6 +93170,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60347"
   },
   {
+    "gameId": 60424,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "Santa Clara Blackhawks 14-1",
+    "home": "Cupertino Cougars 14-1",
+    "awayGoals": 7,
+    "homeGoals": 8,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60424"
+  },
+  {
     "gameId": 60839,
     "season": 33,
     "date": "2026-09-13",
