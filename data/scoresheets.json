@@ -97777,5 +97777,16 @@
     "homeGoals": 6,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60839"
+  },
+  {
+    "gameId": 61031,
+    "season": 33,
+    "date": "2026-09-17",
+    "away": "California Surf 12B",
+    "home": "Coachella Valley Jr Firebirds 12B",
+    "awayGoals": 1,
+    "homeGoals": 0,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61031"
   }
 ]
