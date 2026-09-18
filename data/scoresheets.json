@@ -97801,6 +97801,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61031"
   },
   {
+    "gameId": 59686,
+    "season": 33,
+    "date": "2026-09-18",
+    "away": "Away",
+    "home": "Anaheim Lady Ducks 19AA",
+    "awayGoals": 2,
+    "homeGoals": 0,
+    "level": "Girls 19AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59686"
+  },
+  {
     "gameId": 61042,
     "season": 33,
     "date": "2026-09-18",
