@@ -97779,6 +97779,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60839"
   },
   {
+    "gameId": 60992,
+    "season": 33,
+    "date": "2026-09-17",
+    "away": "Golden State Elite 18AA",
+    "home": "Tri Valley Bulls 18AA",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60992"
+  },
+  {
     "gameId": 61031,
     "season": 33,
     "date": "2026-09-17",
