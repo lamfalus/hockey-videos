@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "41yGYycvxR4",
+    "title": "Jr. Sharks 14AAA vs Wasatch Renegades, 2026-09-18",
+    "url": "https://youtu.be/41yGYycvxR4",
+    "isGame": true,
+    "teamA": "Jr. Sharks 14AAA",
+    "teamB": "Wasatch Renegades",
+    "date": "2026-09-18",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 5,
+      "against": 0
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-09-19"
+  },
+  {
     "videoId": "1cYDAe3P4LU",
     "title": "Cougars 12-1 vs San Jose Jr Sharks 12-3, 2026-09-06",
     "url": "https://youtu.be/1cYDAe3P4LU",
@@ -7474,28 +7496,6 @@
     "uploadDate": "2024-02-12"
   },
   {
-    "videoId": "0AnsF710KOI",
-    "title": "12AA GSE-1 VS LITTLETON HAWKS, 10-Feb-2024",
-    "url": "https://youtu.be/0AnsF710KOI",
-    "isGame": true,
-    "teamA": "12AA GSE-1",
-    "teamB": "LITTLETON HAWKS",
-    "date": "2024-02-10",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Loss",
-      "for": 0,
-      "against": 3
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-02-12"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -7514,6 +7514,28 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "MBLH5zbX0Ac",
+    "title": "12AA GSE-1 VS JR. MUSTANGS, 11-Feb-2024",
+    "url": "https://youtu.be/MBLH5zbX0Ac",
+    "isGame": true,
+    "teamA": "12AA GSE-1",
+    "teamB": "JR. MUSTANGS",
+    "date": "2024-02-11",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 4,
+      "against": 1
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-02-12"
   },
   {
     "videoId": "EXLIygxqP2w",
@@ -8410,24 +8432,6 @@
     "uploadDate": "2023-11-19"
   },
   {
-    "videoId": "kSOkAkzyeIk",
-    "title": "15AAA JR. SHARKS vs. OAKMOOR PATRIOTS, 11-Nov-23",
-    "url": "https://youtu.be/kSOkAkzyeIk",
-    "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "OAKMOOR PATRIOTS",
-    "date": "2023-11-11",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2023-11-19"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8446,6 +8450,24 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "tfc0g9APqwI",
+    "title": "12AA GSE-1 vs Jr. Steelheads, 11-19-2023 (LB)",
+    "url": "https://youtu.be/tfc0g9APqwI",
+    "isGame": true,
+    "teamA": "12AA GSE-1",
+    "teamB": "Jr. Steelheads, (LB)",
+    "date": "2023-11-19",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2023-11-19"
   },
   {
     "videoId": "rBoXFuGejqU",
@@ -9418,13 +9440,13 @@
     "uploadDate": "2023-09-11"
   },
   {
-    "videoId": "ceEipCe6788",
-    "title": "12AA GSE-1 vs Jr. Golden Knights 9-3-2023, Livebarn",
-    "url": "https://youtu.be/ceEipCe6788",
+    "videoId": "vpBt55Tu7AY",
+    "title": "12AA GSE-1 vs Jr. Golden Knights, 9-1-2023, Livebarn",
+    "url": "https://youtu.be/vpBt55Tu7AY",
     "isGame": true,
     "teamA": "12AA GSE-1",
     "teamB": "Jr. Golden Knights",
-    "date": "2023-09-03",
+    "date": "2023-09-01",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -11158,30 +11180,6 @@
     "uploadDate": "2023-01-03"
   },
   {
-    "videoId": "W9drVLOJtR8",
-    "title": "10U Cougars vs. SJ Jr. Sharks-2, 11-13-2022 (60fps)",
-    "url": "https://youtu.be/W9drVLOJtR8",
-    "isGame": true,
-    "teamA": "10U Cougars",
-    "teamB": "SJ Jr. Sharks-2, (60fps)",
-    "date": "2022-11-13",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Win",
-      "for": 2,
-      "against": 1
-    },
-    "confidence": "medium",
-    "flags": [
-      "date-drift"
-    ],
-    "uploadDate": "2023-01-03"
-  },
-  {
     "videoId": "IxFoYB9D9LU",
     "title": "10U Cougars vs Jr . Sharks-2, 11-13-22",
     "url": "https://youtu.be/IxFoYB9D9LU",
@@ -11388,6 +11386,26 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "CzATIb5RqUY",
+    "title": "Holiday KKAOS vs Demon Kitty Waffles, Game #1",
+    "url": "https://youtu.be/CzATIb5RqUY",
+    "isGame": true,
+    "teamA": "Holiday KKAOS",
+    "teamB": "Demon Kitty Waffles, Game #1",
+    "date": "2022-12-24",
+    "dateSource": "upload",
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-missing"
+    ],
+    "uploadDate": "2022-12-24"
   },
   {
     "videoId": "2W-Jji1IHHM",
@@ -11996,26 +12014,6 @@
     "uploadDate": "2022-11-07"
   },
   {
-    "videoId": "hrDjaNEhqvc",
-    "title": "GSEE 14AA-1 vs Jr  Ducks 2 9-18-2022",
-    "url": "https://youtu.be/hrDjaNEhqvc",
-    "isGame": true,
-    "teamA": "GSEE 14AA-1",
-    "teamB": "Jr Ducks 2",
-    "date": "2022-09-18",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-drift"
-    ],
-    "uploadDate": "2022-11-07"
-  },
-  {
     "videoId": "4B_KpD_7__U",
     "title": "10U Cougars vs Capital Thunder, 10-16-22",
     "url": "https://youtu.be/4B_KpD_7__U",
@@ -12089,6 +12087,30 @@
     "isScrimmage": false,
     "source": null,
     "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-drift"
+    ],
+    "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "m8MfjtRz2OE",
+    "title": "10U Cougars vs SC Blackhawks, 10-30-2022",
+    "url": "https://youtu.be/m8MfjtRz2OE",
+    "isGame": true,
+    "teamA": "10U Cougars",
+    "teamB": "SC Blackhawks",
+    "date": "2022-10-30",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 6,
+      "against": 1
+    },
     "confidence": "medium",
     "flags": [
       "date-drift"
@@ -12758,22 +12780,22 @@
     "uploadDate": "2022-06-01"
   },
   {
-    "videoId": "U0jiA80opMg",
-    "title": "14U PDP vs TV Bulls, May 27, 2022",
-    "url": "https://youtu.be/U0jiA80opMg",
+    "videoId": "l_7hB4JNpPs",
+    "title": "14U PDP vs Jr. Ducks SG08, May 28, 2022",
+    "url": "https://youtu.be/l_7hB4JNpPs",
     "isGame": true,
     "teamA": "14U PDP",
-    "teamB": "TV Bulls",
-    "date": "2022-05-27",
+    "teamB": "Jr. Ducks SG08",
+    "date": "2022-05-28",
     "dateSource": "title",
     "dateFormat": "mon-d-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
     "result": {
-      "outcome": "Win",
-      "for": 4,
-      "against": 1
+      "outcome": "Loss",
+      "for": 0,
+      "against": 2
     },
     "confidence": "high",
     "flags": [],
