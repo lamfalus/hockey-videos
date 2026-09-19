@@ -97832,5 +97832,16 @@
     "homeGoals": 6,
     "level": "Girls 19AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61042"
+  },
+  {
+    "gameId": 57338,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Vacaville Jets 10-2",
+    "home": "Lake Tahoe Grizzlies 10-2",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57338"
   }
 ]
