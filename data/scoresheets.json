@@ -97658,6 +97658,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57869"
   },
   {
+    "gameId": 57870,
+    "season": 33,
+    "date": "2026-09-13",
+    "away": "SDIA Oilers 18AA",
+    "home": "Orange County OC Hockey (2) 18UAA 18AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57870"
+  },
+  {
     "gameId": 58391,
     "season": 33,
     "date": "2026-09-13",
