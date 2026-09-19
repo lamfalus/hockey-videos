@@ -3780,9 +3780,9 @@
     "uploadDate": "2017-10-21"
   },
   {
-    "videoId": "uyVt0KosPNQ",
-    "title": "Simraceway F3 Experience - Nov. 4, 2017",
-    "url": "https://youtu.be/uyVt0KosPNQ",
+    "videoId": "Xg-rNSzhRaY",
+    "title": "Lemons ArseFreezapolooza 2017 - Saturday Race",
+    "url": "https://youtu.be/Xg-rNSzhRaY",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3797,7 +3797,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2017-12-01"
+    "uploadDate": "2017-10-21"
   },
   {
     "videoId": "J6slkUsXCXY",
@@ -4780,46 +4780,6 @@
     "uploadDate": "2015-09-16"
   },
   {
-    "videoId": "hqUsQ7Yjg_k",
-    "title": "Nikko's Fastest Lap,  24 hours of Lemons @ T-hill, September 2015",
-    "url": "https://youtu.be/hqUsQ7Yjg_k",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2015-09-16"
-  },
-  {
-    "videoId": "RCbPLjMtqjI",
-    "title": "Trent's Fastest Lap,  24 hours of Lemons @ T-hill, September 2015",
-    "url": "https://youtu.be/RCbPLjMtqjI",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2015-09-16"
-  },
-  {
     "videoId": "Qw6vRcJ_0wA",
     "title": "Lap of Thunderhill West, 1:35:45, 10-27-14",
     "url": "https://youtu.be/Qw6vRcJ_0wA",
@@ -4843,6 +4803,46 @@
     "videoId": "_2vmUkEe2Rg",
     "title": "2014 Thunderhill 24 hours of Lemons",
     "url": "https://youtu.be/_2vmUkEe2Rg",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "jhnrUFzvY9U",
+    "title": "Golf R Thunderhill West 1:35:86 10-27-14",
+    "url": "https://youtu.be/jhnrUFzvY9U",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "z1D_o0LwGfc",
+    "title": "99 Miata Thunderhill West 1:38.47 10-27-14",
+    "url": "https://youtu.be/z1D_o0LwGfc",
     "isGame": false,
     "teamA": null,
     "teamB": null,
