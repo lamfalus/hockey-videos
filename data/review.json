@@ -3780,9 +3780,9 @@
     "uploadDate": "2017-10-21"
   },
   {
-    "videoId": "Xg-rNSzhRaY",
-    "title": "Lemons ArseFreezapolooza 2017 - Saturday Race",
-    "url": "https://youtu.be/Xg-rNSzhRaY",
+    "videoId": "uyVt0KosPNQ",
+    "title": "Simraceway F3 Experience - Nov. 4, 2017",
+    "url": "https://youtu.be/uyVt0KosPNQ",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3797,7 +3797,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2017-10-21"
+    "uploadDate": "2017-12-01"
   },
   {
     "videoId": "J6slkUsXCXY",
@@ -4760,26 +4760,6 @@
     "uploadDate": "2015-12-11"
   },
   {
-    "videoId": "uNYY2suuTxA",
-    "title": "Reed's Fastest Lap,  24 hours of Lemons @ T-hill, September 2015",
-    "url": "https://youtu.be/uNYY2suuTxA",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2015-09-16"
-  },
-  {
     "videoId": "Qw6vRcJ_0wA",
     "title": "Lap of Thunderhill West, 1:35:45, 10-27-14",
     "url": "https://youtu.be/Qw6vRcJ_0wA",
@@ -4823,6 +4803,26 @@
     "videoId": "jhnrUFzvY9U",
     "title": "Golf R Thunderhill West 1:35:86 10-27-14",
     "url": "https://youtu.be/jhnrUFzvY9U",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "pdIkHcj-gDs",
+    "title": "Golf R Thunderhill West 1:36.13 reference lap",
+    "url": "https://youtu.be/pdIkHcj-gDs",
     "isGame": false,
     "teamA": null,
     "teamB": null,
