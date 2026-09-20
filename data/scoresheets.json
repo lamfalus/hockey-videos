@@ -97845,6 +97845,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56421"
   },
   {
+    "gameId": 56495,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Reno Ice 14-1",
+    "home": "Capital Thunder 14-1",
+    "awayGoals": 0,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56495"
+  },
+  {
+    "gameId": 56608,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Santa Rosa Flyers 10-1",
+    "home": "San Mateo Black Stars 10-1",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56608"
+  },
+  {
     "gameId": 56684,
     "season": 33,
     "date": "2026-09-19",
@@ -97911,6 +97933,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57345"
   },
   {
+    "gameId": 57351,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Tri Valley Blue Devils 14-2",
+    "home": "Lake Tahoe Grizzlies 14-1",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57351"
+  },
+  {
     "gameId": 57370,
     "season": 33,
     "date": "2026-09-19",
@@ -97920,5 +97953,16 @@
     "homeGoals": 0,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57370"
+  },
+  {
+    "gameId": 57371,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Tri-Valley Bulls 1 14AA",
+    "home": "Tri-Valley Bulls 2 14AA",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57371"
   }
 ]
