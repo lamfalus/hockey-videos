@@ -98043,6 +98043,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58388"
   },
   {
+    "gameId": 56496,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Vacaville Jets 10-1",
+    "home": "Capital Thunder 10-1",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56496"
+  },
+  {
     "gameId": 56702,
     "season": 33,
     "date": "2026-09-20",
@@ -98074,5 +98085,16 @@
     "homeGoals": 2,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57159"
+  },
+  {
+    "gameId": 57335,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Vacaville Jets 12-1",
+    "home": "Lake Tahoe Grizzlies 12-1",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57335"
   }
 ]
