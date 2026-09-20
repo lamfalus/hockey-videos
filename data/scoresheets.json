@@ -97845,6 +97845,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56421"
   },
   {
+    "gameId": 56422,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "San Jose Jr Sharks 14-2",
+    "home": "Santa Rosa Flyers 14-1",
+    "awayGoals": 4,
+    "homeGoals": 4,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56422"
+  },
+  {
     "gameId": 56495,
     "season": 33,
     "date": "2026-09-19",
@@ -97878,6 +97889,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56684"
   },
   {
+    "gameId": 56685,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "San Jose Jr Sharks 2016 10-3",
+    "home": "San Francisco Sabercats 10-1",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56685"
+  },
+  {
     "gameId": 57117,
     "season": 33,
     "date": "2026-09-19",
@@ -97887,6 +97909,17 @@
     "homeGoals": 1,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57117"
+  },
+  {
+    "gameId": 57118,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Cupertino Cougars 16A",
+    "home": "San Jose Jr Sharks 16A-1",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57118"
   },
   {
     "gameId": 57140,
@@ -97909,6 +97942,17 @@
     "homeGoals": 2,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57141"
+  },
+  {
+    "gameId": 57142,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "San Francisco Sabercats 14-2",
+    "home": "Oakland Bears 14-2",
+    "awayGoals": 1,
+    "homeGoals": 9,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57142"
   },
   {
     "gameId": 57338,
