@@ -98076,6 +98076,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57119"
   },
   {
+    "gameId": 57120,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Stockton Colts 10-1",
+    "home": "San Jose Jr Sharks 10-5 2017 10-2(5)",
+    "awayGoals": 9,
+    "homeGoals": 1,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57120"
+  },
+  {
     "gameId": 57159,
     "season": 33,
     "date": "2026-09-20",
