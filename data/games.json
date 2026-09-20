@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "ptM6zo_u_Jk",
+    "title": "Cougars 12-1 vs HHHA, 2026-09-19",
+    "url": "https://youtu.be/ptM6zo_u_Jk",
+    "isGame": true,
+    "teamA": "Cougars 12-1",
+    "teamB": "HHHA",
+    "date": "2026-09-19",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 4,
+      "against": 7
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-09-20"
+  },
+  {
     "videoId": "TZV0KgOQyAg",
     "title": "Cougars 12-1 vs Vegas Jr. Golden Knights, 2026-09-19",
     "url": "https://youtu.be/TZV0KgOQyAg",
@@ -7474,28 +7496,6 @@
     "uploadDate": "2024-02-18"
   },
   {
-    "videoId": "qmJCDYr3quw",
-    "title": "10-3 cougars vs tspc, 16-feb-2024 Veo",
-    "url": "https://youtu.be/qmJCDYr3quw",
-    "isGame": true,
-    "teamA": "10-3 cougars",
-    "teamB": "tspc, Veo",
-    "date": "2024-02-16",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Win",
-      "for": 5,
-      "against": 3
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-02-17"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -7514,6 +7514,28 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "XmA8QBct_PM",
+    "title": "10-3 Cougars vs TSPC Kings, 16-Feb-2024 (LB)",
+    "url": "https://youtu.be/XmA8QBct_PM",
+    "isGame": true,
+    "teamA": "10-3 Cougars",
+    "teamB": "TSPC Kings, (LB)",
+    "date": "2024-02-16",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 5,
+      "against": 3
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-02-17"
   },
   {
     "videoId": "ONooXuFv2KM",
@@ -8430,24 +8452,6 @@
     "uploadDate": "2023-11-27"
   },
   {
-    "videoId": "WlZX78aiaJg",
-    "title": "12AA GSE-1 VS JR. STEELHEADS 17-Nov-23",
-    "url": "https://youtu.be/WlZX78aiaJg",
-    "isGame": true,
-    "teamA": "12AA GSE-1",
-    "teamB": "JR. STEELHEADS",
-    "date": "2023-11-17",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2023-11-27"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8466,6 +8470,28 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "VBZ2IzH6d3c",
+    "title": "10-3 COUGARS VS. TRIVALLEY BLUE DEVILS, 19-Nov-23",
+    "url": "https://youtu.be/VBZ2IzH6d3c",
+    "isGame": true,
+    "teamA": "10-3 COUGARS",
+    "teamB": "TRIVALLEY BLUE DEVILS",
+    "date": "2023-11-19",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 4,
+      "against": 0
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2023-11-20"
   },
   {
     "videoId": "Z335VA8c-aI",
@@ -9420,24 +9446,26 @@
     "uploadDate": "2023-09-24"
   },
   {
-    "videoId": "CFzVAefg-No",
-    "title": "12AA GSE 1 vs Jr  Sharks goals against",
-    "url": "https://youtu.be/CFzVAefg-No",
+    "videoId": "wBfFEmGEkWU",
+    "title": "10-3 COUGARS vs Tahoe 9-17-23",
+    "url": "https://youtu.be/wBfFEmGEkWU",
     "isGame": true,
-    "teamA": "12AA GSE 1",
-    "teamB": "Jr Sharks goals against",
-    "date": "2023-09-19",
-    "dateSource": "upload",
-    "dateFormat": null,
+    "teamA": "10-3 COUGARS",
+    "teamB": "Tahoe",
+    "date": "2023-09-17",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-missing"
-    ],
-    "uploadDate": "2023-09-19"
+    "result": {
+      "outcome": "Win",
+      "for": 5,
+      "against": 4
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2023-09-18"
   },
   {
     "videoId": "wjc3DDgVhaQ",
@@ -11184,26 +11212,6 @@
     "uploadDate": "2023-01-03"
   },
   {
-    "videoId": "IxFoYB9D9LU",
-    "title": "10U Cougars vs Jr . Sharks-2, 11-13-22",
-    "url": "https://youtu.be/IxFoYB9D9LU",
-    "isGame": true,
-    "teamA": "10U Cougars",
-    "teamB": "Jr . Sharks-2",
-    "date": "2022-11-13",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-drift"
-    ],
-    "uploadDate": "2023-01-03"
-  },
-  {
     "videoId": "4B_KpD_7__U",
     "title": "10U Cougars vs Capital Thunder, 10-16-22",
     "url": "https://youtu.be/4B_KpD_7__U",
@@ -11390,6 +11398,26 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "TS7JVenlEe4",
+    "title": "Holiday KKAOS vs Ice Yetis, Game #3",
+    "url": "https://youtu.be/TS7JVenlEe4",
+    "isGame": true,
+    "teamA": "Holiday KKAOS",
+    "teamB": "Ice Yetis, Game #3",
+    "date": "2022-12-24",
+    "dateSource": "upload",
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-missing"
+    ],
+    "uploadDate": "2022-12-24"
   },
   {
     "videoId": "rTRbd_48VPc",
@@ -12008,24 +12036,6 @@
     "uploadDate": "2022-11-07"
   },
   {
-    "videoId": "Lwd5Ze6lj7c",
-    "title": "GSEE 14AA-1 vs OCHC-1, 10-15-2022",
-    "url": "https://youtu.be/Lwd5Ze6lj7c",
-    "isGame": true,
-    "teamA": "GSEE 14AA-1",
-    "teamB": "OCHC-1",
-    "date": "2022-10-15",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-11-07"
-  },
-  {
     "videoId": "4B_KpD_7__U",
     "title": "10U Cougars vs Capital Thunder, 10-16-22",
     "url": "https://youtu.be/4B_KpD_7__U",
@@ -12148,6 +12158,24 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "2cav_PAbg6o",
+    "title": "GSEE 14AA-1 VS FLYERS-2 10-2-2022",
+    "url": "https://youtu.be/2cav_PAbg6o",
+    "isGame": true,
+    "teamA": "GSEE 14AA-1",
+    "teamB": "FLYERS-2",
+    "date": "2022-10-02",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-11-07"
   },
   {
     "videoId": "YEaFVt-SHbw",
@@ -12770,6 +12798,28 @@
     "confidence": "high",
     "flags": [],
     "uploadDate": "2022-08-27"
+  },
+  {
+    "videoId": "gENZAIUkRrs",
+    "title": "Summerhawks 10U vs TVBD May 29, 2022",
+    "url": "https://youtu.be/gENZAIUkRrs",
+    "isGame": true,
+    "teamA": "Summerhawks 10U",
+    "teamB": "TVBD",
+    "date": "2022-05-29",
+    "dateSource": "title",
+    "dateFormat": "mon-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 15,
+      "against": 3
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-06-02"
   },
   {
     "videoId": "wlYXXCqtTeM",
@@ -15154,12 +15204,12 @@
     "uploadDate": "2021-09-05"
   },
   {
-    "videoId": "6balHAF1WVs",
-    "title": "Cougars 10u 9-4-21 shootout vs Leafs (Leafs end)",
-    "url": "https://youtu.be/6balHAF1WVs",
+    "videoId": "XfDUDGUtAhA",
+    "title": "Cougars 10u 9-4-21 shootout vs Reign (Cougars end)",
+    "url": "https://youtu.be/XfDUDGUtAhA",
     "isGame": true,
     "teamA": "Cougars 10u shootout",
-    "teamB": "Leafs (Leafs end)",
+    "teamB": "Reign (Cougars end)",
     "date": "2021-09-04",
     "dateSource": "title",
     "dateFormat": "m-d-y",
