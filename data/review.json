@@ -3720,9 +3720,9 @@
     "uploadDate": "2017-12-08"
   },
   {
-    "videoId": "99LrIOGPzC4",
-    "title": "Lemons Arsefreeze 2017 - personal best",
-    "url": "https://youtu.be/99LrIOGPzC4",
+    "videoId": "6lqJ4N0iClM",
+    "title": "Lemons Sears Pointless 2018 - Saturday Race Driver #1",
+    "url": "https://youtu.be/6lqJ4N0iClM",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3737,7 +3737,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2017-12-07"
+    "uploadDate": "2018-03-26"
   },
   {
     "videoId": "A8CklIyc_3g",
@@ -4720,26 +4720,6 @@
     "uploadDate": "2016-03-04"
   },
   {
-    "videoId": "hSDDLmpRFnQ",
-    "title": "24 Hours of Lemons, Arse-freeze-apalooza, Sonoma, Dec '15",
-    "url": "https://youtu.be/hSDDLmpRFnQ",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2015-12-11"
-  },
-  {
     "videoId": "Qw6vRcJ_0wA",
     "title": "Lap of Thunderhill West, 1:35:45, 10-27-14",
     "url": "https://youtu.be/Qw6vRcJ_0wA",
@@ -4823,6 +4803,26 @@
     "videoId": "z1D_o0LwGfc",
     "title": "99 Miata Thunderhill West 1:38.47 10-27-14",
     "url": "https://youtu.be/z1D_o0LwGfc",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "HOBA8mkBwWo",
+    "title": "LeMons Button Turrible 2015 - Trent's fastest lap",
+    "url": "https://youtu.be/HOBA8mkBwWo",
     "isGame": false,
     "teamA": null,
     "teamB": null,
