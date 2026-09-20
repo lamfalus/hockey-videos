@@ -97911,6 +97911,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56685"
   },
   {
+    "gameId": 56686,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Santa Clara Blackhawks 16A",
+    "home": "San Francisco Sabercats 16A",
+    "awayGoals": 0,
+    "homeGoals": 11,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56686"
+  },
+  {
     "gameId": 57117,
     "season": 33,
     "date": "2026-09-19",
