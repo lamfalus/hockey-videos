@@ -98065,6 +98065,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56702"
   },
   {
+    "gameId": 56703,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Santa Rosa Flyers 14-2",
+    "home": "San Francisco Sabercats 14-2",
+    "awayGoals": 9,
+    "homeGoals": 5,
+    "level": "14U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56703"
+  },
+  {
     "gameId": 57119,
     "season": 33,
     "date": "2026-09-20",
@@ -98085,6 +98096,17 @@
     "homeGoals": 1,
     "level": "10U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57120"
+  },
+  {
+    "gameId": 57143,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Stockton Colts 12-1",
+    "home": "Oakland Bears 12-1",
+    "awayGoals": 9,
+    "homeGoals": 4,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57143"
   },
   {
     "gameId": 57159,
@@ -98118,5 +98140,16 @@
     "homeGoals": 2,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57335"
+  },
+  {
+    "gameId": 57341,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Tri Valley Blue Devils 14-2",
+    "home": "Lake Tahoe Grizzlies 14-1",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57341"
   }
 ]
