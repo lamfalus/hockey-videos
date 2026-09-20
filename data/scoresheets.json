@@ -98098,6 +98098,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57120"
   },
   {
+    "gameId": 57121,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Cupertino Cougars 10-2",
+    "home": "San Jose Jr Sharks 2017 10-1(4)",
+    "awayGoals": 1,
+    "homeGoals": 14,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57121"
+  },
+  {
     "gameId": 57143,
     "season": 33,
     "date": "2026-09-20",
