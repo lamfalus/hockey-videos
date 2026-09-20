@@ -98041,5 +98041,16 @@
     "homeGoals": 9,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58388"
+  },
+  {
+    "gameId": 57119,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Santa Clara Blackhawks 10-2",
+    "home": "San Jose Jr Sharks 10-6 2017 10-3(6)",
+    "awayGoals": 8,
+    "homeGoals": 3,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57119"
   }
 ]
