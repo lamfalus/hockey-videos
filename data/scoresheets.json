@@ -98098,6 +98098,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57159"
   },
   {
+    "gameId": 57160,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Tri Valley Bulls 16AA2",
+    "home": "Santa Clara Blackhawks 16AA",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57160"
+  },
+  {
     "gameId": 57335,
     "season": 33,
     "date": "2026-09-20",
