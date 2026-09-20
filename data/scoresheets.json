@@ -97878,6 +97878,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56608"
   },
   {
+    "gameId": 56609,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Stockton Colts Girls 10G-1",
+    "home": "San Mateo Black Stars 10-3",
+    "awayGoals": 12,
+    "homeGoals": 0,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56609"
+  },
+  {
     "gameId": 56684,
     "season": 33,
     "date": "2026-09-19",
@@ -98008,5 +98019,16 @@
     "homeGoals": 2,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57371"
+  },
+  {
+    "gameId": 58388,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Tri Valley Blue Devils 10-1",
+    "home": "Cupertino Cougars 10-1",
+    "awayGoals": 2,
+    "homeGoals": 9,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58388"
   }
 ]
