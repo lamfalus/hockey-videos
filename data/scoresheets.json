@@ -98043,6 +98043,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58388"
   },
   {
+    "gameId": 56367,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "San Jose Jr Sharks 12-5",
+    "home": "Santa Rosa Flyers 12-2",
+    "awayGoals": 15,
+    "homeGoals": 1,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56367"
+  },
+  {
     "gameId": 56496,
     "season": 33,
     "date": "2026-09-20",
