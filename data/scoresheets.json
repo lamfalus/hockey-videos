@@ -98054,6 +98054,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56367"
   },
   {
+    "gameId": 56368,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Cupertino Cougars 12-2",
+    "home": "Santa Rosa Flyers 12-1",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56368"
+  },
+  {
     "gameId": 56496,
     "season": 33,
     "date": "2026-09-20",
