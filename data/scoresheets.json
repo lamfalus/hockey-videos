@@ -98206,5 +98206,16 @@
     "homeGoals": 6,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57423"
+  },
+  {
+    "gameId": 57424,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Fresno Jr Monsters Girls 10G-1",
+    "home": "Tri Valley Blue Devils 10-3",
+    "awayGoals": 0,
+    "homeGoals": 14,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57424"
   }
 ]
