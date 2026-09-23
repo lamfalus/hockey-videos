@@ -98373,6 +98373,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57871"
   },
   {
+    "gameId": 57872,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Rose City Pats 16AA",
+    "home": "Bay Harbor Red Wings 16AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57872"
+  },
+  {
+    "gameId": 57873,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "California Wave 14AA",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57873"
+  },
+  {
     "gameId": 57874,
     "season": 33,
     "date": "2026-09-20",
