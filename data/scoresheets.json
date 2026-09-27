@@ -99165,6 +99165,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58383"
   },
   {
+    "gameId": 58390,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Santa Clara Blackhawks 16AA",
+    "home": "Golden State Elite 16AA",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58390"
+  },
+  {
     "gameId": 61913,
     "season": 33,
     "date": "2026-09-26",
