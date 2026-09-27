@@ -99207,5 +99207,16 @@
     "homeGoals": 3,
     "level": "Girls 12AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61931"
+  },
+  {
+    "gameId": 61928,
+    "season": 33,
+    "date": "2026-09-27",
+    "away": "Tri Valley Blue Devils 12-2",
+    "home": "Santa Clara Blackhawks 12-1",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61928"
   }
 ]
