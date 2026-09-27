@@ -99121,6 +99121,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57129"
   },
   {
+    "gameId": 57130,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Tri-Valley Bulls 2 14AA",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 2,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57130"
+  },
+  {
     "gameId": 57367,
     "season": 33,
     "date": "2026-09-26",
