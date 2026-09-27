@@ -1220,26 +1220,6 @@
     "uploadDate": "2022-09-30"
   },
   {
-    "videoId": "d4J0M2BcNTY",
-    "title": "christopher lamfalusi shifts game#1 8-20-22",
-    "url": "https://youtu.be/d4J0M2BcNTY",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-08-24"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1258,6 +1238,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "g9_MxYuQPaY",
+    "title": "Christopher's Kennedy Middle School Graduation Ceremony",
+    "url": "https://youtu.be/g9_MxYuQPaY",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-06-10"
   },
   {
     "videoId": "ruw7cel6lBI",
@@ -3620,9 +3620,9 @@
     "uploadDate": "2018-03-26"
   },
   {
-    "videoId": "LKnHcAMWAB0",
-    "title": "Sunday Morning Oops - Sears Pointless 2018",
-    "url": "https://youtu.be/LKnHcAMWAB0",
+    "videoId": "sMyh3yDuQBo",
+    "title": "Lemons Sears Pointless 2018 - Sunday Race",
+    "url": "https://youtu.be/sMyh3yDuQBo",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3637,7 +3637,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2018-03-26"
+    "uploadDate": "2018-03-25"
   },
   {
     "videoId": "nLAmQSEyodQ",
@@ -4620,26 +4620,6 @@
     "uploadDate": "2016-03-04"
   },
   {
-    "videoId": "TjnLW3Lph3c",
-    "title": "LeMons Button Turrible 2015 - Mike's fastest lap",
-    "url": "https://youtu.be/TjnLW3Lph3c",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2016-03-04"
-  },
-  {
     "videoId": "Qw6vRcJ_0wA",
     "title": "Lap of Thunderhill West, 1:35:45, 10-27-14",
     "url": "https://youtu.be/Qw6vRcJ_0wA",
@@ -4818,6 +4798,26 @@
       "no-vs"
     ],
     "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "WdYdl_pq_kE",
+    "title": "Mike's Fastest Lap,  24 hours of Lemons @ T-hill, September 2015",
+    "url": "https://youtu.be/WdYdl_pq_kE",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2015-09-16"
   },
   {
     "videoId": "ESr99b3iKb4",
