@@ -99121,6 +99121,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57129"
   },
   {
+    "gameId": 57367,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Fresno Jr Monsters 12-1",
+    "home": "Stockton Colts 12-1",
+    "awayGoals": 4,
+    "homeGoals": 8,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57367"
+  },
+  {
     "gameId": 58245,
     "season": 33,
     "date": "2026-09-26",
@@ -99130,6 +99141,17 @@
     "homeGoals": 6,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58245"
+  },
+  {
+    "gameId": 58383,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Santa Clara Blackhawks 14AA",
+    "home": "Golden State Elite 14AA",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58383"
   },
   {
     "gameId": 61913,
