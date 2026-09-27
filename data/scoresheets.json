@@ -99220,6 +99220,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58247"
   },
   {
+    "gameId": 61912,
+    "season": 33,
+    "date": "2026-09-27",
+    "away": "Tri Valley Blue Devils 10-2",
+    "home": "Capital Thunder 10-1",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61912"
+  },
+  {
     "gameId": 61928,
     "season": 33,
     "date": "2026-09-27",
