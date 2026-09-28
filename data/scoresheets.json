@@ -99273,5 +99273,16 @@
     "homeGoals": 2,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61928"
+  },
+  {
+    "gameId": 61929,
+    "season": 33,
+    "date": "2026-09-27",
+    "away": "Oakland Bears",
+    "home": "Tri Valley Lady Blue Devils 12AAA",
+    "awayGoals": 2,
+    "homeGoals": 7,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61929"
   }
 ]
