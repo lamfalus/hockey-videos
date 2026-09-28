@@ -99209,6 +99209,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61931"
   },
   {
+    "gameId": 57135,
+    "season": 33,
+    "date": "2026-09-27",
+    "away": "San Jose Jr Sharks 14AA",
+    "home": "Santa Clara Blackhawks 14AA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57135"
+  },
+  {
     "gameId": 58247,
     "season": 33,
     "date": "2026-09-27",
