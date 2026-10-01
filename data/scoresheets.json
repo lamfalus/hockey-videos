@@ -99132,6 +99132,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60495"
   },
   {
+    "gameId": 59542,
+    "season": 33,
+    "date": "2026-09-22",
+    "away": "Valley Christian Warriors",
+    "home": "Los Gatos Wildcats HS VS",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "Varsity South",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59542"
+  },
+  {
     "gameId": 60002,
     "season": 33,
     "date": "2026-09-25",
@@ -100131,5 +100142,16 @@
     "homeGoals": 7,
     "level": "Girls 12AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61929"
+  },
+  {
+    "gameId": 59552,
+    "season": 33,
+    "date": "2026-09-28",
+    "away": "Bellarmine College Preparatory Bells HS VS",
+    "home": "Valley Christian Warriors",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "Varsity South",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59552"
   }
 ]
