@@ -102188,5 +102188,16 @@
     "homeGoals": 2,
     "level": "Girls 14AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61965"
+  },
+  {
+    "gameId": 62049,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Delta Knights",
+    "home": "Los Angeles Lions 12AA",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "Girls 12AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62049"
   }
 ]
