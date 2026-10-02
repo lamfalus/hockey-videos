@@ -102155,5 +102155,27 @@
     "homeGoals": 3,
     "level": "Girls 19AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61951"
+  },
+  {
+    "gameId": 61953,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Santa Clarita Lady Flyers 16AA",
+    "home": "Vacaville Jets Girls 16AA",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61953"
+  },
+  {
+    "gameId": 61965,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "San Jose Jr Sharks Girls 14AA",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61965"
   }
 ]
