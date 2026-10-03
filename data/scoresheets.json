@@ -102432,6 +102432,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61954"
   },
   {
+    "gameId": 61963,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "San Jose Jr Sharks Girls 14AA",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 3,
+    "homeGoals": 8,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61963"
+  },
+  {
     "gameId": 61966,
     "season": 33,
     "date": "2026-10-03",
