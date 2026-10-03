@@ -102190,6 +102190,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61965"
   },
   {
+    "gameId": 61984,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Santa Clarita Lady Flyers 14AA",
+    "home": "Anaheim Lady Ducks 14AA",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61984"
+  },
+  {
     "gameId": 62040,
     "season": 33,
     "date": "2026-10-02",
