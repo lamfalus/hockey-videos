@@ -102190,6 +102190,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61965"
   },
   {
+    "gameId": 62040,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "San Jose Jr Sharks Girls 14AAA",
+    "home": "Los Angeles Lions 14AAA",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62040"
+  },
+  {
     "gameId": 62049,
     "season": 33,
     "date": "2026-10-02",
