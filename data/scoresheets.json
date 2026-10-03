@@ -102377,6 +102377,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61952"
   },
   {
+    "gameId": 61954,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Anaheim Lady Ducks 16AA",
+    "home": "Vacaville Jets Girls 16AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61954"
+  },
+  {
     "gameId": 61989,
     "season": 33,
     "date": "2026-10-03",
@@ -102408,5 +102419,16 @@
     "homeGoals": 2,
     "level": "Girls 19AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62045"
+  },
+  {
+    "gameId": 62050,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Los Angeles Lions 12AA",
+    "home": "Delta Knights",
+    "awayGoals": 0,
+    "homeGoals": 1,
+    "level": "Girls 12AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62050"
   }
 ]
