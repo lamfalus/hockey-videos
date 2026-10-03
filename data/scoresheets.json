@@ -102344,6 +102344,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60820"
   },
   {
+    "gameId": 61952,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Anaheim Lady Ducks 14AA",
+    "home": "San Jose Jr Sharks Girls 14AA",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61952"
+  },
+  {
     "gameId": 61989,
     "season": 33,
     "date": "2026-10-03",
