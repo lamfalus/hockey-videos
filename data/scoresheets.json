@@ -102333,6 +102333,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62049"
   },
   {
+    "gameId": 59975,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Los Angeles Jr Kings 18AAA 18AAA",
+    "home": "San Jose Jr Sharks 18AAA",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59975"
+  },
+  {
     "gameId": 60820,
     "season": 33,
     "date": "2026-10-03",
@@ -102342,6 +102353,17 @@
     "homeGoals": 2,
     "level": "15U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60820"
+  },
+  {
+    "gameId": 61037,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Anaheim Lady Ducks 14AAA",
+    "home": "Tri Valley Lady Blue Devils 14AAA",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61037"
   },
   {
     "gameId": 61952,
