@@ -102333,6 +102333,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62049"
   },
   {
+    "gameId": 57374,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Santa Rosa Flyers 10BB",
+    "home": "Tri Valley Lady Blue Devils 10BB",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57374"
+  },
+  {
+    "gameId": 57498,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Vacaville Jets 12-2",
+    "home": "Oakland Bears 12-2",
+    "awayGoals": 7,
+    "homeGoals": 7,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57498"
+  },
+  {
     "gameId": 59836,
     "season": 33,
     "date": "2026-10-03",
