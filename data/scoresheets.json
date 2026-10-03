@@ -102179,6 +102179,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60819"
   },
   {
+    "gameId": 61864,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "San Jose Jr Sharks Girls 19AA",
+    "home": "Anaheim Lady Ducks 19AA",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "Girls 19AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61864"
+  },
+  {
     "gameId": 61865,
     "season": 33,
     "date": "2026-10-02",
@@ -102287,6 +102298,17 @@
     "homeGoals": 8,
     "level": "Girls 19AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62041"
+  },
+  {
+    "gameId": 62048,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Santa Clarita Lady Flyers 16AA",
+    "home": "Goldrush Hockey Club Girls 16AA",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62048"
   },
   {
     "gameId": 62049,
