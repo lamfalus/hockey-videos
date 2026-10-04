@@ -102960,6 +102960,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60898"
   },
   {
+    "gameId": 60899,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "San Mateo Black Stars 14BB",
+    "home": "Cupertino Cougars 14BB",
+    "awayGoals": 3,
+    "homeGoals": 14,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60899"
+  },
+  {
     "gameId": 61033,
     "season": 33,
     "date": "2026-10-04",
@@ -103068,6 +103079,17 @@
     "homeGoals": 6,
     "level": "Girls 12AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61998"
+  },
+  {
+    "gameId": 62044,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Los Angeles Lions 12AA",
+    "home": "Anaheim Lady Ducks 12AA",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "Girls 12AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62044"
   },
   {
     "gameId": 62046,
