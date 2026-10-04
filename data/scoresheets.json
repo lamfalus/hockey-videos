@@ -102927,6 +102927,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60047"
   },
   {
+    "gameId": 60048,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Stockton Colts 14A",
+    "home": "San Jose Jr Sharks 14A-2",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60048"
+  },
+  {
     "gameId": 60050,
     "season": 33,
     "date": "2026-10-04",
