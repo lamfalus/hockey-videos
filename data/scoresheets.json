@@ -102729,6 +102729,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62050"
   },
   {
+    "gameId": 56502,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Vacaville Jets 10BB",
+    "home": "Capital Thunder 10BB",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56502"
+  },
+  {
+    "gameId": 56706,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "San Mateo Black Stars 10B-1",
+    "home": "San Francisco Sabercats 10B",
+    "awayGoals": 5,
+    "homeGoals": 5,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56706"
+  },
+  {
     "gameId": 59194,
     "season": 33,
     "date": "2026-10-04",
@@ -102782,6 +102804,17 @@
     "homeGoals": 1,
     "level": "Girls 16AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61955"
+  },
+  {
+    "gameId": 61991,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "San Jose Jr Sharks Girls 14AAA",
+    "home": "Anaheim Lady Ducks 14AAA",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61991"
   },
   {
     "gameId": 61994,
