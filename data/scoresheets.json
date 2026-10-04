@@ -102751,6 +102751,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56706"
   },
   {
+    "gameId": 57552,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Vacaville Jets 10B",
+    "home": "Fresno Jr Monsters Girls 10B",
+    "awayGoals": 17,
+    "homeGoals": 0,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57552"
+  },
+  {
     "gameId": 59194,
     "season": 33,
     "date": "2026-10-04",
@@ -102771,6 +102782,17 @@
     "homeGoals": 2,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59458"
+  },
+  {
+    "gameId": 59459,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Santa Clara Blackhawks 16A",
+    "home": "Vacaville Jets 16A",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59459"
   },
   {
     "gameId": 60041,
@@ -102826,6 +102848,17 @@
     "homeGoals": 1,
     "level": "Girls 16AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61955"
+  },
+  {
+    "gameId": 61960,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "San Jose Jr Sharks Girls 19AA",
+    "home": "Tri Valley Lady Blue Devils 19AA",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "Girls 19AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61960"
   },
   {
     "gameId": 61991,
