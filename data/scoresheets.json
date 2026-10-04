@@ -102762,6 +102762,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56707"
   },
   {
+    "gameId": 57429,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Cupertino Cougars 10B",
+    "home": "Tri Valley Blue Devils 10B",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57429"
+  },
+  {
     "gameId": 57501,
     "season": 33,
     "date": "2026-10-04",
