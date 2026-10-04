@@ -102727,5 +102727,27 @@
     "homeGoals": 1,
     "level": "Girls 12AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62050"
+  },
+  {
+    "gameId": 61955,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Goldrush Hockey Club Girls 16AA",
+    "home": "Vacaville Jets Girls 16AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61955"
+  },
+  {
+    "gameId": 61994,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Anaheim Lady Ducks 16AAA",
+    "home": "Los Angeles Lions 16AAA",
+    "awayGoals": 0,
+    "homeGoals": 1,
+    "level": "Girls 16AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61994"
   }
 ]
