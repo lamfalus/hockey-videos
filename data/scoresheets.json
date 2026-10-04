@@ -102784,6 +102784,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57552"
   },
   {
+    "gameId": 57553,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Tri Valley Lady Blue Devils 10BB",
+    "home": "Fresno Jr Monsters 10BB",
+    "awayGoals": 7,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57553"
+  },
+  {
     "gameId": 59194,
     "season": 33,
     "date": "2026-10-04",
@@ -102848,6 +102859,17 @@
     "homeGoals": 2,
     "level": "10U B East",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60042"
+  },
+  {
+    "gameId": 60043,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Capital Thunder 10B",
+    "home": "San Jose Jr Sharks 10-5 10B-1",
+    "awayGoals": 2,
+    "homeGoals": 8,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60043"
   },
   {
     "gameId": 60050,
