@@ -61,6 +61,44 @@ const sheetSig = (name) =>
 const sheetSigToks = (name) =>
   sheetToks(name).filter((t) => !/^\d+$/.test(t) && !/^\d+[a-z]{1,3}$/.test(t) && !SHEET_DROP.has(t));
 function isSubseq(sub, seq) { let i = 0; for (const ch of seq) if (ch === sub[i]) i++; return i === sub.length; }
+
+// Age/division numbers in a team name: "12AAA"->12, "14AA"->14, "10U"->10,
+// "12-1"->12, "12AA-2"->12. A bare number with no division marker is ignored
+// (too ambiguous). Used to stop a 12AAA team matching a 14AA/19AA same-club team.
+function agesOf(name) {
+  const ages = new Set();
+  for (const t of (name || "").toLowerCase().split(/\s+/)) {
+    const m = t.match(/^(\d{1,2})(?:u|aaa|aa|a|bb|b|cc|c)(?:-\d+)?$/) || t.match(/^(\d{1,2})-\d+$/);
+    if (m) { const n = +m[1]; if (n >= 6 && n <= 20) ages.add(n); }
+  }
+  return ages;
+}
+// Tier (AAA/AA/A/B/…) from a name: "12AAA"->aaa, "14AA"->aa, "12AA-2"->aa,
+// standalone "AAA". The "U" age-bracket marker is not a tier.
+function tiersOf(name) {
+  const s = new Set();
+  for (const t of (name || "").toLowerCase().split(/\s+/)) {
+    const m = t.match(/^(aaa|aa|a|bb|b|cc|c)$/) || t.match(/^\d{1,2}u?(aaa|aa|a|bb|b|cc|c)(?:-\d+)?$/);
+    if (m) s.add(m[1]);
+  }
+  return s;
+}
+const isGirls = (name) => /\b(girls?|ladies|lady)\b/.test((name || "").toLowerCase());
+
+function shareAny(a, b) { for (const x of a) if (b.has(x)) return true; return false; }
+
+// Two team names are an incompatible match when they carry conflicting
+// age, tier, or gender — i.e. they're different teams even if they share a
+// club word. A missing attribute on either side never blocks (e.g. the DB name
+// "Cupertino Cougars" carries no age/tier, so it stays matchable).
+function incompatible(n1, n2) {
+  const a1 = agesOf(n1), a2 = agesOf(n2);
+  if (a1.size && a2.size && !shareAny(a1, a2)) return true;
+  const t1 = tiersOf(n1), t2 = tiersOf(n2);
+  if (t1.size && t2.size && !shareAny(t1, t2)) return true;
+  if (isGirls(n1) !== isGirls(n2)) return true; // girls team vs boys team
+  return false;
+}
 function sheetSide(ytSet, dbSet, dbName) {
   let nonWeak = 0, weak = 0;
   for (const t of ytSet) if (dbSet.has(t)) (SHEET_WEAK.has(t) ? weak++ : nonWeak++);
@@ -103,6 +141,8 @@ function makeSheetMatcher(sheets) {
         [s.vSig, s.away, s.hSig, s.home], // A~away, B~home
         [s.hSig, s.home, s.vSig, s.away], // A~home, B~away
       ]) {
+        // Different age / tier / gender on a side => different team, not this game.
+        if (incompatible(g.teamA, xName) || incompatible(g.teamB, yName)) continue;
         const a = sheetSide(A, x, xName), b = sheetSide(B, y, yName);
         if (a.ok && b.ok && a.nonWeak + b.nonWeak >= 1) {
           bestRank = Math.max(bestRank, a.score + b.score - dd * 0.5);
