@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "_qwWcD_B2AM",
+    "title": "Jr. Sharks Girls 12AAA vs Lions 12AAA, 2026-10-02",
+    "url": "https://youtu.be/_qwWcD_B2AM",
+    "isGame": true,
+    "teamA": "Jr. Sharks Girls 12AAA",
+    "teamB": "Lions 12AAA",
+    "date": "2026-10-02",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 0,
+      "against": 3
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-10-04"
+  },
+  {
     "videoId": "OkGHcg03E64",
     "title": "Jr. Sharks Girls 12AAA vs Tri Valley 12AAA, 2026-10-02",
     "url": "https://youtu.be/OkGHcg03E64",
@@ -7474,28 +7496,6 @@
     "uploadDate": "2024-02-21"
   },
   {
-    "videoId": "jckdk9o-NzY",
-    "title": "10-3 Cougars vs AV Avs, 19-Feb-2024",
-    "url": "https://youtu.be/jckdk9o-NzY",
-    "isGame": true,
-    "teamA": "10-3 Cougars",
-    "teamB": "AV Avs",
-    "date": "2024-02-19",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Win",
-      "for": 6,
-      "against": 0
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-02-20"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -7514,6 +7514,28 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "C2t6wJXrM1Y",
+    "title": "12AA GSE-1 VS JR. COYOTES, 17-Feb 2024",
+    "url": "https://youtu.be/C2t6wJXrM1Y",
+    "isGame": true,
+    "teamA": "12AA GSE-1",
+    "teamB": "JR. COYOTES",
+    "date": "2024-02-17",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": null,
+      "against": null
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-02-20"
   },
   {
     "videoId": "Xl1QCkTxO9I",
@@ -8468,24 +8490,6 @@
     "uploadDate": "2023-12-04"
   },
   {
-    "videoId": "uJ9nTPAj-E4",
-    "title": "15AAA JR. DUCKS VS JR. SHARKS, 2-Dec-23",
-    "url": "https://youtu.be/uJ9nTPAj-E4",
-    "isGame": true,
-    "teamA": "15AAA JR. DUCKS",
-    "teamB": "JR. SHARKS",
-    "date": "2023-12-02",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2023-12-03"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8504,6 +8508,28 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "H9eaqRHXKt0",
+    "title": "15AAA JR. SHARKS VS JR. DUCKS, 1-Dec-23",
+    "url": "https://youtu.be/H9eaqRHXKt0",
+    "isGame": true,
+    "teamA": "15AAA JR. SHARKS",
+    "teamB": "JR. DUCKS",
+    "date": "2023-12-01",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 2,
+      "against": 4
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2023-12-02"
   },
   {
     "videoId": "9PsB6dG8gv4",
@@ -9438,21 +9464,21 @@
     "uploadDate": "2023-09-25"
   },
   {
-    "videoId": "Bv0fuoVRcrg",
-    "title": "15AAA JR. SHARKS VS PAL JR. ISLANDERS, 24-Sep-2023",
-    "url": "https://youtu.be/Bv0fuoVRcrg",
+    "videoId": "nq8GrMQpAA8",
+    "title": "15AAA JR. SHARKS VS TRI-STATE SPARTANS, 23-Sep-2023",
+    "url": "https://youtu.be/nq8GrMQpAA8",
     "isGame": true,
     "teamA": "15AAA JR. SHARKS",
-    "teamB": "PAL JR. ISLANDERS",
-    "date": "2023-09-24",
+    "teamB": "TRI-STATE SPARTANS",
+    "date": "2023-09-23",
     "dateSource": "title",
     "dateFormat": "d-mon-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
     "result": {
-      "outcome": "Loss",
-      "for": 2,
+      "outcome": "Win",
+      "for": 4,
       "against": 3
     },
     "confidence": "high",
@@ -12206,6 +12232,24 @@
     "uploadDate": "2023-01-03"
   },
   {
+    "videoId": "c8hXrs79bQw",
+    "title": "GSEE 14AA-1 vs Northwest Chargers 11-04-22",
+    "url": "https://youtu.be/c8hXrs79bQw",
+    "isGame": true,
+    "teamA": "GSEE 14AA-1",
+    "teamB": "Northwest Chargers",
+    "date": "2022-11-04",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-11-07"
+  },
+  {
     "videoId": "MO-FyXvenms",
     "title": "GSEE 14AA-1 vs NC Golden Bears 11-05-22",
     "url": "https://youtu.be/MO-FyXvenms",
@@ -12902,6 +12946,24 @@
     "confidence": "high",
     "flags": [],
     "uploadDate": "2022-10-02"
+  },
+  {
+    "videoId": "28OsGDaHbXU",
+    "title": "10U Cougars vs SC Blackhawks, 9-10-22",
+    "url": "https://youtu.be/28OsGDaHbXU",
+    "isGame": true,
+    "teamA": "10U Cougars",
+    "teamB": "SC Blackhawks",
+    "date": "2022-09-10",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-09-10"
   },
   {
     "videoId": "CfLUX9bzx7Q",
@@ -17520,5 +17582,25 @@
     "confidence": "high",
     "flags": [],
     "uploadDate": "2018-09-10"
+  },
+  {
+    "videoId": "nhRnBfzYTmo",
+    "title": "Capitals vs Sabres 10U 3 31 18",
+    "url": "https://youtu.be/nhRnBfzYTmo",
+    "isGame": true,
+    "teamA": "Capitals",
+    "teamB": "Sabres 10U 3 31 18",
+    "date": "2018-04-01",
+    "dateSource": "upload",
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "medium",
+    "flags": [
+      "date-missing"
+    ],
+    "uploadDate": "2018-04-01"
   }
 ]
