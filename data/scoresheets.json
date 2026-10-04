@@ -102366,6 +102366,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56610"
   },
   {
+    "gameId": 56611,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Oakland Bears 10B",
+    "home": "San Mateo Black Stars 10B-2",
+    "awayGoals": 13,
+    "homeGoals": 0,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56611"
+  },
+  {
     "gameId": 56690,
     "season": 33,
     "date": "2026-10-03",
@@ -102443,6 +102454,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59193"
   },
   {
+    "gameId": 59195,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Anaheim Jr Ducks 16AAA",
+    "home": "San Jose Jr Sharks 16AAA",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "16U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59195"
+  },
+  {
     "gameId": 59197,
     "season": 33,
     "date": "2026-10-03",
@@ -102485,6 +102507,17 @@
     "homeGoals": 2,
     "level": "15U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60820"
+  },
+  {
+    "gameId": 60882,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Santa Clara Blackhawks 14AA",
+    "home": "Golden State Elite 14AA",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60882"
   },
   {
     "gameId": 61037,
