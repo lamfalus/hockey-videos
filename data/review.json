@@ -620,26 +620,6 @@
     "uploadDate": "2023-12-02"
   },
   {
-    "videoId": "XaUPWzafob0",
-    "title": "Lemons Sonoma Dec. '23 - Saturday",
-    "url": "https://youtu.be/XaUPWzafob0",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2023-12-02"
-  },
-  {
     "videoId": "aGJZw6EcvHQ",
     "title": "Sharks Ice at San Jose Gray Rink 2023 10 29T102953",
     "url": "https://youtu.be/aGJZw6EcvHQ",
@@ -1080,26 +1060,6 @@
     "uploadDate": "2022-11-11"
   },
   {
-    "videoId": "ic8gn4yQ8Pc",
-    "title": "Dylan Hit",
-    "url": "https://youtu.be/ic8gn4yQ8Pc",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-11-07"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1238,6 +1198,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "d4J0M2BcNTY",
+    "title": "christopher lamfalusi shifts game#1 8-20-22",
+    "url": "https://youtu.be/d4J0M2BcNTY",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-08-24"
   },
   {
     "videoId": "g9_MxYuQPaY",
@@ -3600,6 +3580,26 @@
     "uploadDate": "2018-04-09"
   },
   {
+    "videoId": "sMyh3yDuQBo",
+    "title": "Lemons Sears Pointless 2018 - Sunday Race",
+    "url": "https://youtu.be/sMyh3yDuQBo",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2018-03-25"
+  },
+  {
     "videoId": "7Q9bVzXXVW4",
     "title": "Sunday Morning Oops - Sears Pointless 2018 Rear View",
     "url": "https://youtu.be/7Q9bVzXXVW4",
@@ -3620,9 +3620,9 @@
     "uploadDate": "2018-03-26"
   },
   {
-    "videoId": "sMyh3yDuQBo",
-    "title": "Lemons Sears Pointless 2018 - Sunday Race",
-    "url": "https://youtu.be/sMyh3yDuQBo",
+    "videoId": "LKnHcAMWAB0",
+    "title": "Sunday Morning Oops - Sears Pointless 2018",
+    "url": "https://youtu.be/LKnHcAMWAB0",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3637,7 +3637,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2018-03-25"
+    "uploadDate": "2018-03-26"
   },
   {
     "videoId": "nLAmQSEyodQ",
@@ -4580,46 +4580,6 @@
     "uploadDate": "2016-03-04"
   },
   {
-    "videoId": "z1D_o0LwGfc",
-    "title": "99 Miata Thunderhill West 1:38.47 10-27-14",
-    "url": "https://youtu.be/z1D_o0LwGfc",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2016-03-04"
-  },
-  {
-    "videoId": "HOBA8mkBwWo",
-    "title": "LeMons Button Turrible 2015 - Trent's fastest lap",
-    "url": "https://youtu.be/HOBA8mkBwWo",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2016-03-04"
-  },
-  {
     "videoId": "Qw6vRcJ_0wA",
     "title": "Lap of Thunderhill West, 1:35:45, 10-27-14",
     "url": "https://youtu.be/Qw6vRcJ_0wA",
@@ -4798,6 +4758,46 @@
       "no-vs"
     ],
     "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "hqUsQ7Yjg_k",
+    "title": "Nikko's Fastest Lap,  24 hours of Lemons @ T-hill, September 2015",
+    "url": "https://youtu.be/hqUsQ7Yjg_k",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2015-09-16"
+  },
+  {
+    "videoId": "RCbPLjMtqjI",
+    "title": "Trent's Fastest Lap,  24 hours of Lemons @ T-hill, September 2015",
+    "url": "https://youtu.be/RCbPLjMtqjI",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2015-09-16"
   },
   {
     "videoId": "WdYdl_pq_kE",
