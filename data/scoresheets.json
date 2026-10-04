@@ -102641,6 +102641,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61992"
   },
   {
+    "gameId": 61993,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Los Angeles Lions 16AAA",
+    "home": "Anaheim Lady Ducks 16AAA",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "Girls 16AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61993"
+  },
+  {
     "gameId": 61996,
     "season": 33,
     "date": "2026-10-03",
