@@ -102795,6 +102795,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59194"
   },
   {
+    "gameId": 59196,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Anaheim Jr Ducks 16AAA",
+    "home": "San Jose Jr Sharks 16AAA",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "16U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59196"
+  },
+  {
     "gameId": 59458,
     "season": 33,
     "date": "2026-10-04",
