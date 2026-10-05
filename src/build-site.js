@@ -87,16 +87,17 @@ const isGirls = (name) => /\b(girls?|ladies|lady)\b/.test((name || "").toLowerCa
 
 function shareAny(a, b) { for (const x of a) if (b.has(x)) return true; return false; }
 
-// Two team names are an incompatible match when they carry conflicting
-// age, tier, or gender — i.e. they're different teams even if they share a
-// club word. A missing attribute on either side never blocks (e.g. the DB name
-// "Cupertino Cougars" carries no age/tier, so it stays matchable).
+// Two team names are an incompatible match when they carry conflicting age or
+// tier — different teams even if they share a club word. A missing attribute on
+// either side never blocks (e.g. the DB name "Cupertino Cougars" carries no
+// age/tier). Gender is checked per-game, not here: an opponent is often
+// abbreviated ("Tri Valley 12AAA" for "Tri Valley Lady Blue Devils"), so a
+// per-name girls test would wrongly reject it.
 function incompatible(n1, n2) {
   const a1 = agesOf(n1), a2 = agesOf(n2);
   if (a1.size && a2.size && !shareAny(a1, a2)) return true;
   const t1 = tiersOf(n1), t2 = tiersOf(n2);
   if (t1.size && t2.size && !shareAny(t1, t2)) return true;
-  if (isGirls(n1) !== isGirls(n2)) return true; // girls team vs boys team
   return false;
 }
 function sheetSide(ytSet, dbSet, dbName) {
@@ -130,18 +131,24 @@ function makeSheetMatcher(sheets) {
     if (!g.teamA || !g.teamB || !g.date) return null;
     const A = sheetSig(g.teamA), B = sheetSig(g.teamB);
     const window = g.dateSource === "upload" ? 2 : 1;
+    // Gender is a whole-game property: a girls video must match a girls sheet.
+    // The sheet's division ("Girls 12AAA") is the reliable signal — opponent
+    // names are often abbreviated and drop the "Girls"/"Lady" word.
+    const ytGirls = isGirls(g.teamA) || isGirls(g.teamB);
 
     // Every sheet that matches by date + both teams becomes a candidate.
     const cands = [];
     for (const s of withSig) {
       const dd = dayDiff(g.date, s.date);
       if (dd > window) continue;
+      const sheetGirls = isGirls(s.level) || isGirls(s.home) || isGirls(s.away);
+      if (ytGirls !== sheetGirls) continue; // girls game vs boys game
       let bestRank = -Infinity;
       for (const [x, xName, y, yName] of [
         [s.vSig, s.away, s.hSig, s.home], // A~away, B~home
         [s.hSig, s.home, s.vSig, s.away], // A~home, B~away
       ]) {
-        // Different age / tier / gender on a side => different team, not this game.
+        // Different age or tier on a side => different team, not this game.
         if (incompatible(g.teamA, xName) || incompatible(g.teamB, yName)) continue;
         const a = sheetSide(A, x, xName), b = sheetSide(B, y, yName);
         if (a.ok && b.ok && a.nonWeak + b.nonWeak >= 1) {
