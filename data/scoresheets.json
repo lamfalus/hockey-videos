@@ -102971,6 +102971,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60048"
   },
   {
+    "gameId": 60049,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "San Francisco Sabercats 16A",
+    "home": "San Jose Jr Sharks 16A-2",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60049"
+  },
+  {
     "gameId": 60050,
     "season": 33,
     "date": "2026-10-04",
