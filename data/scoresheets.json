@@ -102740,6 +102740,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56371"
   },
   {
+    "gameId": 56372,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Oakland Bears 14A",
+    "home": "Santa Rosa Flyers 14A",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56372"
+  },
+  {
     "gameId": 56502,
     "season": 33,
     "date": "2026-10-04",
@@ -103013,6 +103024,17 @@
     "homeGoals": 2,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60050"
+  },
+  {
+    "gameId": 60051,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Tri Valley Blue Devils 12A",
+    "home": "Santa Clara Blackhawks 12A",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60051"
   },
   {
     "gameId": 60897,
