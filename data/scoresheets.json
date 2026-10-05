@@ -102333,6 +102333,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62049"
   },
   {
+    "gameId": 62136,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Los Angeles Lions 12AAA",
+    "home": "San Jose Jr Sharks Girls",
+    "awayGoals": 3,
+    "homeGoals": 0,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62136"
+  },
+  {
+    "gameId": 62138,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "San Jose Jr Sharks Girls",
+    "home": "Tri Valley Lady Blue Devils 12AAA",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62138"
+  },
+  {
     "gameId": 56425,
     "season": 33,
     "date": "2026-10-03",
@@ -102727,6 +102749,28 @@
     "homeGoals": 1,
     "level": "Girls 12AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62050"
+  },
+  {
+    "gameId": 62101,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "San Jose Jr Sharks Girls",
+    "home": "Anaheim Lady Ducks 12AAA",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62101"
+  },
+  {
+    "gameId": 62135,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Tri Valley Lady Blue Devils 12AAA",
+    "home": "Los Angeles Lions 12AAA",
+    "awayGoals": 1,
+    "homeGoals": 7,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62135"
   },
   {
     "gameId": 56371,
@@ -103222,5 +103266,27 @@
     "homeGoals": 1,
     "level": "Girls 19AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62046"
+  },
+  {
+    "gameId": 62137,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Los Angeles Lions 12AAA",
+    "home": "San Jose Jr Sharks Girls",
+    "awayGoals": 3,
+    "homeGoals": 0,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62137"
+  },
+  {
+    "gameId": 62139,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Anaheim Lady Ducks 12AAA",
+    "home": "Tri Valley Lady Blue Devils 12AAA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62139"
   }
 ]
