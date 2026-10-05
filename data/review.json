@@ -580,26 +580,6 @@
     "uploadDate": "2023-12-04"
   },
   {
-    "videoId": "Gv5wlHI0gsk",
-    "title": "Lemons Sonoma Dec. '23 - Sunday",
-    "url": "https://youtu.be/Gv5wlHI0gsk",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2023-12-03"
-  },
-  {
     "videoId": "XaUPWzafob0",
     "title": "Lemons Sonoma Dec. '23 - Saturday",
     "url": "https://youtu.be/XaUPWzafob0",
@@ -1158,6 +1138,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "PF6JTNt1VDw",
+    "title": "Charlie's saves, CAHA Weekend#1",
+    "url": "https://youtu.be/PF6JTNt1VDw",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-09-30"
   },
   {
     "videoId": "d4J0M2BcNTY",
@@ -3500,26 +3500,6 @@
     "uploadDate": "2018-04-10"
   },
   {
-    "videoId": "JTXUGl7yycs",
-    "title": "Sears Pointless, 3-24-18, Stint 1",
-    "url": "https://youtu.be/JTXUGl7yycs",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2018-04-10"
-  },
-  {
     "videoId": "sMyh3yDuQBo",
     "title": "Lemons Sears Pointless 2018 - Sunday Race",
     "url": "https://youtu.be/sMyh3yDuQBo",
@@ -3538,6 +3518,26 @@
       "no-vs"
     ],
     "uploadDate": "2018-03-25"
+  },
+  {
+    "videoId": "Yf1hfkArAbM",
+    "title": "Capitals v Stars Jr Sharks 10U 4 7 18",
+    "url": "https://youtu.be/Yf1hfkArAbM",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2018-04-09"
   },
   {
     "videoId": "7Q9bVzXXVW4",
@@ -4480,26 +4480,6 @@
     "uploadDate": "2016-03-04"
   },
   {
-    "videoId": "jhnrUFzvY9U",
-    "title": "Golf R Thunderhill West 1:35:86 10-27-14",
-    "url": "https://youtu.be/jhnrUFzvY9U",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2016-03-04"
-  },
-  {
     "videoId": "Qw6vRcJ_0wA",
     "title": "Lap of Thunderhill West, 1:35:45, 10-27-14",
     "url": "https://youtu.be/Qw6vRcJ_0wA",
@@ -4678,6 +4658,26 @@
       "no-vs"
     ],
     "uploadDate": "2016-03-04"
+  },
+  {
+    "videoId": "behcsKLMLIo",
+    "title": "24 Hours of Lemons, Arse-freeze-apalooza, Sonoma, Dec '15",
+    "url": "https://youtu.be/behcsKLMLIo",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2015-12-11"
   },
   {
     "videoId": "uNYY2suuTxA",
