@@ -102795,6 +102795,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57430"
   },
   {
+    "gameId": 57431,
+    "season": 33,
+    "date": "2026-10-04",
+    "away": "Stockton Colts 12BB",
+    "home": "Tri Valley Blue Devils 12BB",
+    "awayGoals": 12,
+    "homeGoals": 0,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57431"
+  },
+  {
     "gameId": 57501,
     "season": 33,
     "date": "2026-10-04",
