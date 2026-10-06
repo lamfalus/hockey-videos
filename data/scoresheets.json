@@ -102520,6 +102520,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59975"
   },
   {
+    "gameId": 60559,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Orange County Hockey Club 14A-2",
+    "home": "San Diego Jr Gulls 14A-2",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60559"
+  },
+  {
     "gameId": 60604,
     "season": 33,
     "date": "2026-10-03",
