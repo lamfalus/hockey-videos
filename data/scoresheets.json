@@ -102707,6 +102707,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61996"
   },
   {
+    "gameId": 62003,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Goldrush Hockey Club Girls 16AA",
+    "home": "Santa Clarita Lady Flyers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62003"
+  },
+  {
     "gameId": 62042,
     "season": 33,
     "date": "2026-10-03",
@@ -104025,5 +104036,16 @@
     "homeGoals": 4,
     "level": "Girls 12AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62139"
+  },
+  {
+    "gameId": 59566,
+    "season": 33,
+    "date": "2026-10-05",
+    "away": "Pioneer Mustangs HS VS",
+    "home": "Valley Christian Warriors",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "Varsity South",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59566"
   }
 ]
