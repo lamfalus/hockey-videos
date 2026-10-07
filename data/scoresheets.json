@@ -102421,6 +102421,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56691"
   },
   {
+    "gameId": 56895,
+    "season": 33,
+    "date": "2026-10-03",
+    "away": "Capital Thunder 10BB",
+    "home": "Reno Ice 10BB",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56895"
+  },
+  {
     "gameId": 57374,
     "season": 33,
     "date": "2026-10-03",
