@@ -104520,5 +104520,16 @@
     "homeGoals": 4,
     "level": "12U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57503"
+  },
+  {
+    "gameId": 57504,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "San Francisco Sabercats 10BB",
+    "home": "Oakland Bears 10BB",
+    "awayGoals": 4,
+    "homeGoals": 17,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57504"
   }
 ]
