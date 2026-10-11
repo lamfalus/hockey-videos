@@ -104786,6 +104786,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58905"
   },
   {
+    "gameId": 58906,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Capital Thunder 10BB",
+    "home": "Stockton Colts 10BB",
+    "awayGoals": 11,
+    "homeGoals": 1,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58906"
+  },
+  {
     "gameId": 59461,
     "season": 33,
     "date": "2026-10-11",
@@ -104828,6 +104839,17 @@
     "homeGoals": 13,
     "level": "10U B West",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60055"
+  },
+  {
+    "gameId": 60056,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Jose Jr Sharks 10BB-2",
+    "home": "San Jose Jr Sharks 10BB-1",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60056"
   },
   {
     "gameId": 62267,
