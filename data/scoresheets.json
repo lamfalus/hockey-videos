@@ -104511,6 +104511,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59566"
   },
   {
+    "gameId": 56428,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Vacaville Jets 10B",
+    "home": "Santa Rosa Flyers 10B",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56428"
+  },
+  {
+    "gameId": 56693,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "San Jose Jr Sharks 14A-1",
+    "home": "San Francisco Sabercats 14A",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56693"
+  },
+  {
+    "gameId": 56898,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "San Jose Jr Sharks 12AA-2",
+    "home": "Reno Ice 12AA",
+    "awayGoals": 1,
+    "homeGoals": 1,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56898"
+  },
+  {
     "gameId": 57376,
     "season": 33,
     "date": "2026-10-10",
@@ -104542,6 +104575,17 @@
     "homeGoals": 17,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57504"
+  },
+  {
+    "gameId": 57505,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Tri Valley Blue Devils 14A",
+    "home": "Oakland Bears 14A",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57505"
   },
   {
     "gameId": 59521,
