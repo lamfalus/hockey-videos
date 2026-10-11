@@ -104764,6 +104764,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57555"
   },
   {
+    "gameId": 57556,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Tri Valley Blue Devils 14BB",
+    "home": "Fresno Jr Monsters 14BB",
+    "awayGoals": 8,
+    "homeGoals": 6,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57556"
+  },
+  {
     "gameId": 58351,
     "season": 33,
     "date": "2026-10-11",
@@ -104819,6 +104830,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59462"
   },
   {
+    "gameId": 59463,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Reno Ice 14A",
+    "home": "Vacaville Jets 14A",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59463"
+  },
+  {
     "gameId": 60054,
     "season": 33,
     "date": "2026-10-11",
@@ -104850,6 +104872,17 @@
     "homeGoals": 3,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60056"
+  },
+  {
+    "gameId": 61935,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Diego Jr Gulls 16AA",
+    "home": "Anaheim Jr Ducks 14AAA",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "14U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61935"
   },
   {
     "gameId": 62267,
