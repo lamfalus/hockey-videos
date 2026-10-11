@@ -104731,6 +104731,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56708"
   },
   {
+    "gameId": 56709,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Vacaville Jets 12B",
+    "home": "San Francisco Sabercats 12B",
+    "awayGoals": 14,
+    "homeGoals": 0,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56709"
+  },
+  {
     "gameId": 56900,
     "season": 33,
     "date": "2026-10-11",
