@@ -104731,6 +104731,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58351"
   },
   {
+    "gameId": 59461,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Tri Valley Lady Blue Devils 10BB",
+    "home": "Vacaville Jets 10BB",
+    "awayGoals": 1,
+    "homeGoals": 10,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59461"
+  },
+  {
     "gameId": 60054,
     "season": 33,
     "date": "2026-10-11",
