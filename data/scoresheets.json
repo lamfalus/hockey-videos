@@ -104742,6 +104742,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56900"
   },
   {
+    "gameId": 57555,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Reno Ice 10BB",
+    "home": "Fresno Jr Monsters 10BB",
+    "awayGoals": 12,
+    "homeGoals": 4,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57555"
+  },
+  {
     "gameId": 58351,
     "season": 33,
     "date": "2026-10-11",
@@ -104751,6 +104762,17 @@
     "homeGoals": 9,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58351"
+  },
+  {
+    "gameId": 58905,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Oakland Bears 10B",
+    "home": "Stockton Colts Girls 10B",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58905"
   },
   {
     "gameId": 59461,
@@ -104764,6 +104786,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59461"
   },
   {
+    "gameId": 59462,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Jose Jr Sharks 12A",
+    "home": "Vacaville Jets 12A",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59462"
+  },
+  {
     "gameId": 60054,
     "season": 33,
     "date": "2026-10-11",
@@ -104773,6 +104806,17 @@
     "homeGoals": 12,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60054"
+  },
+  {
+    "gameId": 60055,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Mateo Black Stars 10B-2",
+    "home": "San Jose Jr Sharks Girls 10B",
+    "awayGoals": 1,
+    "homeGoals": 13,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60055"
   },
   {
     "gameId": 62267,
