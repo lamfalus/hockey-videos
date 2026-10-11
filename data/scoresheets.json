@@ -104707,5 +104707,38 @@
     "homeGoals": 1,
     "level": "High School 2A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60431"
+  },
+  {
+    "gameId": 56900,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Jose Jr Sharks 12AA-2",
+    "home": "Reno Ice 12AA",
+    "awayGoals": 4,
+    "homeGoals": 7,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56900"
+  },
+  {
+    "gameId": 58351,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Francisco Sabercats 12BB",
+    "home": "Lake Tahoe Grizzlies 12BB",
+    "awayGoals": 1,
+    "homeGoals": 9,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58351"
+  },
+  {
+    "gameId": 60054,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Cupertino Cougars 10A",
+    "home": "San Jose Jr Sharks 10A-1",
+    "awayGoals": 2,
+    "homeGoals": 12,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60054"
   }
 ]
