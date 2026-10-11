@@ -104522,6 +104522,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56428"
   },
   {
+    "gameId": 56613,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Santa Rosa Flyers 14BB",
+    "home": "San Mateo Black Stars 14BB",
+    "awayGoals": 1,
+    "homeGoals": 13,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56613"
+  },
+  {
     "gameId": 56693,
     "season": 33,
     "date": "2026-10-10",
@@ -104555,6 +104566,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57376"
   },
   {
+    "gameId": 57377,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "San Jose Jr Sharks 16A-2",
+    "home": "Tri Valley Blue Devils 16A",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57377"
+  },
+  {
     "gameId": 57503,
     "season": 33,
     "date": "2026-10-10",
@@ -104586,6 +104608,17 @@
     "homeGoals": 2,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57505"
+  },
+  {
+    "gameId": 58346,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "San Francisco Sabercats 12BB",
+    "home": "Lake Tahoe Grizzlies 12BB",
+    "awayGoals": 4,
+    "homeGoals": 13,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58346"
   },
   {
     "gameId": 58903,
