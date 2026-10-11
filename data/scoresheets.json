@@ -104632,6 +104632,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57505"
   },
   {
+    "gameId": 57554,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Reno Ice 10BB",
+    "home": "Fresno Jr Monsters 10BB",
+    "awayGoals": 11,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57554"
+  },
+  {
     "gameId": 58346,
     "season": 33,
     "date": "2026-10-10",
@@ -104654,6 +104665,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58903"
   },
   {
+    "gameId": 58904,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Santa Rosa Flyers 14A",
+    "home": "Stockton Colts 14A",
+    "awayGoals": 1,
+    "homeGoals": 0,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58904"
+  },
+  {
     "gameId": 59521,
     "season": 33,
     "date": "2026-10-10",
@@ -104674,5 +104696,16 @@
     "homeGoals": 6,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59522"
+  },
+  {
+    "gameId": 60431,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Fairmont Prep",
+    "home": "Central Cathedral Jets",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60431"
   }
 ]
