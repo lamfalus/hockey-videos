@@ -104896,6 +104896,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60058"
   },
   {
+    "gameId": 60061,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Tri Valley Blue Devils 14A",
+    "home": "San Jose Jr Sharks 14A-2",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60061"
+  },
+  {
     "gameId": 60063,
     "season": 33,
     "date": "2026-10-11",
