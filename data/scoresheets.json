@@ -105642,5 +105642,16 @@
     "homeGoals": 7,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62718"
+  },
+  {
+    "gameId": 59576,
+    "season": 33,
+    "date": "2026-10-12",
+    "away": "Valley Christian Warriors",
+    "home": "Leigh Longhorns HS VS",
+    "awayGoals": 0,
+    "homeGoals": 7,
+    "level": "Varsity South",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59576"
   }
 ]
