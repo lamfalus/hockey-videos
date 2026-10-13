@@ -3440,26 +3440,6 @@
     "uploadDate": "2018-04-12"
   },
   {
-    "videoId": "kwVF4UYqp80",
-    "title": "Sears Pointless, 3-24-18, Stint 3, rear camera",
-    "url": "https://youtu.be/kwVF4UYqp80",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2018-04-12"
-  },
-  {
     "videoId": "sMyh3yDuQBo",
     "title": "Lemons Sears Pointless 2018 - Sunday Race",
     "url": "https://youtu.be/sMyh3yDuQBo",
@@ -3478,6 +3458,26 @@
       "no-vs"
     ],
     "uploadDate": "2018-03-25"
+  },
+  {
+    "videoId": "xIxw0tOMGnw",
+    "title": "Sears Pointless, 3-24-18, Stint 1, rear camera",
+    "url": "https://youtu.be/xIxw0tOMGnw",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2018-04-11"
   },
   {
     "videoId": "S7vpsIYT54Y",
