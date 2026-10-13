@@ -1060,6 +1060,46 @@
     "uploadDate": "2022-12-03"
   },
   {
+    "videoId": "Tc4Ba2aoJIk",
+    "title": "Great Forecheck",
+    "url": "https://youtu.be/Tc4Ba2aoJIk",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-11-11"
+  },
+  {
+    "videoId": "ic8gn4yQ8Pc",
+    "title": "Dylan Hit",
+    "url": "https://youtu.be/ic8gn4yQ8Pc",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-11-07"
+  },
+  {
     "videoId": "C_c3f2ZqE_4",
     "title": "RyanR",
     "url": "https://youtu.be/C_c3f2ZqE_4",
@@ -1458,6 +1498,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-03-20"
+  },
+  {
+    "videoId": "wtlE5XcJYes",
+    "title": "Lemons Sonoma, Dec 3, 2022",
+    "url": "https://youtu.be/wtlE5XcJYes",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-12-03"
   },
   {
     "videoId": "rnVKM6BAmHA",
@@ -3440,9 +3500,9 @@
     "uploadDate": "2018-04-12"
   },
   {
-    "videoId": "sMyh3yDuQBo",
-    "title": "Lemons Sears Pointless 2018 - Sunday Race",
-    "url": "https://youtu.be/sMyh3yDuQBo",
+    "videoId": "kwVF4UYqp80",
+    "title": "Sears Pointless, 3-24-18, Stint 3, rear camera",
+    "url": "https://youtu.be/kwVF4UYqp80",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3457,7 +3517,7 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2018-03-25"
+    "uploadDate": "2018-04-12"
   },
   {
     "videoId": "xIxw0tOMGnw",
