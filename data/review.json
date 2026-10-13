@@ -580,26 +580,6 @@
     "uploadDate": "2023-12-04"
   },
   {
-    "videoId": "GUmk0SEWLkw",
-    "title": "Lemons Sonoma Dec. '23 - Sunday 2",
-    "url": "https://youtu.be/GUmk0SEWLkw",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2023-12-04"
-  },
-  {
     "videoId": "Gv5wlHI0gsk",
     "title": "Lemons Sonoma Dec. '23 - Sunday",
     "url": "https://youtu.be/Gv5wlHI0gsk",
@@ -3480,26 +3460,6 @@
     "uploadDate": "2018-04-12"
   },
   {
-    "videoId": "xIxw0tOMGnw",
-    "title": "Sears Pointless, 3-24-18, Stint 1, rear camera",
-    "url": "https://youtu.be/xIxw0tOMGnw",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2018-04-11"
-  },
-  {
     "videoId": "sMyh3yDuQBo",
     "title": "Lemons Sears Pointless 2018 - Sunday Race",
     "url": "https://youtu.be/sMyh3yDuQBo",
@@ -3518,6 +3478,26 @@
       "no-vs"
     ],
     "uploadDate": "2018-03-25"
+  },
+  {
+    "videoId": "S7vpsIYT54Y",
+    "title": "Sears Pointless, 3-24-18, Stint 3",
+    "url": "https://youtu.be/S7vpsIYT54Y",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2018-04-10"
   },
   {
     "videoId": "YhkxOVyttdQ",
