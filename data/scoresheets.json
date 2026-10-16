@@ -106238,6 +106238,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62985"
   },
   {
+    "gameId": 62786,
+    "season": 33,
+    "date": "2026-10-15",
+    "away": "Tri Valley Bulls 18AA",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62786"
+  },
+  {
     "gameId": 62945,
     "season": 33,
     "date": "2026-10-15",
