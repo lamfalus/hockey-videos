@@ -106236,5 +106236,16 @@
     "homeGoals": 0,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62985"
+  },
+  {
+    "gameId": 62945,
+    "season": 33,
+    "date": "2026-10-15",
+    "away": "Orange County OC Hockey (2) 18UAA 18AA",
+    "home": "Orange County OC Hockey 16AA-1",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62945"
   }
 ]
