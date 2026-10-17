@@ -80036,6 +80036,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=54733"
   },
   {
+    "gameId": 62084,
+    "season": 31,
+    "date": "2025-11-08",
+    "away": "Away",
+    "home": "Tri Valley Bulls",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62084"
+  },
+  {
     "gameId": 50189,
     "season": 31,
     "date": "2025-11-09",
