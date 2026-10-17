@@ -106269,5 +106269,16 @@
     "homeGoals": 0,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62945"
+  },
+  {
+    "gameId": 59464,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Santa Rosa Flyers 10B",
+    "home": "Vacaville Jets 10B",
+    "awayGoals": 4,
+    "homeGoals": 9,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59464"
   }
 ]
