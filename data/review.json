@@ -800,6 +800,26 @@
     "uploadDate": "2023-05-22"
   },
   {
+    "videoId": "XaUPWzafob0",
+    "title": "Lemons Sonoma Dec. '23 - Saturday",
+    "url": "https://youtu.be/XaUPWzafob0",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2023-12-02"
+  },
+  {
     "videoId": "oyKjocaC7Bc",
     "title": "TV Spring 2011-12 Scrimmage, 5-14-2023",
     "url": "https://youtu.be/oyKjocaC7Bc",
@@ -998,46 +1018,6 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-04"
-  },
-  {
-    "videoId": "hcWHD1LkkT8",
-    "title": "Lemons Sonoma, Dec 3, 2022",
-    "url": "https://youtu.be/hcWHD1LkkT8",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-12-04"
-  },
-  {
-    "videoId": "wtlE5XcJYes",
-    "title": "Lemons Sonoma, Dec 3, 2022",
-    "url": "https://youtu.be/wtlE5XcJYes",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-12-03"
   },
   {
     "videoId": "wtlE5XcJYes",
@@ -4320,9 +4300,9 @@
     "uploadDate": "2016-12-13"
   },
   {
-    "videoId": "n7Mqzmbh_ZM",
-    "title": "#177 Lemons Sonoma Dec. '16, Sat laps 044-059",
-    "url": "https://youtu.be/n7Mqzmbh_ZM",
+    "videoId": "1hNNLa79Nts",
+    "title": "#177 Lemons Sonoma Dec. '16, Sun laps 058-073",
+    "url": "https://youtu.be/1hNNLa79Nts",
     "isGame": false,
     "teamA": null,
     "teamB": null,
