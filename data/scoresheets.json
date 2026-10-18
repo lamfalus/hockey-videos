@@ -106304,6 +106304,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56614"
   },
   {
+    "gameId": 56615,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Cupertino Cougars 10B",
+    "home": "San Mateo Black Stars 10B-1",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56615"
+  },
+  {
     "gameId": 56696,
     "season": 33,
     "date": "2026-10-17",
@@ -106456,5 +106467,16 @@
     "homeGoals": 8,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60885"
+  },
+  {
+    "gameId": 62131,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Tri Valley Bulls 18AA",
+    "home": "Oakland Bears 18AA",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62131"
   }
 ]
