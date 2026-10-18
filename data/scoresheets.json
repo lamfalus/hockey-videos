@@ -106623,6 +106623,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63110"
   },
   {
+    "gameId": 56904,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "San Jose Jr Sharks 10BB-1",
+    "home": "Reno Ice 10BB",
+    "awayGoals": 5,
+    "homeGoals": 4,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56904"
+  },
+  {
+    "gameId": 60070,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Tri Valley Blue Devils 10B",
+    "home": "San Jose Jr Sharks 10-5 10B-1",
+    "awayGoals": 2,
+    "homeGoals": 9,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60070"
+  },
+  {
+    "gameId": 61876,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "San Jose Jr Sharks 13AAA",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 12,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61876"
+  },
+  {
     "gameId": 62244,
     "season": 33,
     "date": "2026-10-18",
