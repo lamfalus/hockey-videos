@@ -106623,6 +106623,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63110"
   },
   {
+    "gameId": 56508,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Tri Valley Lady Blue Devils 10BB",
+    "home": "Capital Thunder 10BB",
+    "awayGoals": 0,
+    "homeGoals": 5,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56508"
+  },
+  {
     "gameId": 56904,
     "season": 33,
     "date": "2026-10-18",
@@ -106632,6 +106643,17 @@
     "homeGoals": 4,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56904"
+  },
+  {
+    "gameId": 56905,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Stockton Colts 14A",
+    "home": "Reno Ice 14A",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56905"
   },
   {
     "gameId": 58352,
