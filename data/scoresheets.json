@@ -106315,6 +106315,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57378"
   },
   {
+    "gameId": 57379,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Oakland Bears 14BB",
+    "home": "Tri Valley Blue Devils 14BB",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57379"
+  },
+  {
     "gameId": 57557,
     "season": 33,
     "date": "2026-10-17",
@@ -106324,6 +106335,17 @@
     "homeGoals": 7,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57557"
+  },
+  {
+    "gameId": 57558,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Stockton Colts 10BB",
+    "home": "Fresno Jr Monsters 10BB",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57558"
   },
   {
     "gameId": 58300,
@@ -106348,6 +106370,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59464"
   },
   {
+    "gameId": 59465,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "San Jose Jr Sharks 14A-2",
+    "home": "Vacaville Jets 14A",
+    "awayGoals": 12,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59465"
+  },
+  {
     "gameId": 60068,
     "season": 33,
     "date": "2026-10-17",
@@ -106357,5 +106390,16 @@
     "homeGoals": 1,
     "level": "10U B East",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60068"
+  },
+  {
+    "gameId": 60885,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "San Jose Jr Sharks 10A-2",
+    "home": "Cupertino Cougars 10A",
+    "awayGoals": 2,
+    "homeGoals": 8,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60885"
   }
 ]
