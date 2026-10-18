@@ -106634,6 +106634,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56904"
   },
   {
+    "gameId": 59518,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Stockton Colts Girls 10B",
+    "home": "Vacaville Jets 10B",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59518"
+  },
+  {
     "gameId": 60070,
     "season": 33,
     "date": "2026-10-18",
