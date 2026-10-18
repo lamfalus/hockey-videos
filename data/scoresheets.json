@@ -106346,5 +106346,16 @@
     "homeGoals": 9,
     "level": "10U B West",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59464"
+  },
+  {
+    "gameId": 60068,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Capital Thunder 10B",
+    "home": "San Jose Jr Sharks 10-6 10B-2",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60068"
   }
 ]
