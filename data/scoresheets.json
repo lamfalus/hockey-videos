@@ -106733,6 +106733,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60071"
   },
   {
+    "gameId": 60072,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Cupertino Cougars 12AA",
+    "home": "San Jose Jr Sharks 12AA-3",
+    "awayGoals": 0,
+    "homeGoals": 7,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60072"
+  },
+  {
     "gameId": 60081,
     "season": 33,
     "date": "2026-10-18",
