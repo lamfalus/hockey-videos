@@ -106634,6 +106634,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56904"
   },
   {
+    "gameId": 58352,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Fresno Jr Monsters Girls 10B",
+    "home": "Lake Tahoe Grizzlies 10B",
+    "awayGoals": 0,
+    "homeGoals": 15,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58352"
+  },
+  {
     "gameId": 59518,
     "season": 33,
     "date": "2026-10-18",
@@ -106654,6 +106665,17 @@
     "homeGoals": 9,
     "level": "10U B East",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60070"
+  },
+  {
+    "gameId": 60081,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Capital Thunder 10B",
+    "home": "Santa Clara Blackhawks 10B",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60081"
   },
   {
     "gameId": 61876,
