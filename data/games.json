@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "uPcVbQ92b0M",
+    "title": "Cougars 12-1 vs Jr. Sharks 12-3, 2026-10-18",
+    "url": "https://youtu.be/uPcVbQ92b0M",
+    "isGame": true,
+    "teamA": "Cougars 12-1",
+    "teamB": "Jr. Sharks 12-3",
+    "date": "2026-10-18",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 0,
+      "against": 7
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-10-18"
+  },
+  {
     "videoId": "EtA26yd8BL4",
     "title": "Jr. Sharks Girls 12AAA vs San Mateo Black Stars, 2026-10-11",
     "url": "https://youtu.be/EtA26yd8BL4",
@@ -8534,24 +8556,6 @@
     "uploadDate": "2024-01-09"
   },
   {
-    "videoId": "dYesTx0f_Vs",
-    "title": "15AAA JR. SHARKS VS OAKMOOR PATRIOTS, 17-DEC-2023",
-    "url": "https://youtu.be/dYesTx0f_Vs",
-    "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "OAKMOOR PATRIOTS",
-    "date": "2023-12-17",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-01-08"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8570,6 +8574,24 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "MhdKZIX49k8",
+    "title": "15AAA JR. SHARKS VS FLORIDA ALLIANCE, 17-DEC-2023",
+    "url": "https://youtu.be/MhdKZIX49k8",
+    "isGame": true,
+    "teamA": "15AAA JR. SHARKS",
+    "teamB": "FLORIDA ALLIANCE",
+    "date": "2023-12-17",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-01-08"
   },
   {
     "videoId": "YP1Ffv4cWyU",
@@ -9448,13 +9470,13 @@
     "uploadDate": "2023-10-23"
   },
   {
-    "videoId": "LGe96yM_5wo",
-    "title": "12AA GSE-1 vs. Littleton Hawks (LB), 10-21-2023",
-    "url": "https://youtu.be/LGe96yM_5wo",
+    "videoId": "Z46ZMdhabSw",
+    "title": "12AA GSE-1 vs. Arvada (LB), 10-20-2023",
+    "url": "https://youtu.be/Z46ZMdhabSw",
     "isGame": true,
     "teamA": "12AA GSE-1",
-    "teamB": "Littleton Hawks (LB)",
-    "date": "2023-10-21",
+    "teamB": "Arvada (LB)",
+    "date": "2023-10-20",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -9462,8 +9484,8 @@
     "source": null,
     "result": {
       "outcome": "Win",
-      "for": null,
-      "against": null
+      "for": 4,
+      "against": 2
     },
     "confidence": "high",
     "flags": [],
@@ -10294,13 +10316,13 @@
     "uploadDate": "2023-05-18"
   },
   {
-    "videoId": "e9j11Dtrrpw",
-    "title": "2008 Blazers vs Alaska Blades, 5-6-2023",
-    "url": "https://youtu.be/e9j11Dtrrpw",
+    "videoId": "OIUyE7Fj28I",
+    "title": "2008 Blazers vs Border Elites, 5-5-2023",
+    "url": "https://youtu.be/OIUyE7Fj28I",
     "isGame": true,
     "teamA": "2008 Blazers",
-    "teamB": "Alaska Blades",
-    "date": "2023-05-06",
+    "teamB": "Border Elites",
+    "date": "2023-05-05",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -12302,6 +12324,24 @@
     "uploadDate": "2023-01-03"
   },
   {
+    "videoId": "l-bbjQ_mMWg",
+    "title": "8U-2 Cougars vs. TV Blue Devils-3, 11-12-2022",
+    "url": "https://youtu.be/l-bbjQ_mMWg",
+    "isGame": true,
+    "teamA": "8U-2 Cougars",
+    "teamB": "TV Blue Devils-3",
+    "date": "2022-11-12",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-11-13"
+  },
+  {
     "videoId": "-KiGb7LxgCM",
     "title": "8U-2 Cougars vs. SF Sabercats-2, 11-12-2022",
     "url": "https://youtu.be/-KiGb7LxgCM",
@@ -12956,24 +12996,6 @@
     "uploadDate": "2022-10-10"
   },
   {
-    "videoId": "P2PdT4FU2aA",
-    "title": "10U Cougars vs 12-2 Cougars, Veo Cam 9-1-22",
-    "url": "https://youtu.be/P2PdT4FU2aA",
-    "isGame": true,
-    "teamA": "10U Cougars",
-    "teamB": "12-2 Cougars, Veo Cam",
-    "date": "2022-09-01",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-10-08"
-  },
-  {
     "videoId": "vASL-hAy6oU",
     "title": "10U Cougars-1 vs Jr. Sharks-2, 10-2-22",
     "url": "https://youtu.be/vASL-hAy6oU",
@@ -12992,6 +13014,24 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "qdFu47krf7Y",
+    "title": "10U Cougars vs SC Flyers, livebarn 9-3-22",
+    "url": "https://youtu.be/qdFu47krf7Y",
+    "isGame": true,
+    "teamA": "10U Cougars",
+    "teamB": "SC Flyers",
+    "date": "2022-09-03",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": "Livebarn",
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-10-08"
   },
   {
     "videoId": "eKYCF93Xw3w",
@@ -13648,13 +13688,13 @@
     "uploadDate": "2022-03-07"
   },
   {
-    "videoId": "pN3ULDPkWO8",
-    "title": "14U Cougars vs NCYH Bantam Blue, Pixellot cam, 2-19-22",
-    "url": "https://youtu.be/pN3ULDPkWO8",
+    "videoId": "IGO6lq5f7Ec",
+    "title": "14U Cougars vs Mallards, Pixellot camera, 2-20-22",
+    "url": "https://youtu.be/IGO6lq5f7Ec",
     "isGame": true,
     "teamA": "14U Cougars",
-    "teamB": "NCYH Bantam Blue, cam",
-    "date": "2022-02-19",
+    "teamB": "Mallards, camera",
+    "date": "2022-02-20",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -13662,7 +13702,7 @@
     "source": "Pixellot",
     "result": {
       "outcome": "Loss",
-      "for": 2,
+      "for": 3,
       "against": 6
     },
     "confidence": "high",
