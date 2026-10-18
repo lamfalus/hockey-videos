@@ -106282,6 +106282,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56429"
   },
   {
+    "gameId": 56430,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Cupertino Cougars 14BB",
+    "home": "Santa Rosa Flyers 14BB",
+    "awayGoals": 13,
+    "homeGoals": 1,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56430"
+  },
+  {
+    "gameId": 56614,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "San Jose Jr Sharks 10A-1",
+    "home": "San Mateo Black Stars 10A",
+    "awayGoals": 18,
+    "homeGoals": 0,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56614"
+  },
+  {
+    "gameId": 56696,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Oakland Bears 14A",
+    "home": "San Francisco Sabercats 14A",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56696"
+  },
+  {
     "gameId": 56697,
     "season": 33,
     "date": "2026-10-17",
@@ -106302,6 +106335,17 @@
     "homeGoals": 7,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56902"
+  },
+  {
+    "gameId": 56903,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Stockton Colts 14A",
+    "home": "Reno Ice 14A",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56903"
   },
   {
     "gameId": 57378,
@@ -106357,6 +106401,17 @@
     "homeGoals": 5,
     "level": "14U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58300"
+  },
+  {
+    "gameId": 58347,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Fresno Jr Monsters Girls 10B",
+    "home": "Lake Tahoe Grizzlies 10B",
+    "awayGoals": 1,
+    "homeGoals": 13,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58347"
   },
   {
     "gameId": 59464,
