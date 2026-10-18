@@ -106788,6 +106788,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60076"
   },
   {
+    "gameId": 60079,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Oakland Bears 12B",
+    "home": "San Jose Jr Sharks 12B",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60079"
+  },
+  {
     "gameId": 60081,
     "season": 33,
     "date": "2026-10-18",
