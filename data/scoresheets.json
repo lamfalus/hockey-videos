@@ -106667,6 +106667,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57435"
   },
   {
+    "gameId": 57437,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Santa Clara Blackhawks 16A",
+    "home": "Tri Valley Blue Devils 16A",
+    "awayGoals": 2,
+    "homeGoals": 8,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57437"
+  },
+  {
     "gameId": 57511,
     "season": 33,
     "date": "2026-10-18",
@@ -106821,6 +106832,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60079"
   },
   {
+    "gameId": 60080,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Capital Thunder 14A",
+    "home": "San Jose Jr Sharks 14A-2",
+    "awayGoals": 6,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60080"
+  },
+  {
     "gameId": 60081,
     "season": 33,
     "date": "2026-10-18",
@@ -106896,6 +106918,17 @@
     "homeGoals": 4,
     "level": "13U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61877"
+  },
+  {
+    "gameId": 62058,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "San Jose Jr Sharks 14AAA",
+    "home": "Anaheim Jr Ducks 14AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "14U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62058"
   },
   {
     "gameId": 62244,
