@@ -780,26 +780,6 @@
     "uploadDate": "2023-08-27"
   },
   {
-    "videoId": "ORbJgHpF178",
-    "title": "10U PDP SCRIMMAGE,  21-May-23",
-    "url": "https://youtu.be/ORbJgHpF178",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": true,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2023-05-22"
-  },
-  {
     "videoId": "XaUPWzafob0",
     "title": "Lemons Sonoma Dec. '23 - Saturday",
     "url": "https://youtu.be/XaUPWzafob0",
@@ -940,26 +920,6 @@
     "uploadDate": "2023-02-04"
   },
   {
-    "videoId": "Z-qCSEyWryQ",
-    "title": "Lemons Sonoma, Dec 4, 2022",
-    "url": "https://youtu.be/Z-qCSEyWryQ",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-12-05"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1040,26 +1000,6 @@
     "uploadDate": "2022-10-30"
   },
   {
-    "videoId": "Aecyhm-XqBU",
-    "title": "3v3 Katerina Game #1",
-    "url": "https://youtu.be/Aecyhm-XqBU",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-10-08"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1078,6 +1018,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "fF9uaZ6x8WQ",
+    "title": "3v3 Katerina Game #3",
+    "url": "https://youtu.be/fF9uaZ6x8WQ",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-10-08"
   },
   {
     "videoId": "PF6JTNt1VDw",
@@ -3160,9 +3120,9 @@
     "uploadDate": "2018-06-05"
   },
   {
-    "videoId": "74J3A4n2x3w",
-    "title": "Saturday, Driver 2 Front cam (1st stint)",
-    "url": "https://youtu.be/74J3A4n2x3w",
+    "videoId": "8GSnRAmkzvU",
+    "title": "Saturday, Driver #3 Front cam (1st stint)",
+    "url": "https://youtu.be/8GSnRAmkzvU",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3180,9 +3140,9 @@
     "uploadDate": "2018-06-05"
   },
   {
-    "videoId": "8GSnRAmkzvU",
-    "title": "Saturday, Driver #3 Front cam (1st stint)",
-    "url": "https://youtu.be/8GSnRAmkzvU",
+    "videoId": "sbubRR6sBdQ",
+    "title": "Sunday, Driver 2 Rear cam (1st stint)",
+    "url": "https://youtu.be/sbubRR6sBdQ",
     "isGame": false,
     "teamA": null,
     "teamB": null,
