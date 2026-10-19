@@ -14,8 +14,8 @@
     "source": null,
     "result": {
       "outcome": "Loss",
-      "for": 5,
-      "against": 6
+      "for": 2,
+      "against": 3
     },
     "confidence": "high",
     "flags": [],
