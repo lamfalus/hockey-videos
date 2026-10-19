@@ -960,46 +960,6 @@
     "uploadDate": "2022-12-05"
   },
   {
-    "videoId": "J3NxOXUXFZ4",
-    "title": "Lemons Sonoma, Dec 4, 2022",
-    "url": "https://youtu.be/J3NxOXUXFZ4",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-12-04"
-  },
-  {
-    "videoId": "FHdVcFyQ1Fo",
-    "title": "Lemons Sonoma, Dec 3, 2022",
-    "url": "https://youtu.be/FHdVcFyQ1Fo",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-12-04"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1083,46 +1043,6 @@
     "videoId": "Aecyhm-XqBU",
     "title": "3v3 Katerina Game #1",
     "url": "https://youtu.be/Aecyhm-XqBU",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-10-08"
-  },
-  {
-    "videoId": "zYFmynKCPN4",
-    "title": "3v3 Katerina Game #2",
-    "url": "https://youtu.be/zYFmynKCPN4",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-10-08"
-  },
-  {
-    "videoId": "fF9uaZ6x8WQ",
-    "title": "3v3 Katerina Game #3",
-    "url": "https://youtu.be/fF9uaZ6x8WQ",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3240,29 +3160,9 @@
     "uploadDate": "2018-06-05"
   },
   {
-    "videoId": "8GSnRAmkzvU",
-    "title": "Saturday, Driver #3 Front cam (1st stint)",
-    "url": "https://youtu.be/8GSnRAmkzvU",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2018-06-05"
-  },
-  {
-    "videoId": "sbubRR6sBdQ",
-    "title": "Sunday, Driver 2 Rear cam (1st stint)",
-    "url": "https://youtu.be/sbubRR6sBdQ",
+    "videoId": "74J3A4n2x3w",
+    "title": "Saturday, Driver 2 Front cam (1st stint)",
+    "url": "https://youtu.be/74J3A4n2x3w",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3283,6 +3183,26 @@
     "videoId": "8GSnRAmkzvU",
     "title": "Saturday, Driver #3 Front cam (1st stint)",
     "url": "https://youtu.be/8GSnRAmkzvU",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2018-06-05"
+  },
+  {
+    "videoId": "ijBx7glJPNY",
+    "title": "Sunday, Driver 2 Front cam (1st stint)",
+    "url": "https://youtu.be/ijBx7glJPNY",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -4260,9 +4180,9 @@
     "uploadDate": "2016-12-13"
   },
   {
-    "videoId": "1hNNLa79Nts",
-    "title": "#177 Lemons Sonoma Dec. '16, Sun laps 058-073",
-    "url": "https://youtu.be/1hNNLa79Nts",
+    "videoId": "deqZUFIVwwI",
+    "title": "#177 Lemons Sonoma Dec. '16, Sun laps 002-017",
+    "url": "https://youtu.be/deqZUFIVwwI",
     "isGame": false,
     "teamA": null,
     "teamB": null,
