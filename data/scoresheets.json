@@ -95029,6 +95029,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59677"
   },
   {
+    "gameId": 59720,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59720"
+  },
+  {
     "gameId": 59838,
     "season": 33,
     "date": "2026-09-04",
@@ -97548,6 +97559,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59679"
   },
   {
+    "gameId": 59721,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59721"
+  },
+  {
     "gameId": 59965,
     "season": 33,
     "date": "2026-09-06",
@@ -98120,12 +98142,23 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59359"
   },
   {
-    "gameId": 59968,
+    "gameId": 59722,
     "season": 33,
     "date": "2026-09-07",
     "away": "Away",
-    "home": "San Diego Jr Gulls 16AA",
+    "home": "SDIA Oilers 16AA",
     "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59722"
+  },
+  {
+    "gameId": 59968,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "SDIA Oilers 16AA",
+    "home": "San Diego Jr Gulls 16AA",
+    "awayGoals": 4,
     "homeGoals": 3,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59968"
@@ -105644,6 +105677,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62712"
   },
   {
+    "gameId": 62714,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62714"
+  },
+  {
+    "gameId": 62715,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62715"
+  },
+  {
     "gameId": 62719,
     "season": 33,
     "date": "2026-10-10",
@@ -107063,6 +107118,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62830"
   },
   {
+    "gameId": 62973,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62973"
+  },
+  {
     "gameId": 62984,
     "season": 33,
     "date": "2026-10-11",
@@ -107105,6 +107171,17 @@
     "homeGoals": 4,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62991"
+  },
+  {
+    "gameId": 62992,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62992"
   },
   {
     "gameId": 63011,
@@ -107171,6 +107248,28 @@
     "homeGoals": 2,
     "level": "Girls 19AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62724"
+  },
+  {
+    "gameId": 62971,
+    "season": 33,
+    "date": "2026-10-12",
+    "away": "SDIA Oilers 16AA",
+    "home": "Home",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62971"
+  },
+  {
+    "gameId": 62972,
+    "season": 33,
+    "date": "2026-10-12",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62972"
   },
   {
     "gameId": 62985,
@@ -107325,6 +107424,17 @@
     "homeGoals": 0,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63173"
+  },
+  {
+    "gameId": 63187,
+    "season": 33,
+    "date": "2026-10-16",
+    "away": "Away",
+    "home": "Capistrano Coyotes",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63187"
   },
   {
     "gameId": 56429,
@@ -108887,6 +108997,17 @@
     "homeGoals": 0,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63118"
+  },
+  {
+    "gameId": 63264,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 14AAA",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "14U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63264"
   },
   {
     "gameId": 63121,
