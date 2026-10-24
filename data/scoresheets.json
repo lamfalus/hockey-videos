@@ -109219,6 +109219,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63189"
   },
   {
+    "gameId": 58279,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Fresno Jr Monsters 14BB",
+    "home": "Lake Tahoe Grizzlies 14BB",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58279"
+  },
+  {
     "gameId": 62065,
     "season": 33,
     "date": "2026-10-24",
