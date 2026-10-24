@@ -109219,6 +109219,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63189"
   },
   {
+    "gameId": 62065,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Los Angeles Jr Kings 13AAA",
+    "home": "San Jose Jr Sharks 13AAA",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62065"
+  },
+  {
     "gameId": 63208,
     "season": 33,
     "date": "2026-10-24",
