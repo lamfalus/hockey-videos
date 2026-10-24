@@ -109054,6 +109054,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62789"
   },
   {
+    "gameId": 63189,
+    "season": 33,
+    "date": "2026-10-23",
+    "away": "Away",
+    "home": "Capistrano Coyotes",
+    "awayGoals": 0,
+    "homeGoals": 1,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63189"
+  },
+  {
     "gameId": 63204,
     "season": 33,
     "date": "2026-10-25",
