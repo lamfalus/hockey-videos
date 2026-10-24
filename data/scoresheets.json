@@ -109219,6 +109219,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63189"
   },
   {
+    "gameId": 57513,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Fresno Jr Monsters 10BB",
+    "home": "Oakland Bears 10BB",
+    "awayGoals": 2,
+    "homeGoals": 12,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57513"
+  },
+  {
     "gameId": 58279,
     "season": 33,
     "date": "2026-10-24",
