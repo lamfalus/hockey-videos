@@ -760,26 +760,6 @@
     "uploadDate": "2023-08-27"
   },
   {
-    "videoId": "p1Ne_eXgJOM",
-    "title": "The Grinders Game 3, 8-26-2023",
-    "url": "https://youtu.be/p1Ne_eXgJOM",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2023-08-27"
-  },
-  {
     "videoId": "XaUPWzafob0",
     "title": "Lemons Sonoma Dec. '23 - Saturday",
     "url": "https://youtu.be/XaUPWzafob0",
@@ -798,6 +778,26 @@
       "no-vs"
     ],
     "uploadDate": "2023-12-02"
+  },
+  {
+    "videoId": "ORbJgHpF178",
+    "title": "10U PDP SCRIMMAGE,  21-May-23",
+    "url": "https://youtu.be/ORbJgHpF178",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": true,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2023-05-22"
   },
   {
     "videoId": "oyKjocaC7Bc",
@@ -1018,6 +1018,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "zYFmynKCPN4",
+    "title": "3v3 Katerina Game #2",
+    "url": "https://youtu.be/zYFmynKCPN4",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-10-08"
   },
   {
     "videoId": "fF9uaZ6x8WQ",
@@ -4060,9 +4080,9 @@
     "uploadDate": "2016-12-22"
   },
   {
-    "videoId": "Z6FpyU_bJ74",
-    "title": "#177 Lemons Sonoma Dec. '16, Sun laps 078-090",
-    "url": "https://youtu.be/Z6FpyU_bJ74",
+    "videoId": "JkWH-KEM3WE",
+    "title": "#177 Lemons Sonoma Dec. '16, Sat laps 108-123",
+    "url": "https://youtu.be/JkWH-KEM3WE",
     "isGame": false,
     "teamA": null,
     "teamB": null,
