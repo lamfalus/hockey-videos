@@ -109230,6 +109230,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56906"
   },
   {
+    "gameId": 57381,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Lake Tahoe Grizzlies 10BB",
+    "home": "Tri Valley Lady Blue Devils 10BB",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57381"
+  },
+  {
     "gameId": 57513,
     "season": 33,
     "date": "2026-10-24",
@@ -109250,6 +109261,17 @@
     "homeGoals": 10,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57514"
+  },
+  {
+    "gameId": 57515,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Santa Rosa Flyers 12B",
+    "home": "Oakland Bears 12B",
+    "awayGoals": 0,
+    "homeGoals": 9,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57515"
   },
   {
     "gameId": 57561,
