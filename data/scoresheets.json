@@ -109461,6 +109461,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63281"
   },
   {
+    "gameId": 56908,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Tri Valley Blue Devils 12AA-2",
+    "home": "Reno Ice 12AA",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56908"
+  },
+  {
     "gameId": 58353,
     "season": 33,
     "date": "2026-10-25",
@@ -109481,6 +109492,17 @@
     "homeGoals": 0,
     "level": "High School 1A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63204"
+  },
+  {
+    "gameId": 63218,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Las Vegas Golden Knights 13AAA 13AAA",
+    "home": "Los Angeles Jr Kings 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63218"
   },
   {
     "gameId": 63287,
