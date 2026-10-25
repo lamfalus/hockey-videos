@@ -109219,6 +109219,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63189"
   },
   {
+    "gameId": 56511,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "San Mateo Black Stars 10B-1",
+    "home": "Capital Thunder 10B",
+    "awayGoals": 5,
+    "homeGoals": 7,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56511"
+  },
+  {
+    "gameId": 56616,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Cupertino Cougars 10A",
+    "home": "San Mateo Black Stars 10A",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56616"
+  },
+  {
     "gameId": 56906,
     "season": 33,
     "date": "2026-10-24",
@@ -109228,6 +109250,17 @@
     "homeGoals": 2,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56906"
+  },
+  {
+    "gameId": 56907,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "San Jose Jr Sharks 14A-2",
+    "home": "Reno Ice 14A",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56907"
   },
   {
     "gameId": 57381,
@@ -109327,6 +109360,17 @@
     "homeGoals": 2,
     "level": "13U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62065"
+  },
+  {
+    "gameId": 62160,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Las Vegas Golden Knights 13AAA 13AAA",
+    "home": "San Jose Jr Sharks 13AAA",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62160"
   },
   {
     "gameId": 63172,
