@@ -109461,6 +109461,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63281"
   },
   {
+    "gameId": 56513,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "San Jose Jr Sharks 12B",
+    "home": "Capital Thunder 12B",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56513"
+  },
+  {
     "gameId": 56908,
     "season": 33,
     "date": "2026-10-25",
@@ -109470,6 +109481,17 @@
     "homeGoals": 2,
     "level": "12U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56908"
+  },
+  {
+    "gameId": 56909,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "San Jose Jr Sharks 14A-2",
+    "home": "Reno Ice 14A",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56909"
   },
   {
     "gameId": 58353,
