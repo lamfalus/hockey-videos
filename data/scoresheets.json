@@ -109351,6 +109351,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58907"
   },
   {
+    "gameId": 58908,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "San Jose Jr Sharks Girls 12AAA",
+    "home": "Delta Knights 12AA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58908"
+  },
+  {
     "gameId": 62065,
     "season": 33,
     "date": "2026-10-24",
