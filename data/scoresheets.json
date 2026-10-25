@@ -109241,6 +109241,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56616"
   },
   {
+    "gameId": 56617,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Santa Clara Blackhawks 12BB",
+    "home": "San Mateo Black Stars 12BB",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56617"
+  },
+  {
     "gameId": 56906,
     "season": 33,
     "date": "2026-10-24",
