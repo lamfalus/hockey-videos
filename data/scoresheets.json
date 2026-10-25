@@ -109494,6 +109494,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56909"
   },
   {
+    "gameId": 57516,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Delta Knights 12AA",
+    "home": "Oakland Bears 12BB",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57516"
+  },
+  {
     "gameId": 57562,
     "season": 33,
     "date": "2026-10-25",
@@ -109525,6 +109536,28 @@
     "homeGoals": 7,
     "level": "10U B West",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58353"
+  },
+  {
+    "gameId": 58418,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Fresno Jr Monsters 14BB",
+    "home": "Lake Tahoe Grizzlies 14BB",
+    "awayGoals": 5,
+    "homeGoals": 5,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58418"
+  },
+  {
+    "gameId": 58896,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Los Angeles Jr Kings 18AAA 18AAA",
+    "home": "Anaheim Jr Ducks 18AAA",
+    "awayGoals": 2,
+    "homeGoals": 7,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58896"
   },
   {
     "gameId": 58909,
@@ -109613,6 +109646,17 @@
     "homeGoals": 3,
     "level": "13U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63218"
+  },
+  {
+    "gameId": 63270,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 14AAA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "14U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63270"
   },
   {
     "gameId": 63287,
