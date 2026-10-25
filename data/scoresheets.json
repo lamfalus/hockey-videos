@@ -109483,6 +109483,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58353"
   },
   {
+    "gameId": 59467,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Capital Thunder 10BB",
+    "home": "Vacaville Jets 10BB",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59467"
+  },
+  {
     "gameId": 63204,
     "season": 33,
     "date": "2026-10-25",
