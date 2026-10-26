@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "YwPxvWLYxlk",
+    "title": "Jr. Sharks Girls 12AAA vs TriValley Blue Devils, 2026-10-25",
+    "url": "https://youtu.be/YwPxvWLYxlk",
+    "isGame": true,
+    "teamA": "Jr. Sharks Girls 12AAA",
+    "teamB": "TriValley Blue Devils",
+    "date": "2026-10-25",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 7,
+      "against": 0
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-10-26"
+  },
+  {
     "videoId": "U3OlnRiaTwU",
     "title": "Jr. Sharks 14AAA vs 13AAA Vegas Jr Golden Knights, 2026-10-25",
     "url": "https://youtu.be/U3OlnRiaTwU",
@@ -8558,28 +8580,6 @@
     "uploadDate": "2024-01-14"
   },
   {
-    "videoId": "DL0EvOLVEdg",
-    "title": "10-3 COUGARS VS MISSION AZ, 12-Jan-2024",
-    "url": "https://youtu.be/DL0EvOLVEdg",
-    "isGame": true,
-    "teamA": "10-3 COUGARS",
-    "teamB": "MISSION AZ",
-    "date": "2024-01-12",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Loss",
-      "for": 3,
-      "against": 5
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-01-12"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8598,6 +8598,24 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "mwB6yCfkXAk",
+    "title": "12AA GSE-1 vs Goldrush, 16-Dec-2023",
+    "url": "https://youtu.be/mwB6yCfkXAk",
+    "isGame": true,
+    "teamA": "12AA GSE-1",
+    "teamB": "Goldrush",
+    "date": "2023-12-16",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-01-09"
   },
   {
     "videoId": "WdmouaRb2mg",
@@ -9452,22 +9470,26 @@
     "uploadDate": "2023-10-29"
   },
   {
-    "videoId": "rOIERzBHFJg",
-    "title": "15AAA San Jose Jr Sharks vs  Dallas Stars Elite, 10-22-23",
-    "url": "https://youtu.be/rOIERzBHFJg",
+    "videoId": "v78XJY1x5JY",
+    "title": "PIONEER HS MUSTANGS vs. PALO ALTO HS, 23-Oct 2023",
+    "url": "https://youtu.be/v78XJY1x5JY",
     "isGame": true,
-    "teamA": "15AAA San Jose Jr Sharks",
-    "teamB": "Dallas Stars Elite",
-    "date": "2023-10-22",
+    "teamA": "PIONEER HS MUSTANGS",
+    "teamB": "PALO ALTO HS",
+    "date": "2023-10-23",
     "dateSource": "title",
-    "dateFormat": "m-d-y",
+    "dateFormat": "d-mon-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
-    "result": null,
+    "result": {
+      "outcome": "Win",
+      "for": 3,
+      "against": 0
+    },
     "confidence": "high",
     "flags": [],
-    "uploadDate": "2023-10-29"
+    "uploadDate": "2023-10-24"
   },
   {
     "videoId": "_i7pSFEj9wo",
@@ -12254,26 +12276,6 @@
     "uploadDate": "2022-12-10"
   },
   {
-    "videoId": "jJchY8_xlfI",
-    "title": "Ryan Gonzalez-Abraham Lincoln vs Chris Lamfalusi-Monta Vista",
-    "url": "https://youtu.be/jJchY8_xlfI",
-    "isGame": true,
-    "teamA": "Ryan Gonzalez-Abraham Lincoln",
-    "teamB": "Chris Lamfalusi-Monta Vista",
-    "date": "2022-12-10",
-    "dateSource": "upload",
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "medium",
-    "flags": [
-      "date-missing"
-    ],
-    "uploadDate": "2022-12-10"
-  },
-  {
     "videoId": "IxFoYB9D9LU",
     "title": "10U Cougars vs Jr . Sharks-2, 11-13-22",
     "url": "https://youtu.be/IxFoYB9D9LU",
@@ -12395,6 +12397,28 @@
     "flags": [
       "date-drift"
     ],
+    "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "cNF07ReBvYU",
+    "title": "10U Cougars vs SJ Jr. Sharks-3, 11-20-22",
+    "url": "https://youtu.be/cNF07ReBvYU",
+    "isGame": true,
+    "teamA": "10U Cougars",
+    "teamB": "SJ Jr. Sharks-3",
+    "date": "2022-11-20",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Win",
+      "for": 6,
+      "against": 5
+    },
+    "confidence": "high",
+    "flags": [],
     "uploadDate": "2023-01-03"
   },
   {
@@ -13148,24 +13172,6 @@
     "uploadDate": "2022-10-16"
   },
   {
-    "videoId": "0Btl7Ixuh8k",
-    "title": "8U-2 Cougars vs Jr. Sharks, 10-15-2022",
-    "url": "https://youtu.be/0Btl7Ixuh8k",
-    "isGame": true,
-    "teamA": "8U-2 Cougars",
-    "teamB": "Jr. Sharks",
-    "date": "2022-10-15",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-10-15"
-  },
-  {
     "videoId": "vASL-hAy6oU",
     "title": "10U Cougars-1 vs Jr. Sharks-2, 10-2-22",
     "url": "https://youtu.be/vASL-hAy6oU",
@@ -13204,6 +13210,24 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "xGGPYtBwBbI",
+    "title": "JV Pioneers HS vs SM Blackstars 10-9-22",
+    "url": "https://youtu.be/xGGPYtBwBbI",
+    "isGame": true,
+    "teamA": "JV Pioneers HS",
+    "teamB": "SM Blackstars",
+    "date": "2022-10-09",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-10-10"
   },
   {
     "videoId": "P2PdT4FU2aA",
@@ -13776,28 +13800,6 @@
       "outcome": "Loss",
       "for": 2,
       "against": 6
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-03-22"
-  },
-  {
-    "videoId": "SgeLTVvG2Hk",
-    "title": "10U Cougars vs SC Blackhawks 60fps, 3-19-2022",
-    "url": "https://youtu.be/SgeLTVvG2Hk",
-    "isGame": true,
-    "teamA": "10U Cougars",
-    "teamB": "SC Blackhawks 60fps",
-    "date": "2022-03-19",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Loss",
-      "for": 3,
-      "against": 4
     },
     "confidence": "high",
     "flags": [],
