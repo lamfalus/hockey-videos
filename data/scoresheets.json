@@ -109560,6 +109560,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58353"
   },
   {
+    "gameId": 58400,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Stockton Colts 12BB",
+    "home": "Lake Tahoe Grizzlies 12BB",
+    "awayGoals": 9,
+    "homeGoals": 6,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58400"
+  },
+  {
     "gameId": 58418,
     "season": 33,
     "date": "2026-10-25",
@@ -109657,6 +109668,17 @@
     "homeGoals": 7,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60088"
+  },
+  {
+    "gameId": 60089,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Tri Valley Blue Devils 14A",
+    "home": "San Jose Jr Sharks 14A-1",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60089"
   },
   {
     "gameId": 60092,
