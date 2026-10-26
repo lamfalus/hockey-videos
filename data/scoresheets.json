@@ -109461,6 +109461,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63281"
   },
   {
+    "gameId": 56377,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "San Jose Jr Sharks Girls 10B",
+    "home": "Santa Rosa Flyers 10B",
+    "awayGoals": 8,
+    "homeGoals": 2,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56377"
+  },
+  {
     "gameId": 56513,
     "season": 33,
     "date": "2026-10-25",
