@@ -109703,6 +109703,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60092"
   },
   {
+    "gameId": 60093,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Vacaville Jets 16A",
+    "home": "San Jose Jr Sharks 16A-1",
+    "awayGoals": 1,
+    "homeGoals": 18,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60093"
+  },
+  {
     "gameId": 60094,
     "season": 33,
     "date": "2026-10-25",
