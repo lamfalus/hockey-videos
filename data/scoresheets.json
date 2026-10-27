@@ -110825,6 +110825,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63329"
   },
   {
+    "gameId": 59600,
+    "season": 33,
+    "date": "2026-10-26",
+    "away": "Valley Christian Warriors",
+    "home": "Palo Alto Vikings HS VS",
+    "awayGoals": 1,
+    "homeGoals": 7,
+    "level": "Varsity South",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59600"
+  },
+  {
     "gameId": 63287,
     "season": 33,
     "date": "2026-11-06",
