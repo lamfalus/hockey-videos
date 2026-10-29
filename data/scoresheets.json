@@ -111111,6 +111111,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59600"
   },
   {
+    "gameId": 62167,
+    "season": 33,
+    "date": "2026-10-28",
+    "away": "Tri Valley Blue Devils 12AA-2",
+    "home": "Tri Valley Blue Devils 12AA-1",
+    "awayGoals": 2,
+    "homeGoals": 11,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62167"
+  },
+  {
     "gameId": 63287,
     "season": 33,
     "date": "2026-11-06",
