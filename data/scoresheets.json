@@ -98664,8 +98664,8 @@
     "date": "2026-09-11",
     "away": "Away",
     "home": "Fairmont Prep",
-    "awayGoals": 0,
-    "homeGoals": 0,
+    "awayGoals": 3,
+    "homeGoals": 7,
     "level": "High School 1A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60439"
   },
@@ -99379,8 +99379,8 @@
     "date": "2026-09-13",
     "away": "SDIA Oilers 18AA",
     "home": "Orange County OC Hockey (2) 18UAA 18AA",
-    "awayGoals": 0,
-    "homeGoals": 0,
+    "awayGoals": 6,
+    "homeGoals": 4,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57870"
   },
@@ -105507,7 +105507,7 @@
     "away": "Away",
     "home": "Los Angeles Lions 14AAA",
     "awayGoals": 0,
-    "homeGoals": 0,
+    "homeGoals": 1,
     "level": "Girls 14AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62844"
   },
@@ -109670,6 +109670,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63189"
   },
   {
+    "gameId": 63413,
+    "season": 33,
+    "date": "2026-10-23",
+    "away": "Away",
+    "home": "San Diego Saints 16AA",
+    "awayGoals": 7,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63413"
+  },
+  {
+    "gameId": 63443,
+    "season": 33,
+    "date": "2026-10-23",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 1,
+    "homeGoals": 0,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63443"
+  },
+  {
+    "gameId": 63444,
+    "season": 33,
+    "date": "2026-10-23",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63444"
+  },
+  {
     "gameId": 56511,
     "season": 33,
     "date": "2026-10-24",
@@ -109976,6 +110009,28 @@
     "homeGoals": 0,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63404"
+  },
+  {
+    "gameId": 63445,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63445"
+  },
+  {
+    "gameId": 63446,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 1,
+    "homeGoals": 10,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63446"
   },
   {
     "gameId": 56377,
@@ -111182,7 +111237,7 @@
     "date": "2026-10-25",
     "away": "Away",
     "home": "San Jose Jr Sharks 14AAA",
-    "awayGoals": 6,
+    "awayGoals": 3,
     "homeGoals": 4,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63270"
@@ -111241,6 +111296,28 @@
     "homeGoals": 2,
     "level": "16U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63402"
+  },
+  {
+    "gameId": 63447,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63447"
+  },
+  {
+    "gameId": 63448,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63448"
   },
   {
     "gameId": 59600,
