@@ -111353,6 +111353,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62167"
   },
   {
+    "gameId": 63076,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "Los Angeles Lions 14AAA",
+    "home": "Anaheim Lady Ducks 14AAA",
+    "awayGoals": 10,
+    "homeGoals": 1,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63076"
+  },
+  {
     "gameId": 63287,
     "season": 33,
     "date": "2026-11-06",
