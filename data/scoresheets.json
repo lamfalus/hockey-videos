@@ -111408,6 +111408,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62661"
   },
   {
+    "gameId": 62663,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "California Heat 16AA-1",
+    "home": "San Jose Jr Sharks 16AA",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62663"
+  },
+  {
     "gameId": 63076,
     "season": 33,
     "date": "2026-10-30",
