@@ -111408,6 +111408,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62661"
   },
   {
+    "gameId": 62662,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "Los Angeles Jr Kings 14AA",
+    "home": "Golden State Elite 14AA",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62662"
+  },
+  {
     "gameId": 62663,
     "season": 33,
     "date": "2026-10-30",
@@ -111417,6 +111428,17 @@
     "homeGoals": 1,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62663"
+  },
+  {
+    "gameId": 62664,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "Orange County OC Hockey 16AA-1",
+    "home": "Santa Clara Blackhawks 16AA",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62664"
   },
   {
     "gameId": 63076,
