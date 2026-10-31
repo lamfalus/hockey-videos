@@ -111364,6 +111364,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62047"
   },
   {
+    "gameId": 62056,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "Tri Valley Lady Blue Devils 14AAA",
+    "home": "Los Angeles Lions 14AAA",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62056"
+  },
+  {
     "gameId": 62659,
     "season": 33,
     "date": "2026-10-30",
