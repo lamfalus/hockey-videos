@@ -111584,6 +111584,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63076"
   },
   {
+    "gameId": 62671,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Junior Reign 14AA-1",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62671"
+  },
+  {
+    "gameId": 62672,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "California Wave 14AA",
+    "home": "Golden State Elite 14AA",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62672"
+  },
+  {
+    "gameId": 62775,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Tri Valley Lady Blue Devils 12AAA",
+    "home": "Los Angeles Lions 12AAA",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62775"
+  },
+  {
     "gameId": 63287,
     "season": 33,
     "date": "2026-11-06",
