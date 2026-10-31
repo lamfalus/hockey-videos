@@ -111617,6 +111617,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62673"
   },
   {
+    "gameId": 62674,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Tri Valley Bulls 16AA",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 2,
+    "homeGoals": 9,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62674"
+  },
+  {
     "gameId": 62775,
     "season": 33,
     "date": "2026-10-31",
@@ -111626,6 +111637,17 @@
     "homeGoals": 2,
     "level": "Girls 12AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62775"
+  },
+  {
+    "gameId": 62776,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Anaheim Lady Ducks 12AAA",
+    "home": "San Jose Jr Sharks Girls",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62776"
   },
   {
     "gameId": 63287,
