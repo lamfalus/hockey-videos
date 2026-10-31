@@ -109659,6 +109659,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63091"
   },
   {
+    "gameId": 63149,
+    "season": 33,
+    "date": "2026-10-23",
+    "away": "Away",
+    "home": "San Diego Saints 18AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63149"
+  },
+  {
     "gameId": 63189,
     "season": 33,
     "date": "2026-10-23",
@@ -109932,6 +109943,28 @@
     "homeGoals": 0,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63093"
+  },
+  {
+    "gameId": 63150,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Away",
+    "home": "San Diego Saints 18AA",
+    "awayGoals": 7,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63150"
+  },
+  {
+    "gameId": 63151,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Away",
+    "home": "San Diego Saints 18AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63151"
   },
   {
     "gameId": 63172,
@@ -111208,6 +111241,17 @@
     "homeGoals": 6,
     "level": "13U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63119"
+  },
+  {
+    "gameId": 63152,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Away",
+    "home": "San Diego Saints 18AA",
+    "awayGoals": 11,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63152"
   },
   {
     "gameId": 63204,
