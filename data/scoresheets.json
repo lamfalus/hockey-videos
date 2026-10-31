@@ -111507,6 +111507,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62669"
   },
   {
+    "gameId": 62670,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "SDIA Oilers 18AA",
+    "home": "Tri Valley Bulls 18AA",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62670"
+  },
+  {
     "gameId": 62773,
     "season": 33,
     "date": "2026-10-30",
