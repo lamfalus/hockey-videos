@@ -111441,6 +111441,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62664"
   },
   {
+    "gameId": 62665,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "SDIA Oilers 16AA",
+    "home": "Golden State Elite 16AA",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62665"
+  },
+  {
+    "gameId": 62666,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "Santa Barbara Ice Hawks 16AA",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62666"
+  },
+  {
+    "gameId": 62667,
+    "season": 33,
+    "date": "2026-10-30",
+    "away": "Anaheim Jr Ducks 18AA",
+    "home": "Oakland Bears 18AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62667"
+  },
+  {
     "gameId": 62773,
     "season": 33,
     "date": "2026-10-30",
