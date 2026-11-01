@@ -111815,6 +111815,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62683"
   },
   {
+    "gameId": 62684,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "San Jose Jr Sharks 16AA",
+    "home": "Santa Barbara Ice Hawks 16AA",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62684"
+  },
+  {
     "gameId": 62775,
     "season": 33,
     "date": "2026-10-31",
