@@ -111903,6 +111903,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62690"
   },
   {
+    "gameId": 62691,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "California Golden Bears 14AA",
+    "home": "Tri-Valley Bulls 2 14AA-2",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62691"
+  },
+  {
+    "gameId": 62692,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Los Angeles Jr Kings 14AA",
+    "home": "Tri-Valley Bulls 1 14AA-1",
+    "awayGoals": 1,
+    "homeGoals": 9,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62692"
+  },
+  {
     "gameId": 62775,
     "season": 33,
     "date": "2026-10-31",
