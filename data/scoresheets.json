@@ -112123,6 +112123,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56710"
   },
   {
+    "gameId": 57564,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "San Mateo Black Stars 10B-2",
+    "home": "Fresno Jr Monsters Girls 10B",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57564"
+  },
+  {
     "gameId": 58763,
     "season": 33,
     "date": "2026-11-01",
@@ -112220,6 +112231,17 @@
     "homeGoals": 5,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62697"
+  },
+  {
+    "gameId": 62698,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Santa Clara Blackhawks 16AA",
+    "home": "California Heat 16AA-1",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62698"
   },
   {
     "gameId": 62779,
