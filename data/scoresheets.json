@@ -111584,6 +111584,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63076"
   },
   {
+    "gameId": 56752,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "San Mateo Black Stars 12BB",
+    "home": "San Francisco Sabercats 12BB",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56752"
+  },
+  {
     "gameId": 57518,
     "season": 33,
     "date": "2026-10-31",
@@ -111760,6 +111771,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62680"
   },
   {
+    "gameId": 62681,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Golden State Elite 14AA",
+    "home": "Junior Reign 14AA-1",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62681"
+  },
+  {
+    "gameId": 62682,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "San Jose Jr Sharks 14AA",
+    "home": "California Wave 14AA",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62682"
+  },
+  {
+    "gameId": 62683,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Golden State Elite 16AA",
+    "home": "Orange County OC Hockey 16AA-1",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62683"
+  },
+  {
     "gameId": 62775,
     "season": 33,
     "date": "2026-10-31",
@@ -111791,6 +111835,17 @@
     "homeGoals": 4,
     "level": "Girls 19AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62777"
+  },
+  {
+    "gameId": 62778,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Los Angeles Lions 12AAA",
+    "home": "Tri Valley Lady Blue Devils 12AAA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "Girls 12AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62778"
   },
   {
     "gameId": 63077,
