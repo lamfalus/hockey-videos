@@ -112156,6 +112156,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60104"
   },
   {
+    "gameId": 60105,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Stockton Colts 12BB",
+    "home": "Santa Clara Blackhawks 12BB",
+    "awayGoals": 9,
+    "homeGoals": 0,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60105"
+  },
+  {
     "gameId": 61034,
     "season": 33,
     "date": "2026-11-01",
@@ -112244,6 +112255,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62698"
   },
   {
+    "gameId": 62699,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Golden State Elite 14AA",
+    "home": "California Golden Bears 14AA",
+    "awayGoals": 0,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62699"
+  },
+  {
     "gameId": 62779,
     "season": 33,
     "date": "2026-11-01",
@@ -112253,6 +112275,17 @@
     "homeGoals": 4,
     "level": "Girls 12AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62779"
+  },
+  {
+    "gameId": 62780,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Tri Valley Lady Blue Devils 14AAA",
+    "home": "San Jose Jr Sharks Girls 14AAA",
+    "awayGoals": 2,
+    "homeGoals": 0,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62780"
   },
   {
     "gameId": 63287,
