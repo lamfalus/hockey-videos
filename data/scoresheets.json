@@ -112101,6 +112101,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63078"
   },
   {
+    "gameId": 56517,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Santa Clara Blackhawks 10B",
+    "home": "Capital Thunder 10B",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56517"
+  },
+  {
     "gameId": 56710,
     "season": 33,
     "date": "2026-11-01",
