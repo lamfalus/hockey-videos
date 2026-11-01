@@ -112123,6 +112123,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56710"
   },
   {
+    "gameId": 56726,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Stockton Colts 14A",
+    "home": "San Francisco Sabercats 14A",
+    "awayGoals": 9,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56726"
+  },
+  {
     "gameId": 57564,
     "season": 33,
     "date": "2026-11-01",
@@ -112132,6 +112143,17 @@
     "homeGoals": 2,
     "level": "10U B West",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57564"
+  },
+  {
+    "gameId": 57627,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Santa Rosa Flyers 10B",
+    "home": "Oakland Bears 10B",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57627"
   },
   {
     "gameId": 58763,
@@ -112165,6 +112187,17 @@
     "homeGoals": 0,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60105"
+  },
+  {
+    "gameId": 60906,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Tri Valley Blue Devils 10A-2",
+    "home": "Cupertino Cougars 10A",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60906"
   },
   {
     "gameId": 61034,
@@ -112264,6 +112297,17 @@
     "homeGoals": 4,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62699"
+  },
+  {
+    "gameId": 62701,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Los Angeles Jr Kings 18AA",
+    "home": "Tri Valley Bulls 18AA",
+    "awayGoals": 10,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62701"
   },
   {
     "gameId": 62779,
