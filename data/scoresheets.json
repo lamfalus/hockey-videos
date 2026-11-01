@@ -112376,6 +112376,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62702"
   },
   {
+    "gameId": 62703,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Tri-Valley Bulls 1 14AA-1",
+    "home": "Junior Reign 14AA-1",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62703"
+  },
+  {
     "gameId": 62779,
     "season": 33,
     "date": "2026-11-01",
