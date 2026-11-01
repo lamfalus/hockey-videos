@@ -111584,6 +111584,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63076"
   },
   {
+    "gameId": 56516,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Vacaville Jets 14A",
+    "home": "Capital Thunder 14A",
+    "awayGoals": 0,
+    "homeGoals": 7,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56516"
+  },
+  {
     "gameId": 56752,
     "season": 33,
     "date": "2026-10-31",
