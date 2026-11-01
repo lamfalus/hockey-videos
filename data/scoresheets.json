@@ -112167,6 +112167,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57627"
   },
   {
+    "gameId": 57628,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Tri Valley Blue Devils 12BB",
+    "home": "Oakland Bears 12BB",
+    "awayGoals": 0,
+    "homeGoals": 13,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57628"
+  },
+  {
     "gameId": 58763,
     "season": 33,
     "date": "2026-11-01",
@@ -112200,6 +112211,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60105"
   },
   {
+    "gameId": 60106,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "San Mateo Black Stars 14BB",
+    "home": "Santa Clara Blackhawks 14BB",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60106"
+  },
+  {
     "gameId": 60906,
     "season": 33,
     "date": "2026-11-01",
@@ -112209,6 +112231,17 @@
     "homeGoals": 6,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60906"
+  },
+  {
+    "gameId": 60907,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "San Jose Jr Sharks 10B-1",
+    "home": "Cupertino Cougars 10B",
+    "awayGoals": 11,
+    "homeGoals": 3,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60907"
   },
   {
     "gameId": 61034,
@@ -112310,6 +112343,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62699"
   },
   {
+    "gameId": 62700,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Tri-Valley Bulls 2 14AA-2",
+    "home": "California Wave 14AA",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62700"
+  },
+  {
     "gameId": 62701,
     "season": 33,
     "date": "2026-11-01",
@@ -112319,6 +112363,17 @@
     "homeGoals": 2,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62701"
+  },
+  {
+    "gameId": 62702,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Orange County OC Hockey 16AA-1",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 7,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62702"
   },
   {
     "gameId": 62779,
