@@ -112145,6 +112145,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57564"
   },
   {
+    "gameId": 57565,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Santa Clara Blackhawks 10BB",
+    "home": "Fresno Jr Monsters 10BB",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57565"
+  },
+  {
     "gameId": 57627,
     "season": 33,
     "date": "2026-11-01",
