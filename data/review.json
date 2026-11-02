@@ -940,6 +940,26 @@
     "uploadDate": "2023-02-04"
   },
   {
+    "videoId": "J3NxOXUXFZ4",
+    "title": "Lemons Sonoma, Dec 4, 2022",
+    "url": "https://youtu.be/J3NxOXUXFZ4",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-12-04"
+  },
+  {
     "videoId": "FHdVcFyQ1Fo",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/FHdVcFyQ1Fo",
@@ -1418,26 +1438,6 @@
       "no-vs"
     ],
     "uploadDate": "2022-05-12"
-  },
-  {
-    "videoId": "Go31zExUj_c",
-    "title": "13 Blazers Game 5",
-    "url": "https://youtu.be/Go31zExUj_c",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-05-10"
   },
   {
     "videoId": "wtlE5XcJYes",
@@ -3143,26 +3143,6 @@
     "videoId": "EZVilokLtB4",
     "title": "24hours of Lemons, Buttonturrible, Sept 29, 2018",
     "url": "https://youtu.be/EZVilokLtB4",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2018-09-30"
-  },
-  {
-    "videoId": "3Z2JYDiOKG8",
-    "title": "24hours of Lemons, Buttonturrible, Sept 29, 2018",
-    "url": "https://youtu.be/3Z2JYDiOKG8",
     "isGame": false,
     "teamA": null,
     "teamB": null,
