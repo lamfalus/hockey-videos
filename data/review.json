@@ -680,6 +680,26 @@
     "uploadDate": "2023-12-02"
   },
   {
+    "videoId": "J1DAugjvHO0",
+    "title": "Jamboree Turkeys, Game 1, 8-26-2023",
+    "url": "https://youtu.be/J1DAugjvHO0",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2023-08-27"
+  },
+  {
     "videoId": "yfYUkdF6W_c",
     "title": "The Grinders, Game 1, 8-26-2023",
     "url": "https://youtu.be/yfYUkdF6W_c",
@@ -918,6 +938,26 @@
       "no-vs"
     ],
     "uploadDate": "2023-02-04"
+  },
+  {
+    "videoId": "FHdVcFyQ1Fo",
+    "title": "Lemons Sonoma, Dec 3, 2022",
+    "url": "https://youtu.be/FHdVcFyQ1Fo",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-12-04"
   },
   {
     "videoId": "8riEvKFsq7M",
@@ -3103,6 +3143,26 @@
     "videoId": "EZVilokLtB4",
     "title": "24hours of Lemons, Buttonturrible, Sept 29, 2018",
     "url": "https://youtu.be/EZVilokLtB4",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2018-09-30"
+  },
+  {
+    "videoId": "3Z2JYDiOKG8",
+    "title": "24hours of Lemons, Buttonturrible, Sept 29, 2018",
+    "url": "https://youtu.be/3Z2JYDiOKG8",
     "isGame": false,
     "teamA": null,
     "teamB": null,

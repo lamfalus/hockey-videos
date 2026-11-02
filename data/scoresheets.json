@@ -112398,6 +112398,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61034"
   },
   {
+    "gameId": 61873,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "San Mateo Black Stars 10A",
+    "home": "San Jose Jr Sharks 10A-1",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61873"
+  },
+  {
     "gameId": 62103,
     "season": 33,
     "date": "2026-11-01",
