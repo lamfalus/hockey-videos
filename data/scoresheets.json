@@ -112101,6 +112101,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63078"
   },
   {
+    "gameId": 56379,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Oakland Bears 10BB",
+    "home": "Santa Rosa Flyers 10BB",
+    "awayGoals": 10,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56379"
+  },
+  {
     "gameId": 56517,
     "season": 33,
     "date": "2026-11-01",
@@ -112220,6 +112231,28 @@
     "homeGoals": 2,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59932"
+  },
+  {
+    "gameId": 59933,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Orange County OC Hockey (2) 18UAA 18AA",
+    "home": "Oakland Bears 18AA",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59933"
+  },
+  {
+    "gameId": 60100,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Stockton Colts Girls 10B",
+    "home": "San Jose Jr Sharks Girls 10B",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60100"
   },
   {
     "gameId": 60102,
