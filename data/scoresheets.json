@@ -94655,6 +94655,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58775"
   },
   {
+    "gameId": 58780,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "Santa Clarita Jr Flyers 14AA",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58780"
+  },
+  {
     "gameId": 58783,
     "season": 33,
     "date": "2026-09-04",
@@ -95172,6 +95183,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59152"
   },
   {
+    "gameId": 59205,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "California Bears 16AA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59205"
+  },
+  {
+    "gameId": 59209,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "California Bears 16AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59209"
+  },
+  {
     "gameId": 59231,
     "season": 33,
     "date": "2026-09-04",
@@ -95249,6 +95282,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59356"
   },
   {
+    "gameId": 59421,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 7,
+    "homeGoals": 3,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59421"
+  },
+  {
     "gameId": 59443,
     "season": 33,
     "date": "2026-09-04",
@@ -95324,6 +95368,28 @@
     "homeGoals": 4,
     "level": "Girls 16AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59838"
+  },
+  {
+    "gameId": 59964,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "Rose City Pats 16AA",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59964"
+  },
+  {
+    "gameId": 59972,
+    "season": 33,
+    "date": "2026-09-04",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59972"
   },
   {
     "gameId": 59996,
@@ -95942,6 +96008,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58776"
   },
   {
+    "gameId": 58781,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "Santa Clarita Jr Flyers 14AA",
+    "awayGoals": 3,
+    "homeGoals": 9,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58781"
+  },
+  {
     "gameId": 58784,
     "season": 33,
     "date": "2026-09-05",
@@ -96481,6 +96558,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59160"
   },
   {
+    "gameId": 59206,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "California Bears 16AA",
+    "awayGoals": 0,
+    "homeGoals": 4,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59206"
+  },
+  {
+    "gameId": 59227,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59227"
+  },
+  {
     "gameId": 59232,
     "season": 33,
     "date": "2026-09-05",
@@ -96525,6 +96624,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59254"
   },
   {
+    "gameId": 59292,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59292"
+  },
+  {
     "gameId": 59357,
     "season": 33,
     "date": "2026-09-05",
@@ -96556,6 +96666,17 @@
     "homeGoals": 2,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59382"
+  },
+  {
+    "gameId": 59413,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59413"
   },
   {
     "gameId": 59422,
@@ -96677,6 +96798,17 @@
     "homeGoals": 1,
     "level": "Girls 16AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59840"
+  },
+  {
+    "gameId": 59973,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59973"
   },
   {
     "gameId": 59998,
@@ -96864,6 +96996,17 @@
     "homeGoals": 1,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63391"
+  },
+  {
+    "gameId": 63496,
+    "season": 33,
+    "date": "2026-09-05",
+    "away": "Away",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 4,
+    "homeGoals": 5,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63496"
   },
   {
     "gameId": 57031,
@@ -97339,6 +97482,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57523"
   },
   {
+    "gameId": 58758,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Santa Clarita Jr Flyers 14AA",
+    "awayGoals": 0,
+    "homeGoals": 9,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58758"
+  },
+  {
     "gameId": 58771,
     "season": 33,
     "date": "2026-09-06",
@@ -97359,6 +97513,17 @@
     "homeGoals": 6,
     "level": "Midget/Varsity",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58778"
+  },
+  {
+    "gameId": 58782,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Santa Clarita Jr Flyers 14AA",
+    "awayGoals": 4,
+    "homeGoals": 9,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58782"
   },
   {
     "gameId": 58785,
@@ -97884,9 +98049,42 @@
     "away": "Away",
     "home": "California Bears 16AA",
     "awayGoals": 0,
-    "homeGoals": 0,
+    "homeGoals": 2,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59207"
+  },
+  {
+    "gameId": 59224,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Tri Valley Blue Devils",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59224"
+  },
+  {
+    "gameId": 59228,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 11,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59228"
+  },
+  {
+    "gameId": 59229,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59229"
   },
   {
     "gameId": 59233,
@@ -97933,6 +98131,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59253"
   },
   {
+    "gameId": 59293,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59293"
+  },
+  {
+    "gameId": 59294,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59294"
+  },
+  {
     "gameId": 59358,
     "season": 33,
     "date": "2026-09-06",
@@ -97942,6 +98162,28 @@
     "homeGoals": 5,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59358"
+  },
+  {
+    "gameId": 59415,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59415"
+  },
+  {
+    "gameId": 59423,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59423"
   },
   {
     "gameId": 59447,
@@ -98098,6 +98340,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60406"
   },
   {
+    "gameId": 60441,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Orange County Hockey Club 18AA-1",
+    "awayGoals": 0,
+    "homeGoals": 8,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60441"
+  },
+  {
     "gameId": 60831,
     "season": 33,
     "date": "2026-09-06",
@@ -98162,6 +98415,17 @@
     "homeGoals": 7,
     "level": "13U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63361"
+  },
+  {
+    "gameId": 63422,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Away",
+    "home": "Capital Flames 18AA",
+    "awayGoals": 4,
+    "homeGoals": 8,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63422"
   },
   {
     "gameId": 57085,
@@ -98626,6 +98890,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59174"
   },
   {
+    "gameId": 59208,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "California Bears 16AA",
+    "awayGoals": 3,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59208"
+  },
+  {
     "gameId": 59359,
     "season": 33,
     "date": "2026-09-07",
@@ -98635,6 +98910,17 @@
     "homeGoals": 3,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59359"
+  },
+  {
+    "gameId": 59416,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 0,
+    "homeGoals": 12,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59416"
   },
   {
     "gameId": 59722,
@@ -98692,6 +98978,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60367"
   },
   {
+    "gameId": 60381,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60381"
+  },
+  {
     "gameId": 60384,
     "season": 33,
     "date": "2026-09-07",
@@ -98701,6 +98998,28 @@
     "homeGoals": 5,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60384"
+  },
+  {
+    "gameId": 60385,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "California Surf 14AA",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60385"
+  },
+  {
+    "gameId": 60442,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "Orange County Hockey Club 18AA-1",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60442"
   },
   {
     "gameId": 61914,
@@ -98767,6 +99086,17 @@
     "homeGoals": 2,
     "level": "13U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63362"
+  },
+  {
+    "gameId": 63497,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63497"
   },
   {
     "gameId": 60350,
@@ -98943,6 +99273,17 @@
     "homeGoals": 2,
     "level": "High School 2A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60842"
+  },
+  {
+    "gameId": 60846,
+    "season": 33,
+    "date": "2026-09-11",
+    "away": "Away",
+    "home": "St John Bosco",
+    "awayGoals": 0,
+    "homeGoals": 3,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60846"
   },
   {
     "gameId": 56353,
@@ -100144,6 +100485,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60988"
   },
   {
+    "gameId": 60993,
+    "season": 33,
+    "date": "2026-09-18",
+    "away": "San Jose Jr Sharks 14AA",
+    "home": "Home",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60993"
+  },
+  {
     "gameId": 61024,
     "season": 33,
     "date": "2026-09-18",
@@ -100241,6 +100593,28 @@
     "homeGoals": 0,
     "level": "Girls 12AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61756"
+  },
+  {
+    "gameId": 61758,
+    "season": 33,
+    "date": "2026-09-18",
+    "away": "Santa Clarita Lady Flyers 14AA",
+    "home": "Home",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61758"
+  },
+  {
+    "gameId": 61759,
+    "season": 33,
+    "date": "2026-09-18",
+    "away": "Away",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61759"
   },
   {
     "gameId": 61770,
@@ -100683,6 +101057,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60354"
   },
   {
+    "gameId": 60355,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Anaheim Lady Ducks 16AA",
+    "home": "Vacaville Jets Girls 16AA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60355"
+  },
+  {
     "gameId": 60370,
     "season": 33,
     "date": "2026-09-19",
@@ -100815,6 +101200,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60984"
   },
   {
+    "gameId": 60995,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "San Jose Jr Sharks 14AA",
+    "home": "Home",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60995"
+  },
+  {
     "gameId": 61025,
     "season": 33,
     "date": "2026-09-19",
@@ -100824,6 +101220,17 @@
     "homeGoals": 5,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61025"
+  },
+  {
+    "gameId": 61032,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 3,
+    "homeGoals": 7,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61032"
   },
   {
     "gameId": 61041,
@@ -100890,6 +101297,28 @@
     "homeGoals": 1,
     "level": "Girls 12AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61757"
+  },
+  {
+    "gameId": 61760,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Away",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61760"
+  },
+  {
+    "gameId": 61761,
+    "season": 33,
+    "date": "2026-09-19",
+    "away": "Away",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 1,
+    "homeGoals": 1,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61761"
   },
   {
     "gameId": 61785,
@@ -102179,6 +102608,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61058"
   },
   {
+    "gameId": 61762,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Away",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61762"
+  },
+  {
     "gameId": 61786,
     "season": 33,
     "date": "2026-09-20",
@@ -102199,6 +102639,17 @@
     "homeGoals": 0,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61820"
+  },
+  {
+    "gameId": 61821,
+    "season": 33,
+    "date": "2026-09-20",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 16AA",
+    "awayGoals": 0,
+    "homeGoals": 12,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61821"
   },
   {
     "gameId": 61822,
@@ -102377,6 +102828,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60850"
   },
   {
+    "gameId": 60980,
+    "season": 33,
+    "date": "2026-09-25",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60980"
+  },
+  {
+    "gameId": 60981,
+    "season": 33,
+    "date": "2026-09-25",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60981"
+  },
+  {
     "gameId": 61882,
     "season": 33,
     "date": "2026-09-25",
@@ -102386,6 +102859,17 @@
     "homeGoals": 2,
     "level": "16U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61882"
+  },
+  {
+    "gameId": 61886,
+    "season": 33,
+    "date": "2026-09-25",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 7,
+    "homeGoals": 2,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61886"
   },
   {
     "gameId": 61970,
@@ -102531,6 +103015,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60852"
   },
   {
+    "gameId": 60982,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60982"
+  },
+  {
+    "gameId": 60983,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60983"
+  },
+  {
     "gameId": 61050,
     "season": 33,
     "date": "2026-09-26",
@@ -102562,6 +103068,17 @@
     "homeGoals": 4,
     "level": "16U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61883"
+  },
+  {
+    "gameId": 61887,
+    "season": 33,
+    "date": "2026-09-26",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61887"
   },
   {
     "gameId": 61911,
@@ -103576,6 +104093,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61884"
   },
   {
+    "gameId": 61888,
+    "season": 33,
+    "date": "2026-09-27",
+    "away": "Los Angeles Jr Kings 18AAA 18AAA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61888"
+  },
+  {
     "gameId": 61912,
     "season": 33,
     "date": "2026-09-27",
@@ -103783,6 +104311,28 @@
     "homeGoals": 4,
     "level": "Girls 16AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61997"
+  },
+  {
+    "gameId": 61999,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Goldrush Hockey Club Girls 16AA",
+    "home": "Anaheim Lady Ducks 16AA",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61999"
+  },
+  {
+    "gameId": 62000,
+    "season": 33,
+    "date": "2026-10-02",
+    "away": "Vacaville Jets Girls 16AA",
+    "home": "Anaheim Lady Ducks 16AA",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62000"
   },
   {
     "gameId": 62040,
@@ -106502,6 +107052,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62298"
   },
   {
+    "gameId": 62649,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 18AA",
+    "awayGoals": 7,
+    "homeGoals": 4,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62649"
+  },
+  {
+    "gameId": 62650,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 18AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62650"
+  },
+  {
     "gameId": 62651,
     "season": 33,
     "date": "2026-10-10",
@@ -106645,6 +107217,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62738"
   },
   {
+    "gameId": 62760,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62760"
+  },
+  {
+    "gameId": 62761,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62761"
+  },
+  {
     "gameId": 62792,
     "season": 33,
     "date": "2026-10-10",
@@ -106689,6 +107283,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62809"
   },
   {
+    "gameId": 62810,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62810"
+  },
+  {
+    "gameId": 62811,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Los Angeles Jr Kings 18AA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62811"
+  },
+  {
     "gameId": 62847,
     "season": 33,
     "date": "2026-10-10",
@@ -106709,6 +107325,17 @@
     "homeGoals": 0,
     "level": "Girls 14AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62848"
+  },
+  {
+    "gameId": 62986,
+    "season": 33,
+    "date": "2026-10-10",
+    "away": "Away",
+    "home": "Tri Valley Bulls 16AA",
+    "awayGoals": 8,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62986"
   },
   {
     "gameId": 63009,
@@ -107767,6 +108394,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61935"
   },
   {
+    "gameId": 62087,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 18AA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62087"
+  },
+  {
+    "gameId": 62092,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "San Jose Jr Sharks 18AA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62092"
+  },
+  {
     "gameId": 62095,
     "season": 33,
     "date": "2026-10-11",
@@ -107987,6 +108636,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62736"
   },
   {
+    "gameId": 62762,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62762"
+  },
+  {
     "gameId": 62794,
     "season": 33,
     "date": "2026-10-11",
@@ -107996,6 +108656,28 @@
     "homeGoals": 7,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62794"
+  },
+  {
+    "gameId": 62812,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62812"
+  },
+  {
+    "gameId": 62813,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AA",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62813"
   },
   {
     "gameId": 62820,
@@ -108185,6 +108867,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63014"
   },
   {
+    "gameId": 63035,
+    "season": 33,
+    "date": "2026-10-11",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63035"
+  },
+  {
     "gameId": 63050,
     "season": 33,
     "date": "2026-10-11",
@@ -108295,6 +108988,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63015"
   },
   {
+    "gameId": 63036,
+    "season": 33,
+    "date": "2026-10-12",
+    "away": "San Jose Jr Sharks 14AA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63036"
+  },
+  {
     "gameId": 62786,
     "season": 33,
     "date": "2026-10-15",
@@ -108326,6 +109030,17 @@
     "homeGoals": 4,
     "level": "15U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61065"
+  },
+  {
+    "gameId": 61851,
+    "season": 33,
+    "date": "2026-10-16",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks",
+    "awayGoals": 1,
+    "homeGoals": 9,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61851"
   },
   {
     "gameId": 62052,
@@ -108405,6 +109120,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62782"
   },
   {
+    "gameId": 62832,
+    "season": 33,
+    "date": "2026-10-16",
+    "away": "Anaheim Jr Ducks",
+    "home": "Home",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62832"
+  },
+  {
     "gameId": 62975,
     "season": 33,
     "date": "2026-10-16",
@@ -108447,6 +109173,28 @@
     "homeGoals": 7,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63109"
+  },
+  {
+    "gameId": 63168,
+    "season": 33,
+    "date": "2026-10-16",
+    "away": "Santa Clarita Lady Flyers 14AA",
+    "home": "Home",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63168"
+  },
+  {
+    "gameId": 63169,
+    "season": 33,
+    "date": "2026-10-16",
+    "away": "Santa Clarita Lady Flyers 14AA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63169"
   },
   {
     "gameId": 63173,
@@ -108702,6 +109450,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61067"
   },
   {
+    "gameId": 61853,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61853"
+  },
+  {
+    "gameId": 61854,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks",
+    "awayGoals": 2,
+    "homeGoals": 7,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61854"
+  },
+  {
     "gameId": 62054,
     "season": 33,
     "date": "2026-10-17",
@@ -108790,6 +109560,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62783"
   },
   {
+    "gameId": 62808,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Fairmont Prep",
+    "home": "Central Cathedral Jets",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62808"
+  },
+  {
     "gameId": 62816,
     "season": 33,
     "date": "2026-10-17",
@@ -108854,6 +109635,28 @@
     "homeGoals": 1,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63117"
+  },
+  {
+    "gameId": 63170,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Away",
+    "home": "Santa Clarita Lady Flyers 14AA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63170"
+  },
+  {
+    "gameId": 63171,
+    "season": 33,
+    "date": "2026-10-17",
+    "away": "Santa Clarita Lady Flyers 14AA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "Girls 14AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63171"
   },
   {
     "gameId": 63263,
@@ -110011,6 +110814,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61793"
   },
   {
+    "gameId": 61855,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Anaheim Jr Ducks",
+    "home": "Home",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61855"
+  },
+  {
     "gameId": 61876,
     "season": 33,
     "date": "2026-10-18",
@@ -110163,6 +110977,17 @@
     "homeGoals": 2,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63118"
+  },
+  {
+    "gameId": 63128,
+    "season": 33,
+    "date": "2026-10-18",
+    "away": "Anaheim Jr Ducks",
+    "home": "Home",
+    "awayGoals": 3,
+    "homeGoals": 2,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63128"
   },
   {
     "gameId": 63264,
@@ -110504,6 +111329,17 @@
     "homeGoals": 1,
     "level": "Girls 19AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59851"
+  },
+  {
+    "gameId": 60433,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Orange Lutheran Lancers",
+    "home": "Central Cathedral Jets",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60433"
   },
   {
     "gameId": 62065,
@@ -111969,6 +112805,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63402"
   },
   {
+    "gameId": 63406,
+    "season": 33,
+    "date": "2026-10-25",
+    "away": "Away",
+    "home": "San Diego Saints 16AA",
+    "awayGoals": 5,
+    "homeGoals": 4,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63406"
+  },
+  {
     "gameId": 63447,
     "season": 33,
     "date": "2026-10-25",
@@ -112651,6 +113498,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62778"
   },
   {
+    "gameId": 63024,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63024"
+  },
+  {
     "gameId": 63077,
     "season": 33,
     "date": "2026-10-31",
@@ -112682,6 +113540,17 @@
     "homeGoals": 1,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63483"
+  },
+  {
+    "gameId": 63498,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Away",
+    "home": "California Heat 14AA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63498"
   },
   {
     "gameId": 56379,
@@ -113894,6 +114763,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62780"
   },
   {
+    "gameId": 63025,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63025"
+  },
+  {
     "gameId": 63482,
     "season": 33,
     "date": "2026-11-01",
@@ -113903,6 +114783,17 @@
     "homeGoals": 2,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63482"
+  },
+  {
+    "gameId": 63495,
+    "season": 33,
+    "date": "2026-11-01",
+    "away": "Away",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63495"
   },
   {
     "gameId": 59723,
