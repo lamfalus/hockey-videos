@@ -114818,6 +114818,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63027"
   },
   {
+    "gameId": 62838,
+    "season": 33,
+    "date": "2026-11-03",
+    "away": "Orange County OC Hockey 16AA-2",
+    "home": "Anaheim Jr Ducks 14AAA",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "14U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62838"
+  },
+  {
     "gameId": 63287,
     "season": 33,
     "date": "2026-11-06",
