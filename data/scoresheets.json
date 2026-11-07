@@ -115566,6 +115566,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63480"
   },
   {
+    "gameId": 63291,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Away",
+    "home": "Capital Thunder 10BB",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63291"
+  },
+  {
     "gameId": 63338,
     "season": 33,
     "date": "2026-11-07",
