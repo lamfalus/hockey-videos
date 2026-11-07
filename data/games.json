@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "XP3JG8jqS-Y",
+    "title": "Jr. Sharks Girls 12AAA vs St Louis Blues Girls, 2026-11-06",
+    "url": "https://youtu.be/XP3JG8jqS-Y",
+    "isGame": true,
+    "teamA": "Jr. Sharks Girls 12AAA",
+    "teamB": "St Louis Blues Girls",
+    "date": "2026-11-06",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 1,
+      "against": 8
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-11-07"
+  },
+  {
     "videoId": "mgPKjRSX-ko",
     "title": "Jr. Sharks Girls 12AAA vs Anaheim Jr. Ducks, 2026-10-31",
     "url": "https://youtu.be/mgPKjRSX-ko",
@@ -8566,24 +8588,6 @@
     "uploadDate": "2024-01-16"
   },
   {
-    "videoId": "576WNVTVbp4",
-    "title": "15AAA JR. SHARKS VS COLORADO THUNDERBIRDS, 12-Jan-2024",
-    "url": "https://youtu.be/576WNVTVbp4",
-    "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "COLORADO THUNDERBIRDS",
-    "date": "2024-01-12",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-01-16"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8602,6 +8606,24 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "tkbWCsDCiiM",
+    "title": "15AAA JR. SHARKS VS JR. FLYERS, 12-Jan-2024",
+    "url": "https://youtu.be/tkbWCsDCiiM",
+    "isGame": true,
+    "teamA": "15AAA JR. SHARKS",
+    "teamB": "JR. FLYERS",
+    "date": "2024-01-12",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-01-16"
   },
   {
     "videoId": "UMlEJPsE1TE",
@@ -9468,15 +9490,15 @@
     "uploadDate": "2023-10-30"
   },
   {
-    "videoId": "TyReaed6M-M",
-    "title": "15AAA JR. SHARKS VS LA JR. KINGS 28-Oct-23",
-    "url": "https://youtu.be/TyReaed6M-M",
+    "videoId": "b3B7EQGSYYk",
+    "title": "15AAA San Jose Jr Sharks vs. Colorado Thunderbirds, 10-20-23",
+    "url": "https://youtu.be/b3B7EQGSYYk",
     "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "LA JR. KINGS",
-    "date": "2023-10-28",
+    "teamA": "15AAA San Jose Jr Sharks",
+    "teamB": "Colorado Thunderbirds",
+    "date": "2023-10-20",
     "dateSource": "title",
-    "dateFormat": "d-mon-y",
+    "dateFormat": "m-d-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
@@ -10472,13 +10494,13 @@
     "uploadDate": "2023-09-05"
   },
   {
-    "videoId": "dxVnaeMTS4k",
-    "title": "10-3 Cougars vs Jr. Golden Knights, 9-1-2023",
-    "url": "https://youtu.be/dxVnaeMTS4k",
+    "videoId": "EySBxvoO8NA",
+    "title": "10-3 COUGARS VS GOLDRUSH, 9-2-2023",
+    "url": "https://youtu.be/EySBxvoO8NA",
     "isGame": true,
-    "teamA": "10-3 Cougars",
-    "teamB": "Jr. Golden Knights",
-    "date": "2023-09-01",
+    "teamA": "10-3 COUGARS",
+    "teamB": "GOLDRUSH",
+    "date": "2023-09-02",
     "dateSource": "title",
     "dateFormat": "m-d-y",
     "gameNum": null,
@@ -12248,28 +12270,6 @@
     "uploadDate": "2022-12-19"
   },
   {
-    "videoId": "_Qk_lcr7CDE",
-    "title": "14AA GSE Eagles-1 vs SC Flyers-2, 12-18-2022",
-    "url": "https://youtu.be/_Qk_lcr7CDE",
-    "isGame": true,
-    "teamA": "14AA GSE Eagles-1",
-    "teamB": "SC Flyers-2",
-    "date": "2022-12-18",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Win",
-      "for": 3,
-      "against": 1
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-12-19"
-  },
-  {
     "videoId": "IxFoYB9D9LU",
     "title": "10U Cougars vs Jr . Sharks-2, 11-13-22",
     "url": "https://youtu.be/IxFoYB9D9LU",
@@ -13150,6 +13150,24 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "ZhzHpTsO8eY",
+    "title": "8U-2 Cougars vs Stockton Colts, 10-15-2022",
+    "url": "https://youtu.be/ZhzHpTsO8eY",
+    "isGame": true,
+    "teamA": "8U-2 Cougars",
+    "teamB": "Stockton Colts",
+    "date": "2022-10-15",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-10-16"
   },
   {
     "videoId": "0Btl7Ixuh8k",

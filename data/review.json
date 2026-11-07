@@ -940,6 +940,26 @@
     "uploadDate": "2023-02-04"
   },
   {
+    "videoId": "Z-qCSEyWryQ",
+    "title": "Lemons Sonoma, Dec 4, 2022",
+    "url": "https://youtu.be/Z-qCSEyWryQ",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-12-05"
+  },
+  {
     "videoId": "J3NxOXUXFZ4",
     "title": "Lemons Sonoma, Dec 4, 2022",
     "url": "https://youtu.be/J3NxOXUXFZ4",
@@ -1078,26 +1098,6 @@
       "no-vs"
     ],
     "uploadDate": "2022-11-07"
-  },
-  {
-    "videoId": "C_c3f2ZqE_4",
-    "title": "RyanR",
-    "url": "https://youtu.be/C_c3f2ZqE_4",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-10-30"
   },
   {
     "videoId": "wtlE5XcJYes",
@@ -1420,26 +1420,6 @@
     "uploadDate": "2022-05-12"
   },
   {
-    "videoId": "TUobLsb7I_w",
-    "title": "08 Blazers Game 5",
-    "url": "https://youtu.be/TUobLsb7I_w",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-05-12"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1458,6 +1438,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "Go31zExUj_c",
+    "title": "13 Blazers Game 5",
+    "url": "https://youtu.be/Go31zExUj_c",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-05-10"
   },
   {
     "videoId": "ZK8RNT9OKc8",
