@@ -1,5 +1,27 @@
 [
   {
+    "videoId": "upIoUh3Pa1g",
+    "title": "Jr. Sharks Girls 12AAA vs Lady Falcons, 2026-11-06",
+    "url": "https://youtu.be/upIoUh3Pa1g",
+    "isGame": true,
+    "teamA": "Jr. Sharks Girls 12AAA",
+    "teamB": "Lady Falcons",
+    "date": "2026-11-06",
+    "dateSource": "title",
+    "dateFormat": "iso",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": {
+      "outcome": "Loss",
+      "for": 2,
+      "against": 3
+    },
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2026-11-07"
+  },
+  {
     "videoId": "XP3JG8jqS-Y",
     "title": "Jr. Sharks Girls 12AAA vs St Louis Blues Girls, 2026-11-06",
     "url": "https://youtu.be/XP3JG8jqS-Y",
@@ -8570,24 +8592,6 @@
     "uploadDate": "2024-01-16"
   },
   {
-    "videoId": "O28WCY6bbKI",
-    "title": "15AAA JR. SHARKS VS WASHINGTON LITTLE CAPS, 13-Jan-2024",
-    "url": "https://youtu.be/O28WCY6bbKI",
-    "isGame": true,
-    "teamA": "15AAA JR. SHARKS",
-    "teamB": "WASHINGTON LITTLE CAPS",
-    "date": "2024-01-13",
-    "dateSource": "title",
-    "dateFormat": "d-mon-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2024-01-16"
-  },
-  {
     "videoId": "XDBgIjGDs3c",
     "title": "12AA GSE-1 vs Utah Jr. Grizzlies 11-18-2023 (LB)",
     "url": "https://youtu.be/XDBgIjGDs3c",
@@ -8606,6 +8610,24 @@
       "date-drift"
     ],
     "uploadDate": "2024-03-05"
+  },
+  {
+    "videoId": "576WNVTVbp4",
+    "title": "15AAA JR. SHARKS VS COLORADO THUNDERBIRDS, 12-Jan-2024",
+    "url": "https://youtu.be/576WNVTVbp4",
+    "isGame": true,
+    "teamA": "15AAA JR. SHARKS",
+    "teamB": "COLORADO THUNDERBIRDS",
+    "date": "2024-01-12",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2024-01-16"
   },
   {
     "videoId": "tkbWCsDCiiM",
@@ -9488,6 +9510,24 @@
     "confidence": "high",
     "flags": [],
     "uploadDate": "2023-10-30"
+  },
+  {
+    "videoId": "TyReaed6M-M",
+    "title": "15AAA JR. SHARKS VS LA JR. KINGS 28-Oct-23",
+    "url": "https://youtu.be/TyReaed6M-M",
+    "isGame": true,
+    "teamA": "15AAA JR. SHARKS",
+    "teamB": "LA JR. KINGS",
+    "date": "2023-10-28",
+    "dateSource": "title",
+    "dateFormat": "d-mon-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2023-10-29"
   },
   {
     "videoId": "b3B7EQGSYYk",
@@ -10476,12 +10516,12 @@
     "uploadDate": "2023-09-05"
   },
   {
-    "videoId": "CF30-rCQ6oI",
-    "title": "10-3 COUGARS VS EMPIRE, 9-1-2023",
-    "url": "https://youtu.be/CF30-rCQ6oI",
+    "videoId": "dxVnaeMTS4k",
+    "title": "10-3 Cougars vs Jr. Golden Knights, 9-1-2023",
+    "url": "https://youtu.be/dxVnaeMTS4k",
     "isGame": true,
-    "teamA": "10-3 COUGARS",
-    "teamB": "EMPIRE",
+    "teamA": "10-3 Cougars",
+    "teamB": "Jr. Golden Knights",
     "date": "2023-09-01",
     "dateSource": "title",
     "dateFormat": "m-d-y",
@@ -12248,28 +12288,6 @@
     "uploadDate": "2022-12-24"
   },
   {
-    "videoId": "2W-Jji1IHHM",
-    "title": "14AA GSE Eagles-1 vs Jr. Kings-2, 12-17-2022",
-    "url": "https://youtu.be/2W-Jji1IHHM",
-    "isGame": true,
-    "teamA": "14AA GSE Eagles-1",
-    "teamB": "Jr. Kings-2",
-    "date": "2022-12-17",
-    "dateSource": "title",
-    "dateFormat": "m-d-y",
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": {
-      "outcome": "Tie",
-      "for": 1,
-      "against": 1
-    },
-    "confidence": "high",
-    "flags": [],
-    "uploadDate": "2022-12-19"
-  },
-  {
     "videoId": "IxFoYB9D9LU",
     "title": "10U Cougars vs Jr . Sharks-2, 11-13-22",
     "url": "https://youtu.be/IxFoYB9D9LU",
@@ -12458,6 +12476,24 @@
       "date-drift"
     ],
     "uploadDate": "2023-01-03"
+  },
+  {
+    "videoId": "Kji2yQLpwdM",
+    "title": "14AA GSE-1 vs  Bellarmine HS JV 12-04-2022",
+    "url": "https://youtu.be/Kji2yQLpwdM",
+    "isGame": true,
+    "teamA": "14AA GSE-1",
+    "teamB": "Bellarmine HS JV",
+    "date": "2022-12-04",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "high",
+    "flags": [],
+    "uploadDate": "2022-12-06"
   },
   {
     "videoId": "ljX0Eh_jfqQ",
@@ -13072,24 +13108,24 @@
     "uploadDate": "2022-10-30"
   },
   {
-    "videoId": "BZMeYazZ0Cc",
-    "title": "Ryan R goal vs Blackstars",
-    "url": "https://youtu.be/BZMeYazZ0Cc",
+    "videoId": "4B_KpD_7__U",
+    "title": "10U Cougars vs Capital Thunder, 10-16-22",
+    "url": "https://youtu.be/4B_KpD_7__U",
     "isGame": true,
-    "teamA": "Ryan R goal",
-    "teamB": "Blackstars",
-    "date": "2022-10-30",
-    "dateSource": "upload",
-    "dateFormat": null,
+    "teamA": "10U Cougars",
+    "teamB": "Capital Thunder",
+    "date": "2022-10-16",
+    "dateSource": "title",
+    "dateFormat": "m-d-y",
     "gameNum": null,
     "isScrimmage": false,
     "source": null,
     "result": null,
     "confidence": "medium",
     "flags": [
-      "date-missing"
+      "date-drift"
     ],
-    "uploadDate": "2022-10-30"
+    "uploadDate": "2023-01-03"
   },
   {
     "videoId": "vASL-hAy6oU",
