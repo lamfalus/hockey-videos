@@ -115566,6 +115566,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63480"
   },
   {
+    "gameId": 57629,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Santa Rosa Flyers 14BB",
+    "home": "Oakland Bears 14BB",
+    "awayGoals": 3,
+    "homeGoals": 8,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57629"
+  },
+  {
     "gameId": 63291,
     "season": 33,
     "date": "2026-11-07",
