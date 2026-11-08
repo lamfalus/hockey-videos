@@ -115566,6 +115566,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63480"
   },
   {
+    "gameId": 56911,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Santa Rosa Flyers 14A",
+    "home": "Reno Ice 14A",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56911"
+  },
+  {
+    "gameId": 56961,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Santa Rosa Flyers 10BB",
+    "home": "San Francisco Sabercats 10BB",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56961"
+  },
+  {
     "gameId": 57384,
     "season": 33,
     "date": "2026-11-07",
