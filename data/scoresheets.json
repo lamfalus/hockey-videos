@@ -116213,5 +116213,16 @@
     "homeGoals": 9,
     "level": "High School 2A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63470"
+  },
+  {
+    "gameId": 63478,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Away",
+    "home": "Capital Thunder 12B",
+    "awayGoals": 3,
+    "homeGoals": 10,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63478"
   }
 ]
