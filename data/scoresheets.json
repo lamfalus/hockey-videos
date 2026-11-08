@@ -115698,6 +115698,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60977"
   },
   {
+    "gameId": 62070,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Capistrano Coyotes",
+    "home": "Valley Christian Warriors",
+    "awayGoals": 14,
+    "homeGoals": 0,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62070"
+  },
+  {
     "gameId": 62268,
     "season": 33,
     "date": "2026-11-07",
