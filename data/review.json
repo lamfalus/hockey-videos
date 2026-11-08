@@ -640,6 +640,26 @@
     "uploadDate": "2023-12-02"
   },
   {
+    "videoId": "aGJZw6EcvHQ",
+    "title": "Sharks Ice at San Jose Gray Rink 2023 10 29T102953",
+    "url": "https://youtu.be/aGJZw6EcvHQ",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2023-10-30"
+  },
+  {
     "videoId": "XaUPWzafob0",
     "title": "Lemons Sonoma Dec. '23 - Saturday",
     "url": "https://youtu.be/XaUPWzafob0",
@@ -1360,26 +1380,6 @@
     "uploadDate": "2022-05-13"
   },
   {
-    "videoId": "AazPkmrkW8Y",
-    "title": "08 Blazers Game 3",
-    "url": "https://youtu.be/AazPkmrkW8Y",
-    "isGame": false,
-    "teamA": null,
-    "teamB": null,
-    "date": null,
-    "dateSource": null,
-    "dateFormat": null,
-    "gameNum": null,
-    "isScrimmage": false,
-    "source": null,
-    "result": null,
-    "confidence": "low",
-    "flags": [
-      "no-vs"
-    ],
-    "uploadDate": "2022-05-13"
-  },
-  {
     "videoId": "wtlE5XcJYes",
     "title": "Lemons Sonoma, Dec 3, 2022",
     "url": "https://youtu.be/wtlE5XcJYes",
@@ -1398,6 +1398,26 @@
       "no-vs"
     ],
     "uploadDate": "2022-12-03"
+  },
+  {
+    "videoId": "ZIR35VYCJaM",
+    "title": "08 Blazers Game 4",
+    "url": "https://youtu.be/ZIR35VYCJaM",
+    "isGame": false,
+    "teamA": null,
+    "teamB": null,
+    "date": null,
+    "dateSource": null,
+    "dateFormat": null,
+    "gameNum": null,
+    "isScrimmage": false,
+    "source": null,
+    "result": null,
+    "confidence": "low",
+    "flags": [
+      "no-vs"
+    ],
+    "uploadDate": "2022-05-12"
   },
   {
     "videoId": "TUobLsb7I_w",
@@ -3960,9 +3980,9 @@
     "uploadDate": "2017-10-12"
   },
   {
-    "videoId": "AGNHGtfyci4",
-    "title": "Button Turrible 2017 Trent Saturday Rear Camera",
-    "url": "https://youtu.be/AGNHGtfyci4",
+    "videoId": "MJDYNN2S_VQ",
+    "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
+    "url": "https://youtu.be/MJDYNN2S_VQ",
     "isGame": false,
     "teamA": null,
     "teamB": null,
@@ -3977,12 +3997,12 @@
     "flags": [
       "no-vs"
     ],
-    "uploadDate": "2017-10-10"
+    "uploadDate": "2017-10-14"
   },
   {
-    "videoId": "MJDYNN2S_VQ",
-    "title": "#177 Uncle Joe,  2017 Button Turrible Sunday",
-    "url": "https://youtu.be/MJDYNN2S_VQ",
+    "videoId": "RgMj_gHPVOY",
+    "title": "Button Turrible 2017 Trent Saturday",
+    "url": "https://youtu.be/RgMj_gHPVOY",
     "isGame": false,
     "teamA": null,
     "teamB": null,
