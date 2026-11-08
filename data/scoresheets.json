@@ -116193,6 +116193,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57632"
   },
   {
+    "gameId": 57633,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "San Francisco Sabercats 12B",
+    "home": "Oakland Bears 12B",
+    "awayGoals": 0,
+    "homeGoals": 13,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57633"
+  },
+  {
     "gameId": 58914,
     "season": 33,
     "date": "2026-11-08",
@@ -116237,6 +116248,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60113"
   },
   {
+    "gameId": 60117,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Cupertino Cougars 10B",
+    "home": "San Jose Jr Sharks 10B-1",
+    "awayGoals": 7,
+    "homeGoals": 11,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60117"
+  },
+  {
     "gameId": 60121,
     "season": 33,
     "date": "2026-11-08",
@@ -116268,6 +116290,17 @@
     "homeGoals": 12,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60123"
+  },
+  {
+    "gameId": 60909,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Tri Valley Blue Devils 14BB",
+    "home": "Cupertino Cougars 14BB",
+    "awayGoals": 7,
+    "homeGoals": 6,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60909"
   },
   {
     "gameId": 62256,
