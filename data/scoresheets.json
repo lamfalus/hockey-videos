@@ -115577,6 +115577,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56620"
   },
   {
+    "gameId": 56621,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Lake Tahoe Grizzlies 12BB",
+    "home": "San Mateo Black Stars 12BB",
+    "awayGoals": 7,
+    "homeGoals": 2,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56621"
+  },
+  {
     "gameId": 56911,
     "season": 33,
     "date": "2026-11-07",
@@ -115729,6 +115740,28 @@
     "homeGoals": 5,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63291"
+  },
+  {
+    "gameId": 63295,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Away",
+    "home": "Capital Thunder 12B",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63295"
+  },
+  {
+    "gameId": 63299,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Away",
+    "home": "Capital Thunder 14A",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63299"
   },
   {
     "gameId": 63338,
