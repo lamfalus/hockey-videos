@@ -115599,6 +115599,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56961"
   },
   {
+    "gameId": 56962,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Cupertino Cougars 16A",
+    "home": "San Francisco Sabercats 16A",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56962"
+  },
+  {
     "gameId": 57384,
     "season": 33,
     "date": "2026-11-07",
