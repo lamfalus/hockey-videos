@@ -116204,6 +116204,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58914"
   },
   {
+    "gameId": 58915,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Santa Clara Blackhawks 12BB",
+    "home": "Stockton Colts 12BB",
+    "awayGoals": 1,
+    "homeGoals": 13,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58915"
+  },
+  {
     "gameId": 60112,
     "season": 33,
     "date": "2026-11-08",
@@ -116213,6 +116224,17 @@
     "homeGoals": 12,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60112"
+  },
+  {
+    "gameId": 60113,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "San Mateo Black Stars 10A",
+    "home": "San Jose Jr Sharks 10A-2",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60113"
   },
   {
     "gameId": 60121,
@@ -116246,6 +116268,17 @@
     "homeGoals": 4,
     "level": "12U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62256"
+  },
+  {
+    "gameId": 63089,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "San Jose Jr Sharks 13AAA",
+    "home": "Los Angeles Jr Kings 13AAA",
+    "awayGoals": 5,
+    "homeGoals": 4,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63089"
   },
   {
     "gameId": 63289,
