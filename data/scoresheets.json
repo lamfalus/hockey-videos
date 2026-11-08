@@ -115566,6 +115566,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63480"
   },
   {
+    "gameId": 57384,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Fresno Jr Monsters 12A",
+    "home": "Tri Valley Blue Devils 12A",
+    "awayGoals": 3,
+    "homeGoals": 7,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57384"
+  },
+  {
     "gameId": 57566,
     "season": 33,
     "date": "2026-11-07",
@@ -115586,6 +115597,17 @@
     "homeGoals": 8,
     "level": "14U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57629"
+  },
+  {
+    "gameId": 62268,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Tri Valley Bulls 18AA",
+    "home": "Oakland Bears 18AA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62268"
   },
   {
     "gameId": 63088,
