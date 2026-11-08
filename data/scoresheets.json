@@ -116182,6 +116182,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57567"
   },
   {
+    "gameId": 57632,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "San Mateo Black Stars 10B-2",
+    "home": "Oakland Bears 10B",
+    "awayGoals": 0,
+    "homeGoals": 17,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57632"
+  },
+  {
     "gameId": 58914,
     "season": 33,
     "date": "2026-11-08",
