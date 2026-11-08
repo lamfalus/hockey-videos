@@ -116160,6 +116160,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63600"
   },
   {
+    "gameId": 60121,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Tri Valley Blue Devils 10B",
+    "home": "Santa Clara Blackhawks 10B",
+    "awayGoals": 0,
+    "homeGoals": 11,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60121"
+  },
+  {
     "gameId": 62256,
     "season": 33,
     "date": "2026-11-08",
