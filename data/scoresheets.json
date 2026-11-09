@@ -116193,6 +116193,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57445"
   },
   {
+    "gameId": 57446,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "San Francisco Sabercats 14A",
+    "home": "Tri Valley Blue Devils 14A",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57446"
+  },
+  {
     "gameId": 57567,
     "season": 33,
     "date": "2026-11-08",
