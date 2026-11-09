@@ -116391,6 +116391,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62280"
   },
   {
+    "gameId": 62281,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Santa Clara Blackhawks 14AA",
+    "home": "San Jose Jr Sharks 14AA",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62281"
+  },
+  {
     "gameId": 63089,
     "season": 33,
     "date": "2026-11-08",
