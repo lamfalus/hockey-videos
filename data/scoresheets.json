@@ -117390,5 +117390,16 @@
     "homeGoals": 1,
     "level": "12U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63616"
+  },
+  {
+    "gameId": 59731,
+    "season": 33,
+    "date": "2026-11-09",
+    "away": "Los Gatos Wildcats HS VS",
+    "home": "Valley Christian Warriors",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "Varsity South",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59731"
   }
 ]
