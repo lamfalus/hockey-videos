@@ -118655,5 +118655,16 @@
     "homeGoals": 1,
     "level": "Varsity South",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59731"
+  },
+  {
+    "gameId": 63259,
+    "season": 33,
+    "date": "2026-11-13",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 12AAA",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63259"
   }
 ]
