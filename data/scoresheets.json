@@ -118765,5 +118765,16 @@
     "homeGoals": 6,
     "level": "12U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63260"
+  },
+  {
+    "gameId": 57634,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Vacaville Jets 10BB",
+    "home": "Oakland Bears 10BB",
+    "awayGoals": 6,
+    "homeGoals": 9,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57634"
   }
 ]
