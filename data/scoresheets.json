@@ -118776,5 +118776,16 @@
     "homeGoals": 9,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57634"
+  },
+  {
+    "gameId": 63192,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Away",
+    "home": "Capistrano Coyotes",
+    "awayGoals": 0,
+    "homeGoals": 1,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63192"
   }
 ]
