@@ -118811,6 +118811,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56622"
   },
   {
+    "gameId": 56623,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Santa Rosa Flyers 10B",
+    "home": "San Mateo Black Stars 10B-2",
+    "awayGoals": 17,
+    "homeGoals": 3,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56623"
+  },
+  {
     "gameId": 56727,
     "season": 33,
     "date": "2026-11-14",
