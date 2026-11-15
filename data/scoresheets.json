@@ -119240,6 +119240,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56722"
   },
   {
+    "gameId": 56723,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Delta Knights 12AA",
+    "home": "San Francisco Sabercats 12BB",
+    "awayGoals": 6,
+    "homeGoals": 5,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56723"
+  },
+  {
     "gameId": 56916,
     "season": 33,
     "date": "2026-11-15",
@@ -119282,6 +119293,17 @@
     "homeGoals": 3,
     "level": "14U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58253"
+  },
+  {
+    "gameId": 58403,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Stockton Colts Girls 10B",
+    "home": "Lake Tahoe Grizzlies 10B",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58403"
   },
   {
     "gameId": 59474,
