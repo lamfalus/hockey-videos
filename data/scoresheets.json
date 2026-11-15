@@ -118833,6 +118833,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56727"
   },
   {
+    "gameId": 56728,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Capital Thunder 14A",
+    "home": "San Francisco Sabercats 14A",
+    "awayGoals": 4,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56728"
+  },
+  {
     "gameId": 56729,
     "season": 33,
     "date": "2026-11-14",
@@ -119018,6 +119029,17 @@
     "homeGoals": 2,
     "level": "12U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61013"
+  },
+  {
+    "gameId": 62076,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Tri Valley Bulls 18AA",
+    "home": "San Jose Jr Sharks 18AA",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62076"
   },
   {
     "gameId": 63192,
