@@ -119383,6 +119383,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60137"
   },
   {
+    "gameId": 60138,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Tri Valley Blue Devils 12BB",
+    "home": "Santa Clara Blackhawks 12BB",
+    "awayGoals": 1,
+    "homeGoals": 9,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60138"
+  },
+  {
     "gameId": 61014,
     "season": 33,
     "date": "2026-11-15",
@@ -119392,6 +119403,17 @@
     "homeGoals": 1,
     "level": "12U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61014"
+  },
+  {
+    "gameId": 62270,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Tri Valley Bulls 18AA",
+    "home": "Golden State Elite 18AA",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62270"
   },
   {
     "gameId": 64021,
