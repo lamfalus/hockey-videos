@@ -119273,6 +119273,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56917"
   },
   {
+    "gameId": 57447,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Lake Tahoe Grizzlies 14BB",
+    "home": "Tri Valley Blue Devils 14BB",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57447"
+  },
+  {
     "gameId": 57569,
     "season": 33,
     "date": "2026-11-15",
@@ -119359,6 +119370,17 @@
     "homeGoals": 4,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60126"
+  },
+  {
+    "gameId": 60128,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Tri Valley Blue Devils 12A",
+    "home": "San Jose Jr Sharks 12A",
+    "awayGoals": 2,
+    "homeGoals": 8,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60128"
   },
   {
     "gameId": 60132,
