@@ -119218,6 +119218,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63579"
   },
   {
+    "gameId": 56916,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Oakland Bears 14A",
+    "home": "Reno Ice 14A",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56916"
+  },
+  {
+    "gameId": 60125,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Mateo Black Stars 10B-1",
+    "home": "San Jose Jr Sharks 10B-1",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60125"
+  },
+  {
     "gameId": 61014,
     "season": 33,
     "date": "2026-11-15",
