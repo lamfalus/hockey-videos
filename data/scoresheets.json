@@ -119218,6 +119218,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63579"
   },
   {
+    "gameId": 61014,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 12AAA",
+    "awayGoals": 0,
+    "homeGoals": 1,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61014"
+  },
+  {
     "gameId": 64021,
     "season": 33,
     "date": "2026-11-15",
