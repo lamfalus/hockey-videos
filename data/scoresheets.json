@@ -119284,6 +119284,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57569"
   },
   {
+    "gameId": 57570,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Cupertino Cougars 12A",
+    "home": "Fresno Jr Monsters 12A",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57570"
+  },
+  {
     "gameId": 58253,
     "season": 33,
     "date": "2026-11-15",
