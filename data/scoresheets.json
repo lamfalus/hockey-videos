@@ -118767,6 +118767,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63260"
   },
   {
+    "gameId": 56914,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Oakland Bears 14A",
+    "home": "Reno Ice 14A",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56914"
+  },
+  {
+    "gameId": 57386,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Santa Clara Blackhawks 10B",
+    "home": "Tri Valley Blue Devils 10B",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57386"
+  },
+  {
     "gameId": 57634,
     "season": 33,
     "date": "2026-11-14",
@@ -118776,6 +118798,17 @@
     "homeGoals": 9,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57634"
+  },
+  {
+    "gameId": 57635,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "San Jose Jr Sharks 12B",
+    "home": "Oakland Bears 12B",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57635"
   },
   {
     "gameId": 59523,
