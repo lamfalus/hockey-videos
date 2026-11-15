@@ -118767,6 +118767,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63260"
   },
   {
+    "gameId": 56437,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "San Jose Jr Sharks 10BB-1",
+    "home": "Santa Rosa Flyers 10BB",
+    "awayGoals": 3,
+    "homeGoals": 10,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56437"
+  },
+  {
+    "gameId": 56727,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Santa Rosa Flyers 12B",
+    "home": "San Francisco Sabercats 12B",
+    "awayGoals": 7,
+    "homeGoals": 7,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56727"
+  },
+  {
     "gameId": 56914,
     "season": 33,
     "date": "2026-11-14",
@@ -118809,6 +118831,17 @@
     "homeGoals": 1,
     "level": "12U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57635"
+  },
+  {
+    "gameId": 58297,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Reno Ice 10BB",
+    "home": "Lake Tahoe Grizzlies 10BB",
+    "awayGoals": 10,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58297"
   },
   {
     "gameId": 59523,
