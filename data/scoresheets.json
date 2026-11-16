@@ -98483,6 +98483,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59243"
   },
   {
+    "gameId": 59246,
+    "season": 33,
+    "date": "2026-09-06",
+    "away": "Junior Reign 16AA-2",
+    "home": "Orange County OC Hockey 16AA-2",
+    "awayGoals": 5,
+    "homeGoals": 5,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59246"
+  },
+  {
     "gameId": 59250,
     "season": 33,
     "date": "2026-09-06",
@@ -99647,6 +99658,17 @@
     "homeGoals": 2,
     "level": "18U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64030"
+  },
+  {
+    "gameId": 64500,
+    "season": 33,
+    "date": "2026-09-07",
+    "away": "Away",
+    "home": "Santa Clarita Jr Flyers 14AA",
+    "awayGoals": 5,
+    "homeGoals": 8,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64500"
   },
   {
     "gameId": 60350,
@@ -114477,6 +114499,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57518"
   },
   {
+    "gameId": 58038,
+    "season": 33,
+    "date": "2026-10-31",
+    "away": "Bay Harbor Red Wings 14AA",
+    "home": "California Heat 14AA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58038"
+  },
+  {
     "gameId": 58280,
     "season": 33,
     "date": "2026-10-31",
@@ -116292,6 +116325,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63548"
   },
   {
+    "gameId": 58875,
+    "season": 33,
+    "date": "2026-11-06",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58875"
+  },
+  {
     "gameId": 61069,
     "season": 33,
     "date": "2026-11-06",
@@ -116831,6 +116875,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63590"
   },
   {
+    "gameId": 63652,
+    "season": 33,
+    "date": "2026-11-06",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 13AAA",
+    "awayGoals": 2,
+    "homeGoals": 8,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63652"
+  },
+  {
     "gameId": 63991,
     "season": 33,
     "date": "2026-11-06",
@@ -116939,6 +116994,28 @@
     "homeGoals": 8,
     "level": "14U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57629"
+  },
+  {
+    "gameId": 58874,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Anaheim Jr Ducks 13AAA",
+    "home": "Home",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58874"
+  },
+  {
+    "gameId": 58876,
+    "season": 33,
+    "date": "2026-11-07",
+    "away": "Anaheim Jr Ducks 13AAA",
+    "home": "Home",
+    "awayGoals": 7,
+    "homeGoals": 3,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58876"
   },
   {
     "gameId": 58912,
@@ -117863,6 +117940,17 @@
     "homeGoals": 4,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58064"
+  },
+  {
+    "gameId": 58873,
+    "season": 33,
+    "date": "2026-11-08",
+    "away": "Anaheim Jr Ducks 13AAA",
+    "home": "Home",
+    "awayGoals": 1,
+    "homeGoals": 3,
+    "level": "13U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58873"
   },
   {
     "gameId": 58914,
@@ -119196,6 +119284,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63261"
   },
   {
+    "gameId": 63262,
+    "season": 33,
+    "date": "2026-11-14",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 12AAA",
+    "awayGoals": 0,
+    "homeGoals": 3,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63262"
+  },
+  {
     "gameId": 63578,
     "season": 33,
     "date": "2026-11-14",
@@ -119350,6 +119449,303 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57570"
   },
   {
+    "gameId": 58066,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Surf 16A",
+    "home": "Anaheim Jr Ducks 16A",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58066"
+  },
+  {
+    "gameId": 58069,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Junior Reign 14AA-2",
+    "home": "California Wave 14AA",
+    "awayGoals": 1,
+    "homeGoals": 8,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58069"
+  },
+  {
+    "gameId": 58070,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Bears 16AA",
+    "home": "Santa Barbara Ice Hawks 16AA",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58070"
+  },
+  {
+    "gameId": 58071,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Junior Reign 18AA",
+    "home": "Orange County Hockey Club 18AA-1",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58071"
+  },
+  {
+    "gameId": 58072,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Junior Reign 12AA-2",
+    "home": "Orange County Hockey Club 12AA",
+    "awayGoals": 4,
+    "homeGoals": 9,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58072"
+  },
+  {
+    "gameId": 58073,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Aliso Viejo Avalanche 16A",
+    "home": "Orange County Hockey Club 16A-1",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58073"
+  },
+  {
+    "gameId": 58074,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 12AA-1",
+    "home": "Junior Ice Dogs 12AA",
+    "awayGoals": 8,
+    "homeGoals": 0,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58074"
+  },
+  {
+    "gameId": 58075,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 12AA-2",
+    "home": "Empire Hockey Club 12AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58075"
+  },
+  {
+    "gameId": 58076,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 12AA-1",
+    "home": "Los Angeles Jr Kings 12AA-2",
+    "awayGoals": 9,
+    "homeGoals": 2,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58076"
+  },
+  {
+    "gameId": 58077,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Wave 12AA",
+    "home": "California Bears 12AA-1",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58077"
+  },
+  {
+    "gameId": 58078,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Heat 14AA",
+    "home": "California Bears 14AA",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58078"
+  },
+  {
+    "gameId": 58079,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "SDIA Oilers 18AA",
+    "home": "Rose City Pats 18AA",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58079"
+  },
+  {
+    "gameId": 58080,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Santa Clarita Jr Flyers 12AA",
+    "home": "San Diego Jr Gulls 12AA",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58080"
+  },
+  {
+    "gameId": 58081,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County OC Hockey (2) 14UAA 14AA",
+    "home": "San Diego Jr Gulls 14AA 14AA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58081"
+  },
+  {
+    "gameId": 58082,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 16AA",
+    "home": "California Heat 16AA-2",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58082"
+  },
+  {
+    "gameId": 58083,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Rose City Pats 16AA",
+    "home": "California Heat 16AA-1",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58083"
+  },
+  {
+    "gameId": 58084,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Aliso Viejo Avalance 12AA",
+    "home": "California Heat 12AA",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58084"
+  },
+  {
+    "gameId": 58085,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Wave 16AA",
+    "home": "Junior Reign 16AA-1",
+    "awayGoals": 15,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58085"
+  },
+  {
+    "gameId": 58086,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 14AA",
+    "home": "Junior Reign 14AA-1",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58086"
+  },
+  {
+    "gameId": 58087,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Saints 16AA",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 0,
+    "homeGoals": 8,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58087"
+  },
+  {
+    "gameId": 58088,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 14AA",
+    "home": "Ventura Mariners 14AA",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58088"
+  },
+  {
+    "gameId": 58090,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Wave 18AA",
+    "home": "California Surf 18AA",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58090"
+  },
+  {
+    "gameId": 58091,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 16AA",
+    "home": "California Surf 16AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58091"
+  },
+  {
+    "gameId": 58092,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Empire Hockey Club 14AA",
+    "home": "California Surf 14AA",
+    "awayGoals": 12,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58092"
+  },
+  {
+    "gameId": 58093,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 18AA",
+    "home": "Orange County OC Hockey (2) 18UAA 18AA",
+    "awayGoals": 7,
+    "homeGoals": 0,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58093"
+  },
+  {
+    "gameId": 58094,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Jr Gulls 16AA",
+    "home": "Orange County OC Hockey 16AA-1",
+    "awayGoals": 3,
+    "homeGoals": 7,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58094"
+  },
+  {
+    "gameId": 58251,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 15AAA",
+    "home": "Anaheim Jr Ducks 15AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "15U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58251"
+  },
+  {
     "gameId": 58253,
     "season": 33,
     "date": "2026-11-15",
@@ -119370,6 +119766,28 @@
     "homeGoals": 1,
     "level": "10U B West",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58403"
+  },
+  {
+    "gameId": 58897,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 18AAA",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58897"
+  },
+  {
+    "gameId": 59275,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 16AA",
+    "awayGoals": 1,
+    "homeGoals": 9,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59275"
   },
   {
     "gameId": 59474,
@@ -119504,6 +119922,545 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61014"
   },
   {
+    "gameId": 61154,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Aliso Viejo Avalanche 12A",
+    "home": "Anaheim Jr Ducks 12A-3",
+    "awayGoals": 5,
+    "homeGoals": 4,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61154"
+  },
+  {
+    "gameId": 61155,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Mavericks Hockey Club",
+    "home": "Anaheim Jr Ducks 14A",
+    "awayGoals": 4,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61155"
+  },
+  {
+    "gameId": 61156,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Empire Hockey Club 10B",
+    "home": "Anaheim Lady Ducks 10B",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61156"
+  },
+  {
+    "gameId": 61157,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Bakersfield Jr Condors 10B",
+    "home": "Aliso Viejo Avalanche 10B-2",
+    "awayGoals": 0,
+    "homeGoals": 14,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61157"
+  },
+  {
+    "gameId": 61158,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Santa Claria Jr Flyers 12BB",
+    "home": "Bakersfield Jr Condors 12BB",
+    "awayGoals": 4,
+    "homeGoals": 8,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61158"
+  },
+  {
+    "gameId": 61159,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Aliso Viejo Avalanche 10BB",
+    "home": "Bakersfield Jr Condors 10BB",
+    "awayGoals": 8,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61159"
+  },
+  {
+    "gameId": 61160,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County Hockey Club 12B",
+    "home": "Bakersfield Jr Condors 12B",
+    "awayGoals": 10,
+    "homeGoals": 1,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61160"
+  },
+  {
+    "gameId": 61161,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Santa Clarita Jr Flyers 10B2",
+    "home": "Coachella Vally Jr Firebirds 10B",
+    "awayGoals": 12,
+    "homeGoals": 2,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61161"
+  },
+  {
+    "gameId": 61162,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Empire Hockey Club 12BB",
+    "home": "Coachella Valley Jr Firebirds 12BB",
+    "awayGoals": 2,
+    "homeGoals": 5,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61162"
+  },
+  {
+    "gameId": 61163,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Bears 12A-1",
+    "home": "Mavericks Hockey Club 12A-2",
+    "awayGoals": 7,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61163"
+  },
+  {
+    "gameId": 61164,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County Hockey Club 12A-1",
+    "home": "California Wave 12A",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61164"
+  },
+  {
+    "gameId": 61165,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Saints 12BB",
+    "home": "California Wave 12BB",
+    "awayGoals": 11,
+    "homeGoals": 0,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61165"
+  },
+  {
+    "gameId": 61166,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Bears 10BB",
+    "home": "California Wave 10BB",
+    "awayGoals": 0,
+    "homeGoals": 4,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61166"
+  },
+  {
+    "gameId": 61168,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 10BB-3",
+    "home": "Santa Barbara Ice Hawks 10BB",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61168"
+  },
+  {
+    "gameId": 61169,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Lady Ducks 12AA",
+    "home": "Santa Barbara Ice Hawks 12B",
+    "awayGoals": 0,
+    "homeGoals": 12,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61169"
+  },
+  {
+    "gameId": 61170,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 10BB-1",
+    "home": "Anaheim Jr Ducks 10BB-2",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61170"
+  },
+  {
+    "gameId": 61171,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Mammoth Stars 12B",
+    "home": "Anaheim Jr Ducks 12B",
+    "awayGoals": 3,
+    "homeGoals": 11,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61171"
+  },
+  {
+    "gameId": 61172,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Santa Barbara Ice Hawks 14A",
+    "home": "Junior Ice Dogs 14A",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61172"
+  },
+  {
+    "gameId": 61173,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Goldrush Hockey Club 10A",
+    "home": "Anaheim Jr Ducks 10A-2",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61173"
+  },
+  {
+    "gameId": 61174,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Ventura Mariners 10B",
+    "home": "Anaheim Jr Ducks 10B",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61174"
+  },
+  {
+    "gameId": 61175,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Junior Ice Dogs 10B",
+    "home": "Aliso Viejo Avalanche 10B-1",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61175"
+  },
+  {
+    "gameId": 61176,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Pasadena Maple Leafs 12BB",
+    "home": "Aliso Viejo Avalanche 12BB",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61176"
+  },
+  {
+    "gameId": 61177,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Jr Gulls 14A-2",
+    "home": "Goldrush Hockey Club 14A-2",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61177"
+  },
+  {
+    "gameId": 61178,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 14A",
+    "home": "Goldrush Hockey Club 14A-1",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61178"
+  },
+  {
+    "gameId": 61181,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Aliso Viejo Avalanche 14A",
+    "home": "Empire Hockey Club 14A",
+    "awayGoals": 2,
+    "homeGoals": 15,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61181"
+  },
+  {
+    "gameId": 61182,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Ventura Mariners 14BB",
+    "home": "Empire Hockey Club 14BB",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61182"
+  },
+  {
+    "gameId": 61183,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Coachella Valley Jr Firebirds 10A",
+    "home": "Empire Hockey Club 10A",
+    "awayGoals": 4,
+    "homeGoals": 8,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61183"
+  },
+  {
+    "gameId": 61184,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County Hockey Club 10A-2",
+    "home": "Los Angeles Jr Kings 10A",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61184"
+  },
+  {
+    "gameId": 61185,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Empire Hockey Club 12B",
+    "home": "Los Angeles Jr Kings 12B",
+    "awayGoals": 7,
+    "homeGoals": 3,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61185"
+  },
+  {
+    "gameId": 61186,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Mammoth Stars 10BB",
+    "home": "Los Angeles Jr Kings 10B",
+    "awayGoals": 6,
+    "homeGoals": 7,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61186"
+  },
+  {
+    "gameId": 61187,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Wave 10B",
+    "home": "Los Angeles Lions 10B",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61187"
+  },
+  {
+    "gameId": 61188,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 12BB",
+    "home": "Los Angeles Lions 12AA",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61188"
+  },
+  {
+    "gameId": 61189,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Bay Harbor Red Wings 10BB",
+    "home": "California Bears 10B",
+    "awayGoals": 4,
+    "homeGoals": 4,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61189"
+  },
+  {
+    "gameId": 61190,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Jr Gulls 12A",
+    "home": "California Bears 12A-2",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61190"
+  },
+  {
+    "gameId": 61191,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Saints 10B",
+    "home": "San Diego Jr Gulls 10B",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "10U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61191"
+  },
+  {
+    "gameId": 61192,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County Hockey Club 14A-2",
+    "home": "San Diego Jr Gulls 14A-1",
+    "awayGoals": 2,
+    "homeGoals": 9,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61192"
+  },
+  {
+    "gameId": 61193,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Diego Jr Gulls 10BB",
+    "home": "Junior Reign 10BB",
+    "awayGoals": 11,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61193"
+  },
+  {
+    "gameId": 61194,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "SDIA Oilers 14A",
+    "home": "Junior Reign 14A",
+    "awayGoals": 5,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61194"
+  },
+  {
+    "gameId": 61195,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Bears 10A",
+    "home": "SDIA Oilers 10A",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61195"
+  },
+  {
+    "gameId": 61197,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Surf 12B",
+    "home": "Ventura Mariners 12B",
+    "awayGoals": 0,
+    "homeGoals": 11,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61197"
+  },
+  {
+    "gameId": 61198,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County Hockey Club 12A-2",
+    "home": "Ventura Mariners 12A",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61198"
+  },
+  {
+    "gameId": 61199,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Heat 14A",
+    "home": "Santa Clarita Jr Flyers 14A",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61199"
+  },
+  {
+    "gameId": 61200,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Anaheim Jr Ducks 14BB",
+    "home": "Santa Clarita Jr Flyers 14BB",
+    "awayGoals": 0,
+    "homeGoals": 0,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61200"
+  },
+  {
+    "gameId": 61201,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Bay Harbor Red Wings 100A",
+    "home": "Santa Clarita Jr Flyers 10A",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61201"
+  },
+  {
+    "gameId": 61202,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Santa Clarita Jr Flyers 12A",
+    "home": "Los Angeles Jr Kings 12A",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61202"
+  },
+  {
+    "gameId": 61203,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Los Angeles Jr Kings 10BB",
+    "home": "California Surf 10BB",
+    "awayGoals": 11,
+    "homeGoals": 2,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61203"
+  },
+  {
+    "gameId": 61204,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Coachella Valley Jr Firebirds 14B",
+    "home": "Orange County Hockey Club 14BB",
+    "awayGoals": 5,
+    "homeGoals": 3,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61204"
+  },
+  {
+    "gameId": 61798,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "California Surf 12A",
+    "home": "California Heat 12A",
+    "awayGoals": 3,
+    "homeGoals": 8,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61798"
+  },
+  {
+    "gameId": 61799,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Orange County Hockey Club 12BB-1",
+    "home": "California Heat 12BB",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61799"
+  },
+  {
     "gameId": 62270,
     "season": 33,
     "date": "2026-11-15",
@@ -119557,5 +120514,38 @@
     "homeGoals": 1,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64021"
+  },
+  {
+    "gameId": 64479,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Away",
+    "home": "San Jose Jr Sharks 16AA",
+    "awayGoals": 5,
+    "homeGoals": 6,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64479"
+  },
+  {
+    "gameId": 64483,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 12AAA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "12U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64483"
+  },
+  {
+    "gameId": 64486,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Goldrush Hockey Club Girls 16AA",
+    "home": "San Diego Angels 16AA",
+    "awayGoals": 12,
+    "homeGoals": 1,
+    "level": "Girls 16AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64486"
   }
 ]
