@@ -119306,6 +119306,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57448"
   },
   {
+    "gameId": 57449,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Cupertino Cougars 12AA",
+    "home": "Tri Valley Blue Devils 12AA-2",
+    "awayGoals": 4,
+    "homeGoals": 6,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57449"
+  },
+  {
     "gameId": 57569,
     "season": 33,
     "date": "2026-11-15",
@@ -119502,6 +119513,17 @@
     "homeGoals": 1,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62279"
+  },
+  {
+    "gameId": 63395,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Central Cathedral Jets",
+    "home": "Capistrano Coyotes",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "High School 2A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63395"
   },
   {
     "gameId": 64021,
