@@ -119394,6 +119394,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60132"
   },
   {
+    "gameId": 60133,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Mateo Black Stars 12BB",
+    "home": "San Jose Jr Sharks Girls 12AAA",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60133"
+  },
+  {
     "gameId": 60136,
     "season": 33,
     "date": "2026-11-15",
