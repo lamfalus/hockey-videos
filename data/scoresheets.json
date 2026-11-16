@@ -119284,6 +119284,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57447"
   },
   {
+    "gameId": 57448,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Santa Clara Blackhawks 10BB",
+    "home": "Tri Valley Lady Blue Devils 10BB",
+    "awayGoals": 6,
+    "homeGoals": 1,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57448"
+  },
+  {
     "gameId": 57569,
     "season": 33,
     "date": "2026-11-15",
@@ -119381,6 +119392,17 @@
     "homeGoals": 8,
     "level": "12U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60128"
+  },
+  {
+    "gameId": 60129,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "Stockton Colts 14A",
+    "home": "San Jose Jr Sharks 14A-1",
+    "awayGoals": 3,
+    "homeGoals": 1,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60129"
   },
   {
     "gameId": 60132,
