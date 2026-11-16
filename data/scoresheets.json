@@ -119218,6 +119218,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63579"
   },
   {
+    "gameId": 56383,
+    "season": 33,
+    "date": "2026-11-15",
+    "away": "San Jose Jr Sharks 14A-2",
+    "home": "Santa Rosa Flyers 14A",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56383"
+  },
+  {
     "gameId": 56522,
     "season": 33,
     "date": "2026-11-15",
