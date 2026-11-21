@@ -121924,6 +121924,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63610"
   },
   {
+    "gameId": 63611,
+    "season": 33,
+    "date": "2026-11-20",
+    "away": "Away",
+    "home": "Orange County OC Hockey (2) 14UAA 14AA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63611"
+  },
+  {
     "gameId": 64593,
     "season": 33,
     "date": "2026-11-29",
