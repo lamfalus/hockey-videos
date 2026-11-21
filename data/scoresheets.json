@@ -122067,6 +122067,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64518"
   },
   {
+    "gameId": 63215,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "San Jose Jr Sharks Girls 19AA",
+    "home": "San Jose Girls Varsity",
+    "awayGoals": 0,
+    "homeGoals": 13,
+    "level": "High School Girls Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63215"
+  },
+  {
     "gameId": 64593,
     "season": 33,
     "date": "2026-11-29",
