@@ -122540,6 +122540,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64542"
   },
   {
+    "gameId": 59477,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Lake Tahoe Grizzlies 10B",
+    "home": "Vacaville Jets 10B",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59477"
+  },
+  {
     "gameId": 60141,
     "season": 33,
     "date": "2026-11-22",
