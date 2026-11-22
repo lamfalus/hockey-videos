@@ -122782,6 +122782,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63034"
   },
   {
+    "gameId": 63602,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "San Jose Jr Sharks Girls 19AAA",
+    "home": "San Jose Girls Varsity",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "High School Girls Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63602"
+  },
+  {
     "gameId": 63603,
     "season": 33,
     "date": "2026-11-22",
@@ -122813,6 +122824,17 @@
     "homeGoals": 2,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64504"
+  },
+  {
+    "gameId": 64543,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Tri Valley Blue Devils 14BB",
+    "home": "Lake Tahoe Grizzlies 14BB",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64543"
   },
   {
     "gameId": 64769,
