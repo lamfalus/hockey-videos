@@ -122540,6 +122540,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64542"
   },
   {
+    "gameId": 60141,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Tri Valley Blue Devils 10A-2",
+    "home": "San Jose Jr Sharks 10A-2",
+    "awayGoals": 2,
+    "homeGoals": 6,
+    "level": "10U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60141"
+  },
+  {
     "gameId": 63603,
     "season": 33,
     "date": "2026-11-22",
@@ -122549,6 +122560,28 @@
     "homeGoals": 5,
     "level": "High School Girls Varsity",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63603"
+  },
+  {
+    "gameId": 63627,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "San Diego Jr Gulls 16AA",
+    "awayGoals": 3,
+    "homeGoals": 4,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63627"
+  },
+  {
+    "gameId": 64504,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "SDIA Oilers 16AA",
+    "awayGoals": 4,
+    "homeGoals": 2,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64504"
   },
   {
     "gameId": 64593,
