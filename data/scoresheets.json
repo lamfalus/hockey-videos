@@ -122650,6 +122650,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60141"
   },
   {
+    "gameId": 60143,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Lake Tahoe Grizzlies 10BB",
+    "home": "San Jose Jr Sharks 10BB-1",
+    "awayGoals": 3,
+    "homeGoals": 3,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60143"
+  },
+  {
     "gameId": 60155,
     "season": 33,
     "date": "2026-11-22",
