@@ -122540,6 +122540,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64542"
   },
   {
+    "gameId": 56526,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Cupertino Cougars 10B",
+    "home": "Capital Thunder 10B",
+    "awayGoals": 9,
+    "homeGoals": 3,
+    "level": "10U B East",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56526"
+  },
+  {
     "gameId": 56734,
     "season": 33,
     "date": "2026-11-22",
@@ -122549,6 +122560,17 @@
     "homeGoals": 1,
     "level": "12U B",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56734"
+  },
+  {
+    "gameId": 56921,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Cupertino Cougars 16A",
+    "home": "Reno Ice 16A",
+    "awayGoals": 1,
+    "homeGoals": 6,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56921"
   },
   {
     "gameId": 59477,
@@ -122615,6 +122637,17 @@
     "homeGoals": 2,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64504"
+  },
+  {
+    "gameId": 64769,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "San Jose Jr Sharks Girls 19AA",
+    "home": "San Jose Jr Sharks Girls 14AAA",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64769"
   },
   {
     "gameId": 64593,
