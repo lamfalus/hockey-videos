@@ -122133,6 +122133,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57388"
   },
   {
+    "gameId": 59374,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Away",
+    "home": "Santa Clara Blackhawks 14AA",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59374"
+  },
+  {
     "gameId": 63033,
     "season": 33,
     "date": "2026-11-21",
@@ -122153,6 +122164,17 @@
     "homeGoals": 2,
     "level": "Girls 16AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63058"
+  },
+  {
+    "gameId": 63214,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "San Jose Jr Sharks Girls 19AA",
+    "home": "San Jose Girls Varsity",
+    "awayGoals": 0,
+    "homeGoals": 10,
+    "level": "High School Girls Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63214"
   },
   {
     "gameId": 63215,
