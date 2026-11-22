@@ -122122,6 +122122,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63215"
   },
   {
+    "gameId": 64542,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Tri Valley Blue Devils 14BB",
+    "home": "Lake Tahoe Grizzlies 14BB",
+    "awayGoals": 9,
+    "homeGoals": 2,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64542"
+  },
+  {
     "gameId": 64593,
     "season": 33,
     "date": "2026-11-29",
