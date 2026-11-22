@@ -122067,6 +122067,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64518"
   },
   {
+    "gameId": 56439,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Stockton Colts Girls 10B",
+    "home": "Santa Rosa Flyers 10B",
+    "awayGoals": 6,
+    "homeGoals": 3,
+    "level": "10U B West",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56439"
+  },
+  {
     "gameId": 56656,
     "season": 33,
     "date": "2026-11-21",
@@ -122087,6 +122098,28 @@
     "homeGoals": 2,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56657"
+  },
+  {
+    "gameId": 56820,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Lake Tahoe Grizzlies 10BB",
+    "home": "San Francisco Sabercats 10BB",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "10U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56820"
+  },
+  {
+    "gameId": 56918,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Cupertino Cougars 16A",
+    "home": "Reno Ice 16A",
+    "awayGoals": 2,
+    "homeGoals": 2,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56918"
   },
   {
     "gameId": 57388,
