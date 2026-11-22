@@ -122133,6 +122133,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57388"
   },
   {
+    "gameId": 58916,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "San Jose Jr Sharks 14A-1",
+    "home": "Stockton Colts 14A",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "14U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58916"
+  },
+  {
     "gameId": 59374,
     "season": 33,
     "date": "2026-11-21",
@@ -122142,6 +122153,17 @@
     "homeGoals": 6,
     "level": "14U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59374"
+  },
+  {
+    "gameId": 60139,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "San Jose Jr Sharks 12AA-2",
+    "home": "San Jose Jr Sharks 12AA-3",
+    "awayGoals": 3,
+    "homeGoals": 12,
+    "level": "12U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60139"
   },
   {
     "gameId": 63033,
