@@ -122177,6 +122177,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57388"
   },
   {
+    "gameId": 57571,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Santa Rosa Flyers 14BB",
+    "home": "Fresno Jr Monsters 14BB",
+    "awayGoals": 2,
+    "homeGoals": 4,
+    "level": "14U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57571"
+  },
+  {
     "gameId": 58916,
     "season": 33,
     "date": "2026-11-21",
@@ -122252,6 +122263,17 @@
     "homeGoals": 13,
     "level": "High School Girls Varsity",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63215"
+  },
+  {
+    "gameId": 64010,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Los Angeles Lions 16AAA",
+    "home": "San Jose Jr Sharks Girls 19AAA",
+    "awayGoals": 1,
+    "homeGoals": 2,
+    "level": "Girls 19AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64010"
   },
   {
     "gameId": 64542,
