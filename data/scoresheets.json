@@ -122639,6 +122639,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60155"
   },
   {
+    "gameId": 60156,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Lake Tahoe Grizzlies 12BB",
+    "home": "Santa Clara Blackhawks 12BB",
+    "awayGoals": 11,
+    "homeGoals": 3,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60156"
+  },
+  {
     "gameId": 60157,
     "season": 33,
     "date": "2026-11-22",
@@ -122659,6 +122670,17 @@
     "homeGoals": 5,
     "level": "16U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63023"
+  },
+  {
+    "gameId": 63034,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "Los Angeles Jr Kings 18AAA 18AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63034"
   },
   {
     "gameId": 63603,
