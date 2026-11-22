@@ -122595,6 +122595,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57638"
   },
   {
+    "gameId": 58810,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "Anaheim Jr Ducks 16AAA",
+    "awayGoals": 0,
+    "homeGoals": 4,
+    "level": "16U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58810"
+  },
+  {
     "gameId": 58919,
     "season": 33,
     "date": "2026-11-22",
@@ -122637,6 +122648,17 @@
     "homeGoals": 7,
     "level": "10U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59478"
+  },
+  {
+    "gameId": 59479,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "San Jose Jr Sharks 16A-1",
+    "home": "Vacaville Jets 16A",
+    "awayGoals": 10,
+    "homeGoals": 0,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59479"
   },
   {
     "gameId": 60141,
