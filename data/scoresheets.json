@@ -122705,6 +122705,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60148"
   },
   {
+    "gameId": 60149,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "San Francisco Sabercats 16A",
+    "home": "San Jose Jr Sharks 16A-2",
+    "awayGoals": 6,
+    "homeGoals": 4,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60149"
+  },
+  {
     "gameId": 60155,
     "season": 33,
     "date": "2026-11-22",
@@ -122749,6 +122760,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60913"
   },
   {
+    "gameId": 61038,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Anaheim Lady Ducks 14AAA",
+    "home": "Los Angeles Lions 14AAA",
+    "awayGoals": 1,
+    "homeGoals": 5,
+    "level": "Girls 14AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61038"
+  },
+  {
     "gameId": 61860,
     "season": 33,
     "date": "2026-11-22",
@@ -122758,6 +122780,17 @@
     "homeGoals": 5,
     "level": "10U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61860"
+  },
+  {
+    "gameId": 62278,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Tri Valley Bulls 16AA",
+    "home": "Golden State Elite 16AA",
+    "awayGoals": 7,
+    "homeGoals": 5,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62278"
   },
   {
     "gameId": 63023,
