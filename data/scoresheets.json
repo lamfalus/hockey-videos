@@ -122826,6 +122826,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61860"
   },
   {
+    "gameId": 62271,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Oakland Bears 18AA",
+    "home": "San Jose Jr Sharks 18AA",
+    "awayGoals": 0,
+    "homeGoals": 6,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=62271"
+  },
+  {
     "gameId": 62278,
     "season": 33,
     "date": "2026-11-22",
