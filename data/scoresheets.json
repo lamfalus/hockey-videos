@@ -122540,6 +122540,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64542"
   },
   {
+    "gameId": 56385,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Vacaville Jets 12B",
+    "home": "Santa Rosa Flyers 12B",
+    "awayGoals": 12,
+    "homeGoals": 1,
+    "level": "12U B",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56385"
+  },
+  {
     "gameId": 56526,
     "season": 33,
     "date": "2026-11-22",
