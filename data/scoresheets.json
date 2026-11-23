@@ -122606,6 +122606,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57451"
   },
   {
+    "gameId": 57452,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Santa Clara Blackhawks 16A",
+    "home": "Tri Valley Blue Devils 16A",
+    "awayGoals": 1,
+    "homeGoals": 11,
+    "level": "16U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=57452"
+  },
+  {
     "gameId": 57638,
     "season": 33,
     "date": "2026-11-22",
