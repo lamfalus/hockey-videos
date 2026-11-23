@@ -122694,6 +122694,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60144"
   },
   {
+    "gameId": 60145,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "San Francisco Sabercats 12BB",
+    "home": "San Jose Jr Sharks Girls 12AAA",
+    "awayGoals": 1,
+    "homeGoals": 4,
+    "level": "12U BB",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=60145"
+  },
+  {
     "gameId": 60148,
     "season": 33,
     "date": "2026-11-22",
