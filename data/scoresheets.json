@@ -122331,6 +122331,39 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58992"
   },
   {
+    "gameId": 59283,
+    "season": 33,
+    "date": "2026-11-20",
+    "away": "Away",
+    "home": "SDIA Oilers 18AA",
+    "awayGoals": 2,
+    "homeGoals": 1,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59283"
+  },
+  {
+    "gameId": 59323,
+    "season": 33,
+    "date": "2026-11-20",
+    "away": "Away",
+    "home": "San Jose Jr. Sharks 18AAA",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59323"
+  },
+  {
+    "gameId": 59324,
+    "season": 33,
+    "date": "2026-11-20",
+    "away": "Away",
+    "home": "San Jose Jr. Sharks 18AAA",
+    "awayGoals": 1,
+    "homeGoals": 0,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59324"
+  },
+  {
     "gameId": 59372,
     "season": 33,
     "date": "2026-11-20",
@@ -122439,6 +122472,17 @@
     "homeGoals": 2,
     "level": "18U AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63032"
+  },
+  {
+    "gameId": 63545,
+    "season": 33,
+    "date": "2026-11-20",
+    "away": "Away",
+    "home": "Fairmont Girls HS",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "High School Girls Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63545"
   },
   {
     "gameId": 63592,
@@ -122578,8 +122622,8 @@
     "date": "2026-11-21",
     "away": "Reno Ice 14A",
     "home": "Capital Thunder 14A",
-    "awayGoals": 2,
-    "homeGoals": 2,
+    "awayGoals": 3,
+    "homeGoals": 5,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=56525"
   },
@@ -122747,6 +122791,39 @@
     "homeGoals": 2,
     "level": "14U A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58916"
+  },
+  {
+    "gameId": 59284,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Away",
+    "home": "SDIA Oilers 18AA",
+    "awayGoals": 1,
+    "homeGoals": 7,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59284"
+  },
+  {
+    "gameId": 59285,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Away",
+    "home": "SDIA Oilers 18AA",
+    "awayGoals": 3,
+    "homeGoals": 0,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59285"
+  },
+  {
+    "gameId": 59325,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Away",
+    "home": "San Jose Jr. Sharks 18AAA",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59325"
   },
   {
     "gameId": 59374,
@@ -123385,6 +123462,28 @@
     "homeGoals": 4,
     "level": "12U BB",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58919"
+  },
+  {
+    "gameId": 59286,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "SDIA Oilers 18AA",
+    "awayGoals": 6,
+    "homeGoals": 2,
+    "level": "18U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59286"
+  },
+  {
+    "gameId": 59326,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "San Jose Jr. Sharks 18AAA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "18U AAA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=59326"
   },
   {
     "gameId": 59396,
@@ -124287,6 +124386,17 @@
     "homeGoals": 4,
     "level": "Girls 14AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64769"
+  },
+  {
+    "gameId": 65178,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "Aliso Viejo Avalanche 14AA",
+    "awayGoals": 2,
+    "homeGoals": 3,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=65178"
   },
   {
     "gameId": 58847,
