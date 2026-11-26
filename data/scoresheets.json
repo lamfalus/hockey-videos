@@ -124641,6 +124641,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=61079"
   },
   {
+    "gameId": 63129,
+    "season": 33,
+    "date": "2026-11-26",
+    "away": "Away",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 5,
+    "homeGoals": 0,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63129"
+  },
+  {
     "gameId": 64593,
     "season": 33,
     "date": "2026-11-29",
