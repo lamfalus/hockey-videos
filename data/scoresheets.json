@@ -124751,6 +124751,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63869"
   },
   {
+    "gameId": 63870,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Tri-Valley Lady Blue Devils 12AAA",
+    "home": "Oakland Bears",
+    "awayGoals": 1,
+    "homeGoals": 1,
+    "level": "12U A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63870"
+  },
+  {
     "gameId": 64588,
     "season": 33,
     "date": "2026-11-27",
@@ -124771,6 +124782,17 @@
     "homeGoals": 3,
     "level": "14U AA/A",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64589"
+  },
+  {
+    "gameId": 64602,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "St John Bosco",
+    "home": "Junior Reign 18AA",
+    "awayGoals": 5,
+    "homeGoals": 1,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64602"
   },
   {
     "gameId": 64989,
