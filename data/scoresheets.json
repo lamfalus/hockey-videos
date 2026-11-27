@@ -113388,6 +113388,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63191"
   },
   {
+    "gameId": 63203,
+    "season": 33,
+    "date": "2026-10-24",
+    "away": "Away",
+    "home": "Desert Christian Academy",
+    "awayGoals": 0,
+    "homeGoals": 3,
+    "level": "High School 1A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63203"
+  },
+  {
     "gameId": 63208,
     "season": 33,
     "date": "2026-10-24",
@@ -122661,6 +122672,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64533"
   },
   {
+    "gameId": 65002,
+    "season": 33,
+    "date": "2026-11-20",
+    "away": "Away",
+    "home": "Desert Christian Academy",
+    "awayGoals": 0,
+    "homeGoals": 5,
+    "level": "High School 1A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=65002"
+  },
+  {
     "gameId": 65040,
     "season": 33,
     "date": "2026-11-20",
@@ -123222,6 +123244,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64542"
   },
   {
+    "gameId": 65003,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Away",
+    "home": "Desert Christian Academy",
+    "awayGoals": 3,
+    "homeGoals": 5,
+    "level": "High School 1A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=65003"
+  },
+  {
+    "gameId": 65004,
+    "season": 33,
+    "date": "2026-11-21",
+    "away": "Away",
+    "home": "Desert Christian Academy",
+    "awayGoals": 4,
+    "homeGoals": 0,
+    "level": "High School 1A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=65004"
+  },
+  {
     "gameId": 65041,
     "season": 33,
     "date": "2026-11-21",
@@ -123363,6 +123407,17 @@
     "homeGoals": 8,
     "level": "16U AA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58095"
+  },
+  {
+    "gameId": 58096,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Los Angeles Jr. Kings 14AA",
+    "home": "Bay Harbor Red Wings 14AA",
+    "awayGoals": 8,
+    "homeGoals": 1,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=58096"
   },
   {
     "gameId": 58097,
@@ -124595,6 +124650,17 @@
     "homeGoals": 4,
     "level": "Girls 14AAA",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64769"
+  },
+  {
+    "gameId": 65005,
+    "season": 33,
+    "date": "2026-11-22",
+    "away": "Away",
+    "home": "Desert Christian Academy",
+    "awayGoals": 3,
+    "homeGoals": 6,
+    "level": "High School 1A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=65005"
   },
   {
     "gameId": 65043,
