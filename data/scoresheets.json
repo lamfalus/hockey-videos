@@ -124740,6 +124740,28 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64813"
   },
   {
+    "gameId": 64588,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Junior Reign 14AA-2",
+    "home": "Orange County Hockey Club 14A-2",
+    "awayGoals": 6,
+    "homeGoals": 0,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64588"
+  },
+  {
+    "gameId": 64989,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Junior Reign 16AA-2",
+    "home": "Junior Reign 16AA-1",
+    "awayGoals": 11,
+    "homeGoals": 0,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64989"
+  },
+  {
     "gameId": 64593,
     "season": 33,
     "date": "2026-11-29",
