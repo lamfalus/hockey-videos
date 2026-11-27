@@ -124762,6 +124762,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64588"
   },
   {
+    "gameId": 64589,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Santa Clarita Jr. Flyers 14A",
+    "home": "Mavericks Hockey Club 14AA",
+    "awayGoals": 4,
+    "homeGoals": 3,
+    "level": "14U AA/A",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64589"
+  },
+  {
     "gameId": 64989,
     "season": 33,
     "date": "2026-11-27",
