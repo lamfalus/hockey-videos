@@ -124773,6 +124773,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=63874"
   },
   {
+    "gameId": 64492,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Anaheim Jr. Ducks 14AA",
+    "home": "Santa Clarita Jr. Flyers 14AA",
+    "awayGoals": 0,
+    "homeGoals": 2,
+    "level": "14U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64492"
+  },
+  {
     "gameId": 64537,
     "season": 33,
     "date": "2026-11-27",
@@ -124837,6 +124848,17 @@
     "homeGoals": 3,
     "level": "Midget/Varsity",
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64603"
+  },
+  {
+    "gameId": 64605,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Arizona Bucks",
+    "home": "St John Bosco",
+    "awayGoals": 1,
+    "homeGoals": 10,
+    "level": "Midget/Varsity",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64605"
   },
   {
     "gameId": 64821,
