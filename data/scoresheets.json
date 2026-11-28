@@ -124828,6 +124828,17 @@
     "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64596"
   },
   {
+    "gameId": 64597,
+    "season": 33,
+    "date": "2026-11-27",
+    "away": "Junior Reign 16AA-1",
+    "home": "California Surf 16AA",
+    "awayGoals": 0,
+    "homeGoals": 5,
+    "level": "16U AA",
+    "url": "https://stats.caha.timetoscore.com/generate-scorecard.php?game_id=64597"
+  },
+  {
     "gameId": 64602,
     "season": 33,
     "date": "2026-11-27",
